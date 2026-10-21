@@ -1,0 +1,2130 @@
+{
+  "MPA_01": "[MPA_01]",
+  "MPA_54": "[MPA_54]",
+  "MPA_03": "[MPA_03]",
+  "MPA_04": "[MPA_04]",
+  "MPA_05": "[MPA_05]",
+  "MPA_06": "[MPA_06]",
+  "MPA_07": "[MPA_07]",
+  "MPA_08": "[MPA_08]",
+  "MPA_09": "[MPA_09]",
+  "MPA_10": "[MPA_10]",
+  "MPA_11": "[MPA_11]",
+  "MPA_12": "[MPA_12]",
+  "MPA_13": "[MPA_13]",
+  "MPA_44": "[MPA_44]",
+  "MPA_45": "[MPA_45]",
+  "MPA_46": "[MPA_46]",
+  "MPA_15": "[MPA_15]",
+  "MPA_02": "[MPA_02]",
+  "MPA_16": "[MPA_16]",
+  "MPA_17": {
+    "TEXTO": "[MPA_17]",
+    "TABELA_001": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MPA_18": "[MPA_18]",
+  "MPA_19": "[MPA_19]",
+  "MPA_20": {
+    "TEXTO": "[MPA_20]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Atividades pesqueiras para cada campanha referente ao período selecionado."
+    },
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Variação do parâmetro escolhido ao longo do período selecionado."
+    },
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Variação dos parâmetros escolhidos ao longo do período selecionado."
+    }
+  },
+  "MPA_21": "[MPA_21]",
+  "MPA_22": {
+    "TEXTO": "[MPA_22]",
+    "TABELA_002": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de pescadores cadastrados",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Renda gerada por mês (R$)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Despesas mensais (R$)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Dependência econômica da pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de informativos gerados",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_003": {
+      "COLUNAS": 9,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Local de pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Condições climáticas durante a pesca",
+              "COLSPAN": 3
+            },
+            {
+              "TEXTO": "Temperatura (ºC)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de Pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo-Espécie",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de viagens por mês",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Local de pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classe d'água",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Vento",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Maré",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Temperatura (ºC)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de Pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo-Espécie",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de viagens por mês",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_004": {
+      "COLUNAS": 9,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Horas média por pescaria",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de embarcações cadastradas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de embarcação",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Petrechos utilizados",
+              "COLSPAN": 4
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Horas média por pescaria",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de embarcações cadastradas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de embarcação",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Rede de pesca",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Linhas e anzóis",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Armadilhas e apetrechos fixos",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Específicos",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_005": {
+      "COLUNAS": 8,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Espécie-alvo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de desembarques pesqueiros abordados",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Produção pesqueira (kg)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de descartes (peixes devolvidos)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ocorrência de captura acidental de espécies ameaçadas ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Observação de mudanças no estoque pesqueiro (aumento/diminuição das espécies) ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Presença de poluição na área de pesca (óleo, lixo, resíduos sólidos)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MPA_14": {
+    "TEXTO": "[MPA_14]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Mapeamento dos locais de pescas para o período selecionado."
+    }
+  },
+  "MPA_47": {
+    "TEXTO": "[MPA_47]",
+    "TABELA_006": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MPA_41": "[MPA_41]",
+  "MPA_42": "[MPA_42]",
+  "IMAGEM_COMPLEMENTAR_001_URL": ""
+}

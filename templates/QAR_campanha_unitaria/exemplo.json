@@ -1,0 +1,366 @@
+{
+  "QAR_01": "[QAR_01]",
+  "QAR_54": "[QAR_54]",
+  "QAR_03": "[QAR_03]",
+  "QAR_04": "[QAR_04]",
+  "QAR_05": "[QAR_05]",
+  "QAR_06": "[QAR_06]",
+  "QAR_07": "[QAR_07]",
+  "QAR_08": "[QAR_08]",
+  "QAR_09": "[QAR_09]",
+  "QAR_10": "[QAR_10]",
+  "QAR_11": "[QAR_11]",
+  "QAR_12": "[QAR_12]",
+  "QAR_13": "[QAR_13]",
+  "QAR_44": "[QAR_44]",
+  "QAR_45": "[QAR_45]",
+  "QAR_46": "[QAR_46]",
+  "QAR_15": "[QAR_15]",
+  "QAR_02": "[QAR_02]",
+  "QAR_14": "[QAR_14]",
+  "QAR_16": "[QAR_16]",
+  "QAR_17": "",
+  "QAR_24": "[QAR_24]",
+  "QAR_18": [
+    {
+      "PONTO": "[PONTO_1]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]"
+    },
+    {
+      "PONTO": "[PONTO_2]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]"
+    },
+    {
+      "PONTO": "[PONTO_3]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]"
+    },
+    {
+      "PONTO": "[PONTO_4]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]"
+    },
+    {
+      "PONTO": "[PONTO_5]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]"
+    }
+  ],
+  "QAR_19": [
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    }
+  ],
+  "QAR_20": {
+    "NOME_FANTASIA": "[NOME_FANTASIA]",
+    "RAZAO_SOCIAL": "[RAZAO_SOCIAL]",
+    "CNPJ": "[CNPJ]",
+    "ENDERECO": "[ENDERECO]",
+    "RESPONSAVEL": "[RESPONSAVEL]",
+    "EMAIL": "[EMAIL]",
+    "CONTATO": "[CONTATO]"
+  },
+  "QAR_22": "[QAR_22]",
+  "QAR_23": "[QAR_23]",
+  "QAR_21": "",
+  "QAR_25": "[QAR_25]",
+  "QAR_26": [
+    {
+      "TIPO": "[TIPO]",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    }
+  ],
+  "QAR_27": "[QAR_27]",
+  "QAR_28": {
+    "PARAMETROS": [
+      {
+        "NOME": "Material Particulado (MP10)",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Material Particulado (MP2,5)",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Dióxido de enxofre",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Dióxido de Nitrogênio",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Ozônio",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Fumaça",
+        "UNIDADE": "μg/mᶟ"
+      },
+      {
+        "NOME": "Monóxido de Carbono",
+        "UNIDADE": "ppm"
+      },
+      {
+        "NOME": "Partículas Totais em Suspensão",
+        "UNIDADE": "μg/mᶟ"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_6]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_7]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_8]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_9]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_10]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_11]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_12]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_13]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_14]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_15]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      }
+    ]
+  },
+  "QAR_29": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAR_31": "[QAR_31]",
+  "QAR_32": "[QAR_32]",
+  "QAR_30": "",
+  "QAR_33": [
+    {
+      "DATA": "[DATA]",
+      "DENSIDADE": "[DENSIDADE]",
+      "VEICULO": "[VEÍCULO]"
+    }
+  ],
+  "QAR_34": "",
+  "QAR_35": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "QAR_36": "[QAR_36]",
+  "QAR_37": "[QAR_37]",
+  "QAR_38": [
+    {
+      "TITULO": "[ANEXO]",
+      "TEXTO": "[DESCRIÇÃO]",
+      "URL": "",
+      "IMAGEM": ""
+    }
+  ]
+}

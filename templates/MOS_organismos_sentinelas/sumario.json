@@ -1,0 +1,134 @@
+[
+  {
+    "numero": "1",
+    "titulo": "Dados do empreendedor",
+    "bloco": 57,
+    "nivel": 1
+  },
+  {
+    "numero": "2",
+    "titulo": "Dados da empresa consultora",
+    "bloco": 65,
+    "nivel": 1
+  },
+  {
+    "numero": "3",
+    "titulo": "Introdução",
+    "bloco": 86,
+    "nivel": 1
+  },
+  {
+    "numero": "4",
+    "titulo": "Objetivos e justificativas",
+    "bloco": 90,
+    "nivel": 1
+  },
+  {
+    "numero": "5",
+    "titulo": "Legislação e outros requisitos",
+    "bloco": 99,
+    "nivel": 1
+  },
+  {
+    "numero": "6",
+    "titulo": "Metodologia",
+    "bloco": 106,
+    "nivel": 1
+  },
+  {
+    "numero": "6.1",
+    "titulo": "Campanha de monitoramento",
+    "bloco": 107,
+    "nivel": 2
+  },
+  {
+    "numero": "6.2",
+    "titulo": "Análise da qualidade da água",
+    "bloco": 119,
+    "nivel": 2
+  },
+  {
+    "numero": "6.2.1",
+    "titulo": "Parâmetros e periodicidade",
+    "bloco": 120,
+    "nivel": 3
+  },
+  {
+    "numero": "6.2.2",
+    "titulo": "Coletas semestrais",
+    "bloco": 129,
+    "nivel": 3
+  },
+  {
+    "numero": "6.2.3",
+    "titulo": "Coletas in situ",
+    "bloco": 144,
+    "nivel": 3
+  },
+  {
+    "numero": "6.3",
+    "titulo": "Parâmetros toxicológicos",
+    "bloco": 149,
+    "nivel": 2
+  },
+  {
+    "numero": "6.4",
+    "titulo": "Indicadores de desempenho",
+    "bloco": 157,
+    "nivel": 2
+  },
+  {
+    "numero": "7",
+    "titulo": "Resultados e discussões",
+    "bloco": 164,
+    "nivel": 1
+  },
+  {
+    "numero": "7.1",
+    "titulo": "Parâmetros orgânicos, físico-químicos",
+    "bloco": 172,
+    "nivel": 2
+  },
+  {
+    "numero": "7.2",
+    "titulo": "Monitoramento contínuo da água",
+    "bloco": 194,
+    "nivel": 2
+  },
+  {
+    "numero": "7.3",
+    "titulo": "Parâmetros de toxidade",
+    "bloco": 208,
+    "nivel": 2
+  },
+  {
+    "numero": "7.4",
+    "titulo": "Indicadores de Desempenho",
+    "bloco": 239,
+    "nivel": 2
+  },
+  {
+    "numero": "8",
+    "titulo": "Parecer Técnico",
+    "bloco": 246,
+    "nivel": 1
+  },
+  {
+    "numero": "9",
+    "titulo": "Medidas de Mitigação",
+    "bloco": 248,
+    "nivel": 1
+  },
+  {
+    "numero": "10",
+    "titulo": "Anexos",
+    "bloco": 250,
+    "nivel": 1
+  },
+  {
+    "numero": "11",
+    "titulo": "Lista de Referências",
+    "bloco": 252,
+    "nivel": 1
+  }
+]

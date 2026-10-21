@@ -1,0 +1,523 @@
+{
+  "origem": "1. ResiduosSolidos.docx",
+  "sha256": "a6b63cdbbd61bd4993c7dff692abf73eb500bccebc01693b131177c43d7fce58",
+  "campos": {
+    "PRS_01": {
+      "original": "[PRS_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_54": {
+      "original": "[PRS_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_03": {
+      "original": "[PRS_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_04": {
+      "original": "[PRS_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_51": {
+      "original": "[PRS_51]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_52": {
+      "original": "[PRS_52]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_05": {
+      "original": "[PRS_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_06": {
+      "original": "[PRS_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_07": {
+      "original": "[PRS_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_08": {
+      "original": "[PRS_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_09": {
+      "original": "[PRS_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_10": {
+      "original": "[PRS_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_11": {
+      "original": "[PRS_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_12": {
+      "original": "[PRS_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_13": {
+      "original": "[PRS_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_44": {
+      "original": "[PRS_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_45": {
+      "original": "[PRS_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_46": {
+      "original": "[PRS_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_15": {
+      "original": "[PRS_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_17": {
+      "original": "[PRS_17]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_18": {
+      "original": "[PRS_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 128,
+          "caminho": "PRS_18.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_19": {
+      "original": "[PRS_19]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 136,
+          "caminho": "PRS_19.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_20": {
+      "original": "[PRS_20]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_21": {
+      "original": "[PRS_21]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_22": {
+      "original": "[PRS_22]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_23": {
+      "original": "[PRS_23]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 140,
+          "caminho": "PRS_23.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_24": {
+      "original": "[PRS_24]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_25": {
+      "original": "[PRS_25]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_26": {
+      "original": "[PRS_26]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_30": {
+      "original": "[PRS_30]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_31": {
+      "original": "[PRS_31]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 148,
+          "caminho": "PRS_31.TABELA_006",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_27": {
+      "original": "[PRS_27]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_28": {
+      "original": "[PRS_28]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_29": {
+      "original": "[PRS_29]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 151,
+          "caminho": "PRS_29.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_32": {
+      "original": "[PRS_32]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_33": {
+      "original": "[PRS_33]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 158,
+          "caminho": "PRS_33.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_34": {
+      "original": "[PRS_34]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 163,
+          "caminho": "PRS_34.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_35": {
+      "original": "[PRS_35]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 167,
+          "caminho": "PRS_35.FIGURA_005",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_36": {
+      "original": "[PRS_36]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 173,
+          "caminho": "PRS_36.FIGURA_006",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_37": {
+      "original": "[PRS_37]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 177,
+          "caminho": "PRS_37.FIGURA_007",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_38": {
+      "original": "[PRS_38]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 184,
+          "caminho": "PRS_38.TABELA_007",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_39": {
+      "original": "[PRS_39]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 188,
+          "caminho": "PRS_39.TABELA_008",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_53": {
+      "original": "[PRS_53]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_40": {
+      "original": "[PRS_40]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 193,
+          "caminho": "PRS_40.FIGURA_008",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_41": {
+      "original": "[PRS_41]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 198,
+          "caminho": "PRS_41.FIGURA_009",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_42": {
+      "original": "[PRS_42]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 202,
+          "caminho": "PRS_42.FIGURA_010",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PRS_43": {
+      "original": "[PRS_43]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 210,
+          "caminho": "PRS_43.TABELA_009",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_47": {
+      "original": "[PRS_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 217,
+          "caminho": "PRS_47.TABELA_010",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_48": {
+      "original": "[PRS_48]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 224,
+          "caminho": "PRS_48.TABELA_011",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PRS_49": {
+      "original": "[PRS_49]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_50": {
+      "original": "[PRS_50]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "TABELAS": {
+      "original": "[TABELAS]",
+      "ocorrencias": [
+        {
+          "bloco": 100,
+          "caminho": "TABELAS.TABELA_001",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 114,
+          "caminho": "TABELAS.TABELA_002",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 120,
+          "caminho": "TABELAS.TABELA_003",
+          "tipo": "tabela"
+        }
+      ],
+      "type": "objeto"
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 100,
+      "tipo": "tabela",
+      "caminho": "TABELAS.TABELA_001",
+      "colunas": 2,
+      "linhas": 27
+    },
+    {
+      "bloco": 114,
+      "tipo": "tabela",
+      "caminho": "TABELAS.TABELA_002",
+      "colunas": 2,
+      "linhas": 6
+    },
+    {
+      "bloco": 120,
+      "tipo": "tabela",
+      "caminho": "TABELAS.TABELA_003",
+      "colunas": 2,
+      "linhas": 14
+    },
+    {
+      "bloco": 128,
+      "tipo": "tabela",
+      "caminho": "PRS_18.TABELA_004",
+      "colunas": 4,
+      "linhas": 3
+    },
+    {
+      "bloco": 136,
+      "tipo": "tabela",
+      "caminho": "PRS_19.TABELA_005",
+      "colunas": 4,
+      "linhas": 4
+    },
+    {
+      "bloco": 148,
+      "tipo": "tabela",
+      "caminho": "PRS_31.TABELA_006",
+      "colunas": 2,
+      "linhas": 5
+    },
+    {
+      "bloco": 184,
+      "tipo": "tabela",
+      "caminho": "PRS_38.TABELA_007",
+      "colunas": 3,
+      "linhas": 4
+    },
+    {
+      "bloco": 188,
+      "tipo": "tabela",
+      "caminho": "PRS_39.TABELA_008",
+      "colunas": 3,
+      "linhas": 4
+    },
+    {
+      "bloco": 210,
+      "tipo": "tabela",
+      "caminho": "PRS_43.TABELA_009",
+      "colunas": 3,
+      "linhas": 4
+    },
+    {
+      "bloco": 217,
+      "tipo": "tabela",
+      "caminho": "PRS_47.TABELA_010",
+      "colunas": 3,
+      "linhas": 4
+    },
+    {
+      "bloco": 224,
+      "tipo": "tabela",
+      "caminho": "PRS_48.TABELA_011",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId44"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId45"
+        }
+      ]
+    }
+  ],
+  "observacoes": [
+    "Fonte contém números de tabela repetidos. Legendas e referências textuais preservadas para revisão técnica, sem correção ambígua automática."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [
+      "IMAGEM_COMPLEMENTAR_001_URL"
+    ],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

@@ -1,0 +1,1760 @@
+{
+  "PCS_01": "[PCS_01]",
+  "PCS_54": "[PCS_54]",
+  "PCS_03": "[PCS_03]",
+  "PCS_04": "[PCS_04]",
+  "PCS_05": "[PCS_05]",
+  "PCS_06": "[PCS_06]",
+  "PCS_07": "[PCS_07]",
+  "PCS_08": "[PCS_08]",
+  "PCS_09": "[PCS_09]",
+  "PCS_10": "[PCS_10]",
+  "PCS_11": "[PCS_11]",
+  "PCS_12": "[PCS_12]",
+  "PCS_13": "[PCS_13]",
+  "PCS_44": "[PCS_44]",
+  "PCS_45": "[PCS_45]",
+  "PCS_46": "[PCS_46]",
+  "PCS_15": "[PCS_15]",
+  "PCS_02": "[PCS_02]",
+  "PCS_26": {
+    "TEXTO": "[PCS_26]",
+    "TABELA_001": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PCS_19": "[PCS_19]",
+  "PCS_20": "[PCS_20]",
+  "PCS_21": {
+    "TEXTO": "[PCS_21]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Atividades realizadas em cada campanha para o período selecionado."
+    }
+  },
+  "PCS_14": "[PCS_14]",
+  "PCS_16": {
+    "TEXTO": "[PCS_16]",
+    "TABELA_002": {
+      "COLUNAS": 5,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome da atividade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo da atividade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Data da realização",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de participantes",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Registro fotográfico",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_003": {
+      "COLUNAS": 8,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha/Data",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Sugestões recebidas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Sugestões atendidas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Queixas recebidas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Queixas atendidas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tempo de respostas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de acessos ao site",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de acessos as redes sociais",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_004": {
+      "COLUNAS": 8,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha/Data",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Publicações no site",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Publicações nas redes sociais",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de ligações recebidas na Ouvidoria Pública",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de e-mails recebidos na Ouvidoria Pública",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de denúncias recebidas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de visitantes",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de materiais impressos e distribuídos",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PCS_17": {
+    "TEXTO": "[PCS_17]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Porcentagem das categorias das atividades realizadas para o período selecionado."
+    }
+  },
+  "PCS_18": "[PCS_18]",
+  "PCS_47": {
+    "TEXTO": "[PCS_47]",
+    "TABELA_005": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PCS_41": "[PCS_41]",
+  "PCS_42": "[PCS_42]",
+  "FIGURAS": {
+    "TEXTO": "[FIGURAS]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Interações escolhidas para o período selecionado."
+    }
+  }
+}

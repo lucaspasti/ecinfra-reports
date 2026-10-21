@@ -1,0 +1,5048 @@
+{
+  "BAQ_01": "[BAQ_01]",
+  "BAQ_54": "[BAQ_54]",
+  "BAQ_39": "[BAQ_39]",
+  "BAQ_40": "[BAQ_40]",
+  "BAQ_41": "[BAQ_41]",
+  "BAQ_42": "[BAQ_42]",
+  "BAQ_05": "[BAQ_05]",
+  "BAQ_06": "[BAQ_06]",
+  "BAQ_07": "[BAQ_07]",
+  "BAQ_08": "[BAQ_08]",
+  "BAQ_09": "[BAQ_09]",
+  "BAQ_10": "[BAQ_10]",
+  "BAQ_11": "[BAQ_11]",
+  "BAQ_12": "[BAQ_12]",
+  "BAQ_13": "[BAQ_13]",
+  "BAQ_44": "[BAQ_44]",
+  "BAQ_45": "[BAQ_45]",
+  "BAQ_46": "[BAQ_46]",
+  "BAQ_15": "[BAQ_15]",
+  "BAQ_14": "[BAQ_14]",
+  "BAQ_17": {
+    "TEXTO": "[BAQ_17]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos pontos de monitoramento."
+    }
+  },
+  "BAQ_04": "[BAQ_04]",
+  "BAQ_18": {
+    "TEXTO": "[BAQ_18]",
+    "TABELA_001": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_02": "[BAQ_02]",
+  "BAQ_19": "[BAQ_19]",
+  "BAQ_20": "[BAQ_20]",
+  "BAQ_21": "[BAQ_21]",
+  "BAQ_22": "[BAQ_22]",
+  "BAQ_23": "[BAQ_23]",
+  "BAQ_24": "[BAQ_24]",
+  "BAQ_25": "[BAQ_25]",
+  "BAQ_26": "[BAQ_26]",
+  "BAQ_27": {
+    "TEXTO": "[BAQ_27]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Coletas quali-quantitativas da comunidade fitoplanctônica."
+    }
+  },
+  "BAQ_28": "[BAQ_28]",
+  "BAQ_29": {
+    "TEXTO": "[BAQ_29]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Registro da análise laboratorial por meio de microscópio."
+    }
+  },
+  "BAQ_30": {
+    "TEXTO": "[BAQ_30]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Coleta e análise realizada para a comunidade zooplânctonica."
+    }
+  },
+  "BAQ_31": {
+    "TEXTO": "[BAQ_31]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Coleta e análise realizada para a comunidade ictioplanctônica."
+    }
+  },
+  "BAQ_36": {
+    "TEXTO": "[BAQ_36]",
+    "TABELA_002": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetro",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_32": {
+    "TEXTO": "[BAQ_32]",
+    "TABELA_003": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Atributos/índices",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_33": {
+    "TEXTO": "[BAQ_33]",
+    "TABELA_004": {
+      "COLUNAS": 5,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_48": "[BAQ_48]",
+  "BAQ_49": "[BAQ_49]",
+  "BAQ_50": "[BAQ_50]",
+  "BAQ_51": {
+    "TEXTO": "[BAQ_51]",
+    "TABELA_005": {
+      "COLUNAS": 23,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Campanha x",
+              "COLSPAN": 22
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Campanha x",
+              "COLSPAN": 22
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Campanha x",
+              "COLSPAN": 22
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Campanha x",
+              "COLSPAN": 22
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Parâmetros ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "PX",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_34": "[BAQ_34]",
+  "BAQ_35": "[BAQ_35]",
+  "BAQ_37": {
+    "TEXTO": "[BAQ_37]",
+    "TABELA_006": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Densidade total (cél/ml)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BAQ_38": {
+    "TEXTO": "[BAQ_38]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Registros fotográficos de algumas espécies de algas planctônicas amostradas na área de influência do empreendimento."
+    }
+  },
+  "BAQ_43": "[BAQ_43]",
+  "BAQ_47": {
+    "TEXTO": "[BAQ_47]",
+    "TABELA_007": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_52": "[BAQ_52]",
+  "BAQ_53": "[BAQ_53]",
+  "BAQ_63": "[BAQ_63]",
+  "BAQ_55": {
+    "TEXTO": "[BAQ_55]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Principais espécies em termos de densidade total para o período avaliado."
+    }
+  },
+  "BAQ_56": {
+    "TEXTO": "[BAQ_56]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Riqueza da comunidade fitoplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_57": {
+    "TEXTO": "[BAQ_57]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 9. Densidade total da comunidade fitoplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_58": "[BAQ_58]",
+  "BAQ_59": "[BAQ_59]",
+  "BAQ_60": {
+    "TEXTO": "[BAQ_60]",
+    "FIGURA_010": {
+      "URL": "",
+      "TITULO": "Figura 10. Densidade total por ponto amostral para todo o período selecionado."
+    }
+  },
+  "BAQ_61": {
+    "TEXTO": "[BAQ_61]",
+    "FIGURA_011": {
+      "URL": "",
+      "TITULO": "Figura 11. Atributos calculados para os pontos amostrais considerando o período selecionado."
+    }
+  },
+  "BAQ_62": {
+    "TEXTO": "[BAQ_62]",
+    "FIGURA_012": {
+      "URL": "",
+      "TITULO": "Figura 12. Atributos calculados para as campanhas amostrais considerando o período selecionado."
+    }
+  },
+  "BAQ_101": {
+    "TEXTO": "[BAQ_101]",
+    "FIGURA_013": {
+      "URL": "",
+      "TITULO": "Figura 13. Análise de agrupamento da similaridade comparando a semelhança entre as campanhas na área de estudo – fitoplanctons."
+    }
+  },
+  "BAQ_64": "[BAQ_64]",
+  "BAQ_65": "[BAQ_65]",
+  "BAQ_66": "[BAQ_66]",
+  "BAQ_67": "[BAQ_67]",
+  "BAQ_68": "[BAQ_68]",
+  "BAQ_69": "[BAQ_69]",
+  "BAQ_70": {
+    "TEXTO": "[BAQ_70]",
+    "TABELA_008": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Densidade total (ind/m³)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BAQ_71": {
+    "TEXTO": "[BAQ_71]",
+    "FIGURA_014": {
+      "URL": "",
+      "TITULO": "Figura 14. Registros fotográficos de algumas espécies de zooplanctônicas amostradas na área de influência do empreendimento."
+    }
+  },
+  "BAQ_72": "[BAQ_72]",
+  "BAQ_73": {
+    "TEXTO": "[BAQ_73]",
+    "TABELA_009": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_74": "[BAQ_74]",
+  "BAQ_75": "[BAQ_75]",
+  "BAQ_76": "[BAQ_76]",
+  "BAQ_77": {
+    "TEXTO": "[BAQ_77]",
+    "FIGURA_015": {
+      "URL": "",
+      "TITULO": "Figura 15. Principais espécies em termos de densidade total para o período avaliado."
+    }
+  },
+  "BAQ_78": {
+    "TEXTO": "[BAQ_78]",
+    "FIGURA_016": {
+      "URL": "",
+      "TITULO": "Figura 16. Riqueza da comunidade zooplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_79": {
+    "TEXTO": "[BAQ_79]",
+    "FIGURA_017": {
+      "URL": "",
+      "TITULO": "Figura 17. Densidade total da comunidade zooplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_80": "[BAQ_80]",
+  "BAQ_81": "[BAQ_81]",
+  "BAQ_82": {
+    "TEXTO": "[BAQ_82]",
+    "FIGURA_018": {
+      "URL": "",
+      "TITULO": "Figura 18. Densidade total por ponto amostral para todo o período selecionado."
+    }
+  },
+  "BAQ_83": {
+    "TEXTO": "[BAQ_83]",
+    "FIGURA_019": {
+      "URL": "",
+      "TITULO": "Figura 19. Atributos calculados para os pontos amostrais considerando o período selecionado."
+    }
+  },
+  "BAQ_84": {
+    "TEXTO": "[BAQ_84]",
+    "FIGURA_020": {
+      "URL": "",
+      "TITULO": "Figura 20. Atributos calculados para as campanhas amostrais considerando o período selecionado."
+    }
+  },
+  "BAQ_102": {
+    "TEXTO": "[BAQ_102]",
+    "FIGURA_021": {
+      "URL": "",
+      "TITULO": "Figura 21. Análise de agrupamento da similaridade comparando a semelhança entre as campanhas na área de estudo – zooplanctons."
+    }
+  },
+  "BAQ_85": "[BAQ_85]",
+  "BAQ_86": "[BAQ_86]",
+  "BAQ_87": "[BAQ_87]",
+  "BAQ_88": "[BAQ_88]",
+  "BAQ_89": {
+    "TEXTO": "[BAQ_89]",
+    "TABELA_010": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Densidade total (org/10m³)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BAQ_90": {
+    "TEXTO": "[BAQ_90]",
+    "TABELA_011": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Densidade total (org/10m³)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BAQ_91": {
+    "TEXTO": "[BAQ_91]",
+    "FIGURA_022": {
+      "URL": "",
+      "TITULO": "Figura 22. Registros fotográficos de algumas espécies de ictioplanctônicas amostradas na área de influência do empreendimento."
+    }
+  },
+  "BAQ_92": "[BAQ_92]",
+  "BAQ_93": "[BAQ_93]",
+  "BAQ_94": {
+    "TEXTO": "[BAQ_94]",
+    "TABELA_012": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Larvas",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ovos",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_95": {
+    "TEXTO": "[BAQ_95]",
+    "FIGURA_023": {
+      "URL": "",
+      "TITULO": "Figura 23. Riqueza da comunidade ictioplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_96": {
+    "TEXTO": "[BAQ_96]",
+    "FIGURA_024": {
+      "URL": "",
+      "TITULO": "Figura 24. Densidade total da comunidade ictioplanctônica atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BAQ_97": {
+    "TEXTO": "[BAQ_97]",
+    "FIGURA_025": {
+      "URL": "",
+      "TITULO": "Figura 25. Densidade total por ponto amostral para todo o período selecionado."
+    }
+  },
+  "BAQ_103": {
+    "TEXTO": "[BAQ_103]",
+    "FIGURA_026": {
+      "URL": "",
+      "TITULO": "Figura 26. Análise de agrupamento da similaridade comparando a semelhança entre as campanhas na área de estudo – ictioplanctons."
+    }
+  },
+  "BAQ_100": {
+    "TEXTO": "[BAQ_100]",
+    "TABELA_013": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BAQ_98": "[BAQ_98]",
+  "BAQ_99": "[BAQ_99]",
+  "IMAGEM_COMPLEMENTAR_001_URL": "",
+  "IMAGEM_COMPLEMENTAR_002_URL": "",
+  "IMAGEM_COMPLEMENTAR_003_URL": ""
+}

@@ -1,0 +1,2722 @@
+{
+  "BIO_01": "[BIO_01]",
+  "BIO_54": "[BIO_54]",
+  "BIO_03": "[BIO_03]",
+  "BIO_04": "[BIO_04]",
+  "BIO_05": "[BIO_05]",
+  "BIO_06": "[BIO_06]",
+  "BIO_07": "[BIO_07]",
+  "BIO_08": "[BIO_08]",
+  "BIO_09": "[BIO_09]",
+  "BIO_10": "[BIO_10]",
+  "BIO_11": "[BIO_11]",
+  "BIO_12": "[BIO_12]",
+  "BIO_13": "[BIO_13]",
+  "BIO_44": "[BIO_44]",
+  "BIO_45": "[BIO_45]",
+  "BIO_46": "[BIO_46]",
+  "BIO_15": "[BIO_15]",
+  "BIO_14": "[BIO_14]",
+  "BIO_17": {
+    "TEXTO": "[BIO_17]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos pontos de monitoramento."
+    }
+  },
+  "BIO_18": {
+    "TEXTO": "[BIO_18]",
+    "TABELA_001": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classe Água CONAMA 357/2005",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_02": "[BIO_02]",
+  "BIO_19": {
+    "TEXTO": "[BIO_19]",
+    "TABELA_002": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_21": "[BIO_21]",
+  "BIO_22": {
+    "TEXTO": "[BIO_22]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Sonda multiparâmetro utilizada para os parâmetros determinados in situ."
+    }
+  },
+  "BIO_20": "[BIO_20]",
+  "BIO_23": "[BIO_23]",
+  "BIO_26": {
+    "TEXTO": "[BIO_26]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Garrafa amostradora utilizada nas amostragens de água."
+    }
+  },
+  "BIO_24": "[BIO_24]",
+  "BIO_25": "[BIO_25]",
+  "BIO_27": {
+    "TEXTO": "[BIO_27]",
+    "TABELA_003": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_28": "[BIO_28]",
+  "BIO_29": {
+    "TEXTO": "[BIO_29]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Equipamento amostrador de sedimentos utilizado na coleta de amostras."
+    }
+  },
+  "BIO_30": "[BIO_30]",
+  "BIO_31": "[BIO_31]",
+  "BIO_32": "[BIO_32]",
+  "BIO_33": "[BIO_33]",
+  "BIO_34": "[BIO_34]",
+  "BIO_35": "[BIO_35]",
+  "BIO_36": "[BIO_36]",
+  "BIO_37": {
+    "TEXTO": "[BIO_37]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Equipamento utilizado na disposição dos organismos na coluna d’água."
+    }
+  },
+  "BIO_38": "[BIO_38]",
+  "BIO_39": {
+    "TEXTO": "[BIO_39]",
+    "TABELA_004": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_40": "[BIO_40]",
+  "BIO_41": {
+    "TEXTO": "[BIO_41]",
+    "TABELA_005": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_42": "[BIO_42]",
+  "BIO_43": {
+    "TEXTO": "[BIO_43]",
+    "TABELA_006": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_47": {
+    "TEXTO": "[BIO_47]",
+    "TABELA_007": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_48": {
+    "TEXTO": "[BIO_48]",
+    "TABELA_008": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_49": "[BIO_49]",
+  "BIO_50": {
+    "TEXTO": "[BIO_50]",
+    "TABELA_009": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_51": {
+    "TEXTO": "[BIO_51]",
+    "TABELA_010": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_52": {
+    "TEXTO": "[BIO_52]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Média dos parâmetros biométricos por ponto amostral e campanha."
+    }
+  },
+  "BIO_53": {
+    "TEXTO": "[BIO_53]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Médias dos parâmetros biométricos para cada campanha amostral."
+    }
+  },
+  "BIO_55": "[BIO_55]",
+  "BIO_56": {
+    "TEXTO": "[BIO_56]",
+    "TABELA_011": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_57": {
+    "TEXTO": "[BIO_57]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Concentrações médias dos metais pesados obtidos por campanha amostral."
+    }
+  },
+  "BIO_58": "[BIO_58]",
+  "BIO_59": {
+    "TEXTO": "[BIO_59]",
+    "TABELA_012": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro 1",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Média",
+              "COLSPAN": 2
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BIO_60": {
+    "TEXTO": "[BIO_60]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 8. Concentrações médias dos parâmetros orgânicos obtidos por campanha amostral."
+    }
+  },
+  "BIO_62": {
+    "TEXTO": "[BIO_62]",
+    "TABELA_013": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BIO_61": "[BIO_61]"
+}

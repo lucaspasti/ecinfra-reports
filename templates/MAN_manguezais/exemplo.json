@@ -1,0 +1,3229 @@
+{
+  "MAN_01": "[MAN_01]",
+  "MAN_54": "[MAN_54]",
+  "MAN_03": "[MAN_03]",
+  "MAN_04": "[MAN_04]",
+  "MAN_05": "[MAN_05]",
+  "MAN_06": "[MAN_06]",
+  "MAN_07": "[MAN_07]",
+  "MAN_08": "[MAN_08]",
+  "MAN_09": "[MAN_09]",
+  "MAN_10": "[MAN_10]",
+  "MAN_11": "[MAN_11]",
+  "MAN_12": "[MAN_12]",
+  "MAN_13": "[MAN_13]",
+  "MAN_44": "[MAN_44]",
+  "MAN_45": "[MAN_45]",
+  "MAN_46": "[MAN_46]",
+  "MAN_15": "[MAN_15]",
+  "MAN_02": "[MAN_02]",
+  "MAN_14": "[MAN_14]",
+  "MAN_16": "[MAN_16]",
+  "MAN_17": {
+    "TEXTO": "[MAN_17]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos áreas de manguezais."
+    }
+  },
+  "MAN_18": {
+    "TEXTO": "[MAN_18]",
+    "TABELA_001": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Corpo Hídrico",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_19": {
+    "TEXTO": "[MAN_19]",
+    "TABELA_002": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Parâmetro",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Periodicidade",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_20": {
+    "TEXTO": "[MAN_20]",
+    "TABELA_003": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Satélite",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ano da Imagem",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução Espacial",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Fonte",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_50": "[MAN_50]",
+  "MAN_51": {
+    "TEXTO": "[MAN_51]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Registros fotográficos do monitoramento de campo."
+    }
+  },
+  "MAN_21": {
+    "TEXTO": "[MAN_21]",
+    "TABELA_004": {
+      "COLUNAS": 2,
+      "CABECALHO": [],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Fantasia",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Razão Social",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CNPJ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Endereço",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Responsável",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "E-mail",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Contato",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_22": "[MAN_22]",
+  "MAN_23": "[MAN_23]",
+  "MAN_24": {
+    "TEXTO": "[MAN_24]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Equipamento utilizado para medição da salinidade da água intersticial."
+    }
+  },
+  "MAN_25": "[MAN_25]",
+  "MAN_26": "[MAN_26]",
+  "MAN_27": {
+    "TEXTO": "[MAN_27]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Equipamento utilizado para coleta de amostra sedimento."
+    }
+  },
+  "MAN_28": "[MAN_28]",
+  "MAN_29": {
+    "TEXTO": "[MAN_29]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Equipamento utilizado no transporte das amostras."
+    }
+  },
+  "MAN_48": {
+    "TEXTO": "[MAN_48]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Distribuição e localização desses pontos de amostras de granulometria."
+    }
+  },
+  "MAN_30": "[MAN_30]",
+  "MAN_31": {
+    "TEXTO": "[MAN_31]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Indivíduo sentinela utilizado na análise."
+    }
+  },
+  "MAN_49": {
+    "TEXTO": "[MAN_49]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Distribuição e localização dos indivíduos sentinelas analisados."
+    }
+  },
+  "MAN_32": {
+    "TEXTO": "[MAN_32]",
+    "TABELA_005": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ICA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "IDG",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "IDG",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_33": {
+    "TEXTO": "[MAN_33]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 9. Variação da cobertura vegetal das áreas de manguezais registradas no período selecionado."
+    }
+  },
+  "MAN_34": "[MAN_34]",
+  "MAN_35": "[MAN_35]",
+  "MAN_52": {
+    "TEXTO": "[MAN_52]",
+    "TABELA_006": {
+      "COLUNAS": 9,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Científico",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nome Comum",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Família",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de indivíduos",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Frequência Relativa (%)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Composição Florística",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Densidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Altura Média das Árvores",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Regeneração Natural",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_53": {
+    "TEXTO": "[MAN_53]",
+    "TABELA_007": {
+      "COLUNAS": 5,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Científico",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nome Popular",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Família",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Portaria MMA 148/2022",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Categoria*",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_55": {
+    "TEXTO": "[MAN_55]",
+    "FIGURA_010": {
+      "URL": "",
+      "TITULO": "Figura 10. Quantidade de indivíduos registrados para período selecionado."
+    }
+  },
+  "MAN_38": "[MAN_38]",
+  "MAN_39": "[MAN_39]",
+  "MAN_40": {
+    "TEXTO": "[MAN_40]",
+    "FIGURA_011": {
+      "URL": "",
+      "TITULO": "Figura 11. Composição granulométrica dos pontos para o período selecionado."
+    }
+  },
+  "MAN_56": {
+    "TEXTO": "[MAN_56]",
+    "TABELA_008": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Salinidade da água intersticial",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_36": {
+    "TEXTO": "[MAN_36]",
+    "TABELA_009": {
+      "COLUNAS": 5,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nº de Micronúcleos/1000 Células",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Anormalidades Nucleares (%)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Viabilidade Celular (%) (Teste do Vermelho Neutro)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_37": {
+    "TEXTO": "[MAN_37]",
+    "FIGURA_012": {
+      "URL": "",
+      "TITULO": "Figura 12. Concentração dos parâmetros de toxidade para os pontos avaliados."
+    }
+  },
+  "MAN_47": {
+    "TEXTO": "[MAN_47]",
+    "TABELA_010": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "MAN_41": "[MAN_41]",
+  "MAN_42": "[MAN_42]",
+  "MAN_43": {
+    "TEXTO": "[MAN_43]",
+    "ANEXOS": [
+      {
+        "TITULO": "[MAN_43]",
+        "TEXTO": "",
+        "IMAGEM": "",
+        "URL": ""
+      }
+    ]
+  },
+  "IMAGEM_COMPLEMENTAR_001_URL": "",
+  "IMAGEM_COMPLEMENTAR_002_URL": ""
+}

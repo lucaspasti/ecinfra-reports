@@ -1,0 +1,85 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>0. Fauna Modelo.docx</title><style>
+    @page { size: A4; margin: 0; }
+    @page results-landscape { size: 420mm 297mm; margin: 0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #e5e7eb; color: #000; font: 12pt/1 Aptos, Calibri, Arial, sans-serif; }
+    .page { width: 210mm; height: 297mm; position: relative; margin: 24px auto; background: #fff; isolation: isolate; box-shadow: 0 2px 16px #0002; }
+    .letterhead { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
+    /* Oculta as marcas antigas do timbrado, incluindo S8 arq., e mantém EC infra. */
+    .logo-mask { position: absolute; left: 0; top: 0; width: 84.5mm; height: 18mm; background: #fff; }
+    .logo { position: absolute; left: 23.9mm; top: 2mm; width: 36.3mm; height: 14.4mm; object-fit: contain; }
+    .cover-content { position: absolute; inset: 25mm 30mm; text-align: center; }
+    p, h1 { margin: 0; font-size: inherit; font-weight: normal; }
+    .entrepreneur { position: absolute; top: 35.3mm; width: 100%; overflow-wrap: anywhere; }
+    .title-block { position: absolute; top: 84.7mm; width: 100%; }
+    h1 { line-height: 1.15; overflow-wrap: anywhere; }
+    .campaign { margin-top: 8pt; }
+    .date { position: absolute; top: 162.3mm; width: 100%; line-height: 1.2; overflow-wrap: anywhere; }
+    .footer { position: absolute; bottom: 0; left: 0; right: 0; padding: 2mm 7mm; background: #09505a; color: white; text-align: center; font-size: 6.8pt; line-height: 1.2; }
+    .page-number { position: absolute; right: 5mm; bottom: 2mm; font-size: 9pt; }
+    .summary-content { position: absolute; inset: 25mm 30mm; }
+    .summary-content h2 { margin: 0 0 12mm; color: #206b75; text-align: center; font-size: 16pt; line-height: 1.2; }
+    .summary-list { list-style: none; margin: 0; padding: 0; }
+    .summary-item { display: flex; align-items: baseline; gap: 2mm; margin-bottom: 8pt; line-height: 1.25; }
+    .summary-subsection { padding-left: 7.5mm; }
+    .summary-label { max-width: 132mm; }
+    .summary-leader { flex: 1; min-width: 3mm; border-bottom: 1px dotted currentColor; }
+    .summary-page { min-width: 5mm; text-align: right; }
+    .report-content { position: absolute; inset: 25mm 30mm; line-height: 1.25; overflow-wrap: anywhere; }
+    .report-content h2 { margin: 0 0 8pt; color: #206b75; font-size: 16pt; line-height: 1.2; }
+    .report-content p { margin: 0 0 8pt; }
+    .report-content section + section { margin-top: 10mm; }
+    .narrative { line-height: 1; text-align: justify; }
+    .narrative p { margin-bottom: 8pt; }
+    .narrative .following-heading { margin-top: 12pt; }
+    .report-content h3 { margin: 12pt 0 8pt; color: #206b75; font-size: 14pt; line-height: 1.2; }
+    .report-figure { margin: 12pt 0; break-inside: avoid; }
+    .caption { font-size: 10pt; line-height: 1.2; text-align: left; margin-bottom: 5pt; }
+    .map-image { display: block; width: 100%; height: 82mm; object-fit: contain; }
+    .map-placeholder { height: 82mm; display: flex; align-items: center; justify-content: center; border: 1px solid #aaa; background: #f7f9f9; color: #555; font-size: 11pt; }
+    .report-content .source { font-size: 9pt; line-height: 1.2; margin: 4pt 0 10pt; text-align: left; }
+    .report-table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.2; text-align: center; }
+    .report-table th, .report-table td { border: 1px solid #899c9f; padding: 5pt; overflow-wrap: anywhere; background: #fff; color: #000; }
+    .report-table th { font-weight: bold; }
+    .landscape { width: 420mm; page: results-landscape; }
+    .landscape .report-content { inset: 30mm 25mm; }
+    .results-table { table-layout: fixed; font-size: 7pt; line-height: 1; }
+    .results-table th, .results-table td { padding: 0.5pt 2pt; }
+    .results-table .point-column { width: 16mm; }
+    .results-table .depth-column { width: 23mm; }
+    .chart-image { display: block; width: 100%; height: 78mm; object-fit: contain; }
+    .chart-placeholder { height: 78mm; }
+    .variable-text { white-space: pre-line; }
+    .annex-image { display: block; max-width: 100%; max-height: 190mm; object-fit: contain; margin: 8pt auto; }
+    .references p { font-size: 10pt; line-height: 1.15; text-align: left; }
+    .report-content > h3:first-child { margin-top: 0; }
+    @media print {
+      body { background: white; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      .page { margin: 0; box-shadow: none; break-after: page; }
+      .page:last-child { break-after: auto; }
+    }
+    .landscape .letterhead { width: 210mm; object-fit: fill; }
+    .landscape::before { content: ''; position: absolute; top: 3.5mm; left: 120mm; right: 0; height: 12mm; background: #329eab; z-index: -1; }
+    .landscape .logo-mask { width: 84.5mm !important; }
+    .results-table { font-size: 8pt; line-height: 1.15; }
+    .results-table th, .results-table td { padding: 4pt 2pt; }
+    .landscape .chart-image, .landscape .chart-placeholder { height: 175mm; }
+  
+.summary-item { margin-bottom: 6pt; font-size: 11pt; }
+.results-table { font-size: 9pt; line-height: 1.2; }
+.results-table td,.results-table th { padding: 5pt 3pt; }
+.equipment-image,.equipment-placeholder { height: 43mm; }
+.landscape .letterhead { width: 210mm; }
+
+.results-table {font-size:8pt;line-height:1.15;} .results-table th,.results-table td {padding:4pt 2pt;} .equipment-image,.equipment-placeholder {height:47mm;}
+
+@page a4-horizontal {size:297mm 210mm;margin:0} .a4-horizontal {width:297mm;height:210mm;page:a4-horizontal}
+.a4-horizontal .report-content {inset:25mm 25mm} .report-content {line-height:1.2} .report-content p {white-space:pre-line;text-align:justify}
+.report-content h4,.report-content h5 {color:#206b75;margin:10pt 0 7pt;font-size:12pt;line-height:1.2}
+.report-table {table-layout:fixed;font-size:9pt;margin:8pt 0;line-height:1.15} .report-table caption {font-size:10pt;text-align:left;margin-bottom:5pt;color:#000}
+.report-table td,.report-table th {padding:4pt 3pt;white-space:pre-line} .report-table.wide {font-size:7pt} .report-table.wide td,.report-table.wide th {padding:3pt 2pt}
+.report-figure {margin:8pt 0} .report-figure img {display:block;width:100%;height:60mm;object-fit:contain} .placeholder {height:60mm;display:flex;align-items:center;justify-content:center;border:1px solid #aaa;font-size:10pt;color:#555}
+.source {font-size:9pt!important} .summary-item {font-size:10pt;margin-bottom:4pt} .summary-label {max-width:130mm} .summary-content h2 {margin-bottom:6mm}
+.inline-source-image {display:block;max-width:100%;max-height:45mm;object-fit:contain;margin:5pt auto} .report-content > :first-child {margin-top:0}
+.report-content > .cover-content {inset:0}.report-content .cover-content p {text-align:center}</style></head><body><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><div class="cover-content"><p class="entrepreneur">[PRS_01]</p><div class="title-block"><h1>Relatório [PRS_54] de Monitoramento da XXXX</h1><p class="campaign">[PRS_03]/[PRS_04]</p></div><p class="date">[PRS_05], [PRS_06] de [PRS_07] de [PRS_08].</p></div></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page summary"><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2>SUMÁRIO</h2><div class="summary-item" style="padding-left:0mm"><span class="summary-label">1. Dados do empreendedor</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">2. Dados da empresa consultora</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">3. Objetivos e justificativas</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">4. Metodologia</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">5. Resultados e discussões</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">6. Parecer Técnico</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">7. Considerações Finais</span><span class="summary-leader"></span><span class="summary-page"></span></div><div class="summary-item" style="padding-left:0mm"><span class="summary-label">8. Lista de Referências</span><span class="summary-leader"></span><span class="summary-page"></span></div></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-1">1. Dados do empreendedor</h2><p data-source-block="63" class="">Empreendedor: [PRS_01]</p><p data-source-block="64" class="">Razão social: [PRS_09] </p><p data-source-block="65" class="">CNPJ: [PRS_10]</p><p data-source-block="66" class="">Endereço: [PRS_11]</p><p data-source-block="67" class="">Endereço eletrônico: [PRS_12]</p><p data-source-block="68" class="">Nº Licença de Operação: [PRS_13]</p></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-2">2. Dados da empresa consultora</h2><p data-source-block="71" class="">Nome: EC Projetos </p><p data-source-block="72" class="">Razão Social: Eagle Consultoria Econômica e de engenharia LTDA.</p><p data-source-block="73" class="">CNPJ: 17.940.831/0001-46</p><p data-source-block="74" class="">Endereço: R. Lauro Linhares, 2123 - sala 508 - Trindade, Florianópolis - SC, 88036-003.</p><p data-source-block="75" class="">Endereço eletrônico: https://ecprojetos.com.br/en/home/</p><p data-source-block="76" class="">Responsável técnico: [PRS_44]</p><p data-source-block="77" class="">Registro CREA: [PRS_45]</p><p data-source-block="78" class="">Registro CTF/IBAMA: [PRS_46]</p></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-3">3. Objetivos e justificativas</h2><p data-source-block="92" class="">O presente relatório [PRS_54] refere-se ao acompanhamento da gestão de resíduos sólidos gerados nas atividades de operação do [PRS_01]. O acompanhamento dos resíduos sólidos está vinculado à Licença de Operação (LO) nº [PRS_13], emitida pelo [PRS_15] sendo parte integrante do Programa de Gerenciamento de Resíduos Sólidos da referida licença. </p><p data-source-block="93" class="">À vista disso, este relatório visa atender as diretrizes propostas no Programa de Gerenciamento de Resíduos Sólidos (PGRS) do [QAR_01], permitindo a divulgação dos resultados quantitativos dos resíduos gerados para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se: </p><p data-source-block="94" class="">Apresentar e interpretar os resultados referentes aos dados quantitativos (inventário) de resíduos sólidos gerados no [PRS_01] na campanha de monitoramento de [PRS_03] de [PRS_04], de acordo com a legislação aplicável.</p><p data-source-block="95" class="">Apresentar e interpretar os resultados referentes aos dados qualitativos (registros fotográficos) de resíduos sólidos gerados no [PRS_01] na campanha de monitoramento de [PRS_03] de [PRS_04].</p><p data-source-block="96" class="">Avaliar a eficácia do Programa de Gerenciamento de Resíduos Sólidos por meio da determinação e discussão dos indicadores de desempenho ambiental, propostos nos moldes da Associação Brasileira de Normas Técnicas (ABNT) NBR ISO 14.031/2015. </p><p data-source-block="97" class="">Elaborar parecer técnico sobre a gestão de resíduos sólidos, identificando eventuais não conformidades e propondo ações corretivas para garantir o cumprimento das normativas vigentes.  
+</p></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-4">4. Metodologia</h2></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-5">5. Resultados e discussões</h2></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-6">6. Parecer Técnico</h2></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-7">7. Considerações Finais</h2></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main><main class="page "><img class="logo" src="file:&#x2F;&#x2F;&#x2F;C:&#x2F;Users&#x2F;PICHAU&#x2F;report&#x2F;templates&#x2F;_shared&#x2F;assets/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC"><div class="report-content"><h2 id="sec-8">8. Lista de Referências</h2></div><footer class="footer">EC Projetos | contato@ecprojetos.com.br | www.ecprojetos.com.br<span class="page-number"></span></footer></main></body></html>

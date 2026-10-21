@@ -1,0 +1,4 @@
+interface:
+  display_name: "Templates de relatórios DOCX"
+  short_description: "DOCX para HTML Mustache e PDF com validação visual"
+  default_prompt: "Use $docx-report-template para converter este relatório DOCX em um template HTML Mustache único e gerar o PDF para validação."

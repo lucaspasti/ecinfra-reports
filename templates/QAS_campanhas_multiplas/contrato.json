@@ -1,0 +1,452 @@
+{
+  "origem": "2. QualidadeAguaSuperficial_MultiplasCampanhas.docx",
+  "decisoes": [
+    "HTML Mustache único, com estilos incorporados e imagens por endereço.",
+    "Timbrado EC infra; marca antiga S8 arq. omitida conforme padrão aprovado.",
+    "Tabelas brancas com texto preto.",
+    "Numeração corrigida para incluir Introdução; sumário calculado após paginação.",
+    "A4 vertical; tabelas 5 e 9 e figuras 6, 7 e 8 em A3 horizontal conforme seções do DOCX.",
+    "Percentuais e médias recebidos nos dados, sem cálculos científicos no template."
+  ],
+  "campos": {
+    "QAG_01": {
+      "marcadorOriginal": "[QAG_01]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_01]",
+        "Empreendedor: [QAG_01]",
+        "O presente relatório [QAG_54] refere-se ao monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01]. O monitoramento da qualidade da água está vinculado à Licença de Operação (LO) nº [QAG_13], emitida pelo [QAG_15] sendo parte integrante do Programa de Monitoramento da Qualidade da Água da referida licença.",
+        "À vista disso, este relatório visa atender as diretrizes propostas no Programa de Qualidade da Água do [QAG_01], permitindo a divulgação dos resultados quantitativos das águas superficiais na região para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se:",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água das campanhas realizadas entre [QAG_50]/[QAG_51] e [QAG_52]/[QAG_53] na área de influência do [QAG_01], de acordo com a legislação aplicável.",
+        "O monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01] acontece de modo [QAG_02] em [QAG_14] pontos amostrais, distribuídos em diferentes áreas da [QAG_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados.",
+        "Os parâmetros utilizados na determinação da qualidade da água superficial na região de influência do [QAG_01] constam resumidos na Tabela 2. Os parâmetros utilizados baseiam-se no Programa de Qualidade da Água do empreendimento, os quais apresentam diferentes VMPs, de acordo com a classe do corpo hídrico.",
+        "A coleta, preservação, transporte e análise das amostras de água superficial da área de influência do [QAG_01] foi realizada por laboratório contratado. As informações a respeito do laboratório podem ser observadas na Tabela 3.",
+        "De modo a avaliar a eficácia do Programa de Qualidade de Água do [QAG_01], são determinados indicadores de desempenho ambiental, propostos nos moldes da ABNT NBR ISSO 14.031/2015. Os indicadores avaliados constam resumidos na Tabela 4, sendo agrupados em Indicadores de Condição Ambiental (ICA), Indicadores de Desempenho Operacional (IDO) e Indicadores de Desempenho Gerencial (IDG)."
+      ]
+    },
+    "QAG_54": {
+      "marcadorOriginal": "[QAG_54]",
+      "tipo": "texto",
+      "contextos": [
+        "Relatório [QAG_54] de Monitoramento da Qualidade da Água Superficial",
+        "O presente relatório [QAG_54] refere-se ao monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01]. O monitoramento da qualidade da água está vinculado à Licença de Operação (LO) nº [QAG_13], emitida pelo [QAG_15] sendo parte integrante do Programa de Monitoramento da Qualidade da Água da referida licença.",
+        "O presente relatório [QAG_54] está pautado em legislações e outros requisitos legais voltados ao monitoramento de qualidade da água em instalações portuárias, conforme segue:"
+      ]
+    },
+    "QAG_50": {
+      "marcadorOriginal": "[QAG_50]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_50]/[QAG_51] - [QAG_52]/[QAG_53]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água das campanhas realizadas entre [QAG_50]/[QAG_51] e [QAG_52]/[QAG_53] na área de influência do [QAG_01], de acordo com a legislação aplicável."
+      ]
+    },
+    "QAG_51": {
+      "marcadorOriginal": "[QAG_51]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_50]/[QAG_51] - [QAG_52]/[QAG_53]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água das campanhas realizadas entre [QAG_50]/[QAG_51] e [QAG_52]/[QAG_53] na área de influência do [QAG_01], de acordo com a legislação aplicável."
+      ]
+    },
+    "QAG_52": {
+      "marcadorOriginal": "[QAG_52]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_50]/[QAG_51] - [QAG_52]/[QAG_53]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água das campanhas realizadas entre [QAG_50]/[QAG_51] e [QAG_52]/[QAG_53] na área de influência do [QAG_01], de acordo com a legislação aplicável."
+      ]
+    },
+    "QAG_53": {
+      "marcadorOriginal": "[QAG_53]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_50]/[QAG_51] - [QAG_52]/[QAG_53]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água das campanhas realizadas entre [QAG_50]/[QAG_51] e [QAG_52]/[QAG_53] na área de influência do [QAG_01], de acordo com a legislação aplicável."
+      ]
+    },
+    "QAG_05": {
+      "marcadorOriginal": "[QAG_05]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_05], [QAG_06] de [QAG_07] de [QAG_08]."
+      ]
+    },
+    "QAG_06": {
+      "marcadorOriginal": "[QAG_06]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_05], [QAG_06] de [QAG_07] de [QAG_08]."
+      ]
+    },
+    "QAG_07": {
+      "marcadorOriginal": "[QAG_07]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_05], [QAG_06] de [QAG_07] de [QAG_08]."
+      ]
+    },
+    "QAG_08": {
+      "marcadorOriginal": "[QAG_08]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_05], [QAG_06] de [QAG_07] de [QAG_08]."
+      ]
+    },
+    "QAG_09": {
+      "marcadorOriginal": "[QAG_09]",
+      "tipo": "texto",
+      "contextos": [
+        "Razão social: [QAG_09]"
+      ]
+    },
+    "QAG_10": {
+      "marcadorOriginal": "[QAG_10]",
+      "tipo": "texto",
+      "contextos": [
+        "CNPJ: [QAG_10]"
+      ]
+    },
+    "QAG_11": {
+      "marcadorOriginal": "[QAG_11]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço: [QAG_11]"
+      ]
+    },
+    "QAG_12": {
+      "marcadorOriginal": "[QAG_12]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço eletrônico: [QAG_12]"
+      ]
+    },
+    "QAG_13": {
+      "marcadorOriginal": "[QAG_13]",
+      "tipo": "texto",
+      "contextos": [
+        "Nº Licença de Operação: [QAG_13]",
+        "O presente relatório [QAG_54] refere-se ao monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01]. O monitoramento da qualidade da água está vinculado à Licença de Operação (LO) nº [QAG_13], emitida pelo [QAG_15] sendo parte integrante do Programa de Monitoramento da Qualidade da Água da referida licença."
+      ]
+    },
+    "QAG_44": {
+      "marcadorOriginal": "[QAG_44]",
+      "tipo": "texto",
+      "contextos": [
+        "Responsável técnico: [QAG_44]"
+      ]
+    },
+    "QAG_45": {
+      "marcadorOriginal": "[QAG_45]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CREA: [QAG_45]"
+      ]
+    },
+    "QAG_46": {
+      "marcadorOriginal": "[QAG_46]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CTF/IBAMA: [QAG_46]"
+      ]
+    },
+    "QAG_15": {
+      "marcadorOriginal": "[QAG_15]",
+      "tipo": "texto",
+      "contextos": [
+        "O presente relatório [QAG_54] refere-se ao monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01]. O monitoramento da qualidade da água está vinculado à Licença de Operação (LO) nº [QAG_13], emitida pelo [QAG_15] sendo parte integrante do Programa de Monitoramento da Qualidade da Água da referida licença."
+      ]
+    },
+    "QAG_02": {
+      "marcadorOriginal": "[QAG_02]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01] acontece de modo [QAG_02] em [QAG_14] pontos amostrais, distribuídos em diferentes áreas da [QAG_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados."
+      ]
+    },
+    "QAG_14": {
+      "marcadorOriginal": "[QAG_14]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01] acontece de modo [QAG_02] em [QAG_14] pontos amostrais, distribuídos em diferentes áreas da [QAG_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados.",
+        "Relativo aos metais pesados, a Tabela 7 traz os resultados obtidos para os elementos selecionados [QAG_33] nos [QAG_14] pontos amostrais frente ao percentual de inconformidades para cada campanha amostral."
+      ]
+    },
+    "QAG_16": {
+      "marcadorOriginal": "[QAG_16]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade da água superficial na área de influência das atividades de operação do [QAG_01] acontece de modo [QAG_02] em [QAG_14] pontos amostrais, distribuídos em diferentes áreas da [QAG_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados."
+      ]
+    },
+    "QAG_17": {
+      "marcadorOriginal": "[QAG_17]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAG_17]"
+      ]
+    },
+    "QAG_04": {
+      "marcadorOriginal": "[QAG_04]",
+      "tipo": "texto",
+      "contextos": [
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04]).",
+        "Fonte: QAG_01 ([QAG_04])."
+      ]
+    },
+    "QAG_18": {
+      "marcadorOriginal": "[QAG_18]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_18]"
+      ]
+    },
+    "QAG_19": {
+      "marcadorOriginal": "[QAG_19]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_19]"
+      ]
+    },
+    "QAG_20": {
+      "marcadorOriginal": "[QAG_20]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAG_20]"
+      ]
+    },
+    "QAG_21": {
+      "marcadorOriginal": "[QAG_21]",
+      "tipo": "texto",
+      "contextos": [
+        "Em relação às coletas de amostras, alguns parâmetros são determinados in situ por meio de sonda multiparâmetro, a saber: [QAG_21]. A Figura 2 exibe registro da multisonda utilizada durante a coleta."
+      ]
+    },
+    "QAG_22": {
+      "marcadorOriginal": "[QAG_22]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAG_22]"
+      ]
+    },
+    "QAG_30": {
+      "marcadorOriginal": "[QAG_30]",
+      "tipo": "texto",
+      "contextos": [
+        "Já os demais parâmetros são determinados em laboratório e, para isso, é necessária a coleta de amostras em recipientes adequados. As amostragens são realizadas nas seguintes profundidades: [QAG_30], através do uso de [QAG_62] (Figura 3). As amostras são transferidas para [QAG_63], os quais são previamente etiquetados com identificação do ponto amostral, referência de parâmetros a serem analisados, data e hora de cada coleta."
+      ]
+    },
+    "QAG_62": {
+      "marcadorOriginal": "[QAG_62]",
+      "tipo": "texto",
+      "contextos": [
+        "Já os demais parâmetros são determinados em laboratório e, para isso, é necessária a coleta de amostras em recipientes adequados. As amostragens são realizadas nas seguintes profundidades: [QAG_30], através do uso de [QAG_62] (Figura 3). As amostras são transferidas para [QAG_63], os quais são previamente etiquetados com identificação do ponto amostral, referência de parâmetros a serem analisados, data e hora de cada coleta."
+      ]
+    },
+    "QAG_63": {
+      "marcadorOriginal": "[QAG_63]",
+      "tipo": "texto",
+      "contextos": [
+        "Já os demais parâmetros são determinados em laboratório e, para isso, é necessária a coleta de amostras em recipientes adequados. As amostragens são realizadas nas seguintes profundidades: [QAG_30], através do uso de [QAG_62] (Figura 3). As amostras são transferidas para [QAG_63], os quais são previamente etiquetados com identificação do ponto amostral, referência de parâmetros a serem analisados, data e hora de cada coleta."
+      ]
+    },
+    "QAG_23": {
+      "marcadorOriginal": "[QAG_23]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAG_23]"
+      ]
+    },
+    "QAG_24": {
+      "marcadorOriginal": "[QAG_24]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAG_24]"
+      ]
+    },
+    "QAG_25": {
+      "marcadorOriginal": "[QAG_25]",
+      "tipo": "texto",
+      "contextos": [
+        "As metodologias adotadas para análise dos diferentes parâmetros de qualidade da água seguem os seguintes procedimentos analíticos: [QAG_25] atendendo ao disposto pela Resolução CONAMA N 357/2005."
+      ]
+    },
+    "QAG_26": {
+      "marcadorOriginal": "[QAG_26]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_26]"
+      ]
+    },
+    "QAG_55": {
+      "marcadorOriginal": "[QAG_55]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados referentes ao período selecionado constam na Figura 5, onde são informados os percentuais de inconformidades verificados em cada campanha amostral. Verifica-se que a campanha com maior percentual de inconformidades identificadas foi a campanha referente à [QAG_55]/[QAG_56]."
+      ]
+    },
+    "QAG_56": {
+      "marcadorOriginal": "[QAG_56]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados referentes ao período selecionado constam na Figura 5, onde são informados os percentuais de inconformidades verificados em cada campanha amostral. Verifica-se que a campanha com maior percentual de inconformidades identificadas foi a campanha referente à [QAG_55]/[QAG_56]."
+      ]
+    },
+    "QAG_58": {
+      "marcadorOriginal": "[QAG_58]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAG_58]"
+      ]
+    },
+    "QAG_57": {
+      "marcadorOriginal": "[QAG_57]",
+      "tipo": "texto",
+      "contextos": [
+        "É válido, também, destacar que no período selecionado [QAG_57] realização de atividades de dragagem que possam impactar a qualidade da água."
+      ]
+    },
+    "QAG_28": {
+      "marcadorOriginal": "[QAG_28]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados obtidos em relação ao percentual de inconformidades para os parâmetros físico-químicos e biológicos selecionados para o período podem ser observados na Tabela 5. A Figura 6 destaca os resultados obtidos para os parâmetros selecionados: [QAG_28] comparando com os VMPs pelo CONAMA, quando existentes."
+      ]
+    },
+    "QAG_59": {
+      "marcadorOriginal": "[QAG_59]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAG_59]"
+      ]
+    },
+    "QAG_29": {
+      "marcadorOriginal": "[QAG_29]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_29]"
+      ]
+    },
+    "QAG_32": {
+      "marcadorOriginal": "[QAG_32]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_32]"
+      ]
+    },
+    "QAG_33": {
+      "marcadorOriginal": "[QAG_33]",
+      "tipo": "texto",
+      "contextos": [
+        "Relativo aos metais pesados, a Tabela 7 traz os resultados obtidos para os elementos selecionados [QAG_33] nos [QAG_14] pontos amostrais frente ao percentual de inconformidades para cada campanha amostral."
+      ]
+    },
+    "QAG_60": {
+      "marcadorOriginal": "[QAG_60]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAG_60]"
+      ]
+    },
+    "QAG_36": {
+      "marcadorOriginal": "[QAG_36]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_36]"
+      ]
+    },
+    "QAG_37": {
+      "marcadorOriginal": "[QAG_37]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_37]"
+      ]
+    },
+    "QAG_48": {
+      "marcadorOriginal": "[QAG_48]",
+      "tipo": "texto",
+      "contextos": [
+        "A Figura 8 exibe as concentrações dos HPAs selecionados nos pontos avaliados: [QAG_48], comparando com a média obtida para o parâmetro e com os VMP pelo CONAMA, quando existentes."
+      ]
+    },
+    "QAG_61": {
+      "marcadorOriginal": "[QAG_61]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAG_61]"
+      ]
+    },
+    "QAG_49": {
+      "marcadorOriginal": "[QAG_49]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_49]"
+      ]
+    },
+    "QAG_39": {
+      "marcadorOriginal": "[QAG_39]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_39]"
+      ]
+    },
+    "QAG_47": {
+      "marcadorOriginal": "[QAG_47]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_47]"
+      ]
+    },
+    "QAG_41": {
+      "marcadorOriginal": "[QAG_41]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_41]"
+      ]
+    },
+    "QAG_42": {
+      "marcadorOriginal": "[QAG_42]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAG_42]"
+      ]
+    },
+    "QAG_43": {
+      "marcadorOriginal": "[QAG_43]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAG_43]"
+      ]
+    }
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

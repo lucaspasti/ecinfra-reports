@@ -1,0 +1,627 @@
+{
+  "PTA_01": "[PTA_01]",
+  "PTA_54": "[PTA_54]",
+  "PTA_03": "[PTA_03]",
+  "PTA_04": "[PTA_04]",
+  "PTA_05": "[PTA_05]",
+  "PTA_06": "[PTA_06]",
+  "PTA_07": "[PTA_07]",
+  "PTA_08": "[PTA_08]",
+  "PTA_09": "[PTA_09]",
+  "PTA_10": "[PTA_10]",
+  "PTA_11": "[PTA_11]",
+  "PTA_12": "[PTA_12]",
+  "PTA_13": "[PTA_13]",
+  "PTA_44": "[PTA_44]",
+  "PTA_45": "[PTA_45]",
+  "PTA_46": "[PTA_46]",
+  "PTA_19": "[PTA_19]",
+  "PTA_15": "[PTA_15]",
+  "PTA_16": "[PTA_16]",
+  "PTA_21": "[PTA_21]",
+  "PTA_23": "[PTA_23]",
+  "PTA_22": "[PTA_22]",
+  "PTA_26": {
+    "TEXTO": "[PTA_26]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos pontos de monitoramento de peixes teleósteos ameaçados."
+    }
+  },
+  "PTA_02": "[PTA_02]",
+  "PTA_20": "[PTA_20]",
+  "PTA_24": "[PTA_24]",
+  "PTA_25": "[PTA_25]",
+  "PTA_27": {
+    "TEXTO": "[PTA_27]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Registro fotográfico do profissional responsável pelo monitoramento dos peixes ameaçados."
+    }
+  },
+  "PTA_28": {
+    "TEXTO": "[PTA_28]",
+    "TABELA_001": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PTA_29": "[PTA_29]",
+  "PTA_30": {
+    "TEXTO": "[PTA_30]",
+    "TABELA_002": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abundância total (animais)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PTA_31": {
+    "TEXTO": "[PTA_31]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Registros fotográficos de algumas espécies de peixes teleósteos avistadas na área de influência do empreendimento."
+    }
+  },
+  "PTA_32": {
+    "TEXTO": "[PTA_32]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Distribuição espacial dos avistamentos de teleósteos ameaçados."
+    }
+  },
+  "PTA_33": "[PTA_33]",
+  "PTA_34": "[PTA_34]",
+  "PTA_35": "[PTA_35]",
+  "PTA_36": {
+    "TEXTO": "[PTA_36]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Fase de crescimento associada aos peixes teleósteos ameaçados avistados no período selecionado."
+    }
+  },
+  "PTA_37": "[PTA_37]",
+  "PTA_38": "[PTA_38]",
+  "PTA_39": "[PTA_39]",
+  "PTA_40": {
+    "TEXTO": "[PTA_40]",
+    "TABELA_003": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Estado de conservação",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abundância total (animais)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PTA_41": {
+    "TEXTO": "[PTA_41]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Registros fotográficos de algumas espécies de ictiofauna recifal avistadas na área de influência do empreendimento."
+    }
+  },
+  "PTA_42": "[PTA_42]",
+  "PTA_43": "[PTA_43]",
+  "PTA_47": {
+    "TEXTO": "[PTA_47]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Principais espécies em termos de abundância total para o período avaliado em relação à ictiofauna recifal."
+    }
+  },
+  "PTA_48": {
+    "TEXTO": "[PTA_48]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Abundância total das principais espécies de ictiofauna recifal atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "PTA_49": {
+    "TEXTO": "[PTA_49]",
+    "TABELA_004": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PTA_50": "[PTA_50]",
+  "PTA_51": "[PTA_51]"
+}

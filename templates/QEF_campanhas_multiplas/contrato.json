@@ -1,0 +1,578 @@
+{
+  "origem": "2. MonitoramentoEfluentes_MultiplasCampanhas.docx",
+  "sha256": "0f4a0ff2e88404cf8e49bdfa8f2682d6ca4e01e569bc7fb22f669992a2b80faa",
+  "campos": {
+    "QEF_01": {
+      "original": "[QEF_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_54": {
+      "original": "[QEF_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_50": {
+      "original": "[QEF_50]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_51": {
+      "original": "[QEF_51]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_52": {
+      "original": "[QEF_52]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_53": {
+      "original": "[QEF_53]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_05": {
+      "original": "[QEF_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_06": {
+      "original": "[QEF_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_07": {
+      "original": "[QEF_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_08": {
+      "original": "[QEF_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_09": {
+      "original": "[QEF_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_10": {
+      "original": "[QEF_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_11": {
+      "original": "[QEF_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_12": {
+      "original": "[QEF_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_13": {
+      "original": "[QEF_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_44": {
+      "original": "[QEF_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_45": {
+      "original": "[QEF_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_46": {
+      "original": "[QEF_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_15": {
+      "original": "[QEF_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_02": {
+      "original": "[QEF_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_14": {
+      "original": "[QEF_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_16": {
+      "original": "[QEF_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_17": {
+      "original": "[QEF_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 102,
+          "caminho": "QEF_17.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_04": {
+      "original": "[QEF_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_18": {
+      "original": "[QEF_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 108,
+          "caminho": "QEF_18.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_19": {
+      "original": "[QEF_19]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 114,
+          "caminho": "QEF_19.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_20": {
+      "original": "[QEF_20]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 120,
+          "caminho": "QEF_20.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_21": {
+      "original": "[QEF_21]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_22": {
+      "original": "[QEF_22]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 123,
+          "caminho": "QEF_22.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_62": {
+      "original": "[QEF_62]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_65": {
+      "original": "[QEF_65]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_63": {
+      "original": "[QEF_63]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_23": {
+      "original": "[QEF_23]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 127,
+          "caminho": "QEF_23.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_64": {
+      "original": "[QEF_64]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_24": {
+      "original": "[QEF_24]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 131,
+          "caminho": "QEF_24.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_25": {
+      "original": "[QEF_25]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_26": {
+      "original": "[QEF_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 139,
+          "caminho": "QEF_26.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_55": {
+      "original": "[QEF_55]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_56": {
+      "original": "[QEF_56]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_58": {
+      "original": "[QEF_58]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 144,
+          "caminho": "QEF_58.FIGURA_005",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_35": {
+      "original": "[QEF_35]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 152,
+          "caminho": "QEF_35.TABELA_005",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 162,
+          "caminho": "QEF_35.TABELA_006",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_28": {
+      "original": "[QEF_28]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_29": {
+      "original": "[QEF_29]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 165,
+          "caminho": "QEF_29.FIGURA_007",
+          "tipo": "imagem"
+        },
+        {
+          "bloco": 178,
+          "caminho": "QEF_29.FIGURA_008",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "QEF_33": {
+      "original": "[QEF_33]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_36": {
+      "original": "[QEF_36]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 175,
+          "caminho": "QEF_36.TABELA_007",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_47": {
+      "original": "[QEF_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 187,
+          "caminho": "QEF_47.TABELA_008",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "QEF_41": {
+      "original": "[QEF_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_42": {
+      "original": "[QEF_42]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QEF_43": {
+      "original": "[QEF_43]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "caminho": "QEF_43.ANEXOS",
+          "tipo": "lista de anexos: TITULO, TEXTO, IMAGEM, URL"
+        }
+      ]
+    },
+    "FIGURAS": {
+      "original": "[FIGURAS]",
+      "ocorrencias": [
+        {
+          "bloco": 155,
+          "caminho": "FIGURAS.FIGURA_006",
+          "tipo": "imagem"
+        }
+      ],
+      "type": "objeto"
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 108,
+      "tipo": "tabela",
+      "caminho": "QEF_18.TABELA_001",
+      "colunas": 3,
+      "linhas": 23
+    },
+    {
+      "bloco": 114,
+      "tipo": "tabela",
+      "caminho": "QEF_19.TABELA_002",
+      "colunas": 3,
+      "linhas": 36
+    },
+    {
+      "bloco": 120,
+      "tipo": "tabela",
+      "caminho": "QEF_20.TABELA_003",
+      "colunas": 2,
+      "linhas": 7
+    },
+    {
+      "bloco": 139,
+      "tipo": "tabela",
+      "caminho": "QEF_26.TABELA_004",
+      "colunas": 4,
+      "linhas": 16
+    },
+    {
+      "bloco": 152,
+      "tipo": "tabela",
+      "caminho": "QEF_35.TABELA_005",
+      "colunas": 12,
+      "linhas": 7
+    },
+    {
+      "bloco": 162,
+      "tipo": "tabela",
+      "caminho": "QEF_35.TABELA_006",
+      "colunas": 12,
+      "linhas": 7
+    },
+    {
+      "bloco": 175,
+      "tipo": "tabela",
+      "caminho": "QEF_36.TABELA_007",
+      "colunas": 6,
+      "linhas": 12
+    },
+    {
+      "bloco": 187,
+      "tipo": "tabela",
+      "caminho": "QEF_47.TABELA_008",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "16838",
+        "w:h": "11906",
+        "w:orient": "landscape",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId21"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId22"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId28"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId36"
+        }
+      ]
+    }
+  ],
+  "observacoes": [
+    "Figura 006: campo adicional FIGURAS.FIGURA_006.URL; legenda sem marcador exclusivo no DOCX.",
+    "Fonte contém números de tabela repetidos. Legendas e referências textuais preservadas para revisão técnica, sem correção ambígua automática."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

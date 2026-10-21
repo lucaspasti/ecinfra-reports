@@ -1,0 +1,951 @@
+{
+  "QAGS_01": "[QAGS_01]",
+  "QAGS_54": "[QAGS_54]",
+  "QAGS_04": "[QAGS_04]",
+  "QAGS_05": "[QAGS_05]",
+  "QAGS_06": "[QAGS_06]",
+  "QAGS_07": "[QAGS_07]",
+  "QAGS_08": "[QAGS_08]",
+  "QAGS_09": "[QAGS_09]",
+  "QAGS_10": "[QAGS_10]",
+  "QAGS_11": "[QAGS_11]",
+  "QAGS_12": "[QAGS_12]",
+  "QAGS_13": "[QAGS_13]",
+  "QAGS_44": "[QAGS_44]",
+  "QAGS_45": "[QAGS_45]",
+  "QAGS_46": "[QAGS_46]",
+  "QAGS_15": "[QAGS_15]",
+  "QAGS_02": "[QAGS_02]",
+  "QAGS_14": "[QAGS_14]",
+  "QAGS_16": "[QAGS_16]",
+  "QAGS_17": "",
+  "QAGS_18": [
+    {
+      "PONTO": "[PONTO_1]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_2]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_3]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_4]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_5]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    }
+  ],
+  "QAGS_19": [
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    }
+  ],
+  "QAGS_20": {
+    "NOME_FANTASIA": "[NOME_FANTASIA]",
+    "RAZAO_SOCIAL": "[RAZAO_SOCIAL]",
+    "CNPJ": "[CNPJ]",
+    "ENDERECO": "[ENDERECO]",
+    "RESPONSAVEL": "[RESPONSAVEL]",
+    "EMAIL": "[EMAIL]",
+    "CONTATO": "[CONTATO]"
+  },
+  "QAGS_21": "[QAGS_21]",
+  "QAGS_22": "",
+  "QAGS_62": "[QAGS_62]",
+  "QAGS_65": "[QAGS_65]",
+  "QAGS_63": "[QAGS_63]",
+  "QAGS_23": "",
+  "QAGS_64": "[QAGS_64]",
+  "QAGS_24": "",
+  "QAGS_25": "[QAGS_25]",
+  "QAGS_26": [
+    {
+      "TIPO": "[TIPO]",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    }
+  ],
+  "QAGS_28": "[QAGS_28]",
+  "QAGS_29": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_57": "[QAGS_57]",
+  "QAGS_36": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_66": "[QAGS_66]",
+  "QAGS_37": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_68": "[QAGS_68]",
+  "QAGS_39": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_40": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "QAGS_41": "[QAGS_41]",
+  "QAGS_42": "[QAGS_42]",
+  "QAGS_43": [
+    {
+      "TITULO": "[ANEXO]",
+      "TEXTO": "[DESCRIÇÃO]",
+      "IMAGEM": "",
+      "URL": ""
+    }
+  ],
+  "QAGS_50": "[QAGS_50]",
+  "QAGS_51": "[QAGS_51]",
+  "QAGS_52": "[QAGS_52]",
+  "QAGS_53": "[QAGS_53]",
+  "QAGS_55": "[QAGS_55]",
+  "QAGS_56": "[QAGS_56]",
+  "QAGS_58": "",
+  "QAGS_69": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]"
+      },
+      {
+        "NOME": "[PARÂMETRO_11]"
+      },
+      {
+        "NOME": "[PARÂMETRO_12]"
+      },
+      {
+        "NOME": "[PARÂMETRO_13]"
+      },
+      {
+        "NOME": "[PARÂMETRO_14]"
+      },
+      {
+        "NOME": "[PARÂMETRO_15]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "[CAMPANHA_1]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_2]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_3]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_4]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_5]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_6]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_7]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_8]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_9]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_10]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QAGS_70": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "[CAMPANHA_1]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_2]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_3]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_4]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_5]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_6]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_7]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_8]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_9]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_10]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QAGS_71": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]"
+      },
+      {
+        "NOME": "[PARÂMETRO_11]"
+      },
+      {
+        "NOME": "[PARÂMETRO_12]"
+      },
+      {
+        "NOME": "[PARÂMETRO_13]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "[CAMPANHA_1]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_2]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_3]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_4]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_5]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_6]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_7]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_8]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_9]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_10]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QAGS_72": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "[CAMPANHA_1]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_2]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_3]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_4]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_5]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_6]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_7]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_8]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_9]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "[CAMPANHA_10]",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  }
+}

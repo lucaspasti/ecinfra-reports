@@ -1,0 +1,1059 @@
+{
+  "AVA_01": "[AVA_01]",
+  "AVA_54": "[AVA_54]",
+  "AVA_03": "[AVA_03]",
+  "AVA_04": "[AVA_04]",
+  "AVA_05": "[AVA_05]",
+  "AVA_06": "[AVA_06]",
+  "AVA_07": "[AVA_07]",
+  "AVA_08": "[AVA_08]",
+  "AVA_09": "[AVA_09]",
+  "AVA_10": "[AVA_10]",
+  "AVA_11": "[AVA_11]",
+  "AVA_12": "[AVA_12]",
+  "AVA_13": "[AVA_13]",
+  "AVA_44": "[AVA_44]",
+  "AVA_45": "[AVA_45]",
+  "AVA_46": "[AVA_46]",
+  "AVA_16": "[AVA_16]",
+  "AVA_15": "[AVA_15]",
+  "AVA_02": "[AVA_02]",
+  "AVA_14": "[AVA_14]",
+  "AVA_17": {
+    "TEXTO": "[AVA_17]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos pontos de monitoramento de aves aquáticas."
+    }
+  },
+  "AVA_18": {
+    "TEXTO": "[AVA_18]",
+    "TABELA_001": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_19": "[AVA_19]",
+  "AVA_20": "[AVA_20]",
+  "AVA_21": {
+    "TEXTO": "[AVA_21]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Observador realizando monitoramento da avifauna aquática."
+    }
+  },
+  "AVA_22": "[AVA_22]",
+  "AVA_23": {
+    "TEXTO": "[AVA_23]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Equipamento utilizado para monitoramento da dieta das aves aquáticas."
+    }
+  },
+  "AVA_24": "[AVA_24]",
+  "AVA_25": {
+    "TEXTO": "[AVA_25]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Equipamento utilizado no monitoramento dos ninhos reprodutivos de aves aquáticas."
+    }
+  },
+  "AVA_26": {
+    "TEXTO": "[AVA_26]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Transectos lineares utilizados no monitoramento dos ninhais de aves aquáticas."
+    }
+  },
+  "AVA_27": "[AVA_27]",
+  "AVA_28": "[AVA_28]",
+  "AVA_29": {
+    "TEXTO": "[AVA_29]",
+    "TABELA_002": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_30": "[AVA_30]",
+  "AVA_31": "[AVA_31]",
+  "AVA_32": {
+    "TEXTO": "[AVA_32]",
+    "TABELA_003": {
+      "COLUNAS": 7,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Estado de conservação",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abundância total (org.)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_33": {
+    "TEXTO": "[AVA_33]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Registros fotográficos de algumas espécies de avifauna aquática avistadas na área de influência do empreendimento."
+    }
+  },
+  "AVA_34": "[AVA_34]",
+  "AVA_35": {
+    "TEXTO": "[AVA_35]",
+    "TABELA_004": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_36": "[AVA_36]",
+  "AVA_37": "[AVA_37]",
+  "AVA_38": "[AVA_38]",
+  "AVA_39": {
+    "TEXTO": "[AVA_39]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Principais espécies em termos de abundância total para o período avaliado em relação à avifauna aquática."
+    }
+  },
+  "AVA_40": {
+    "TEXTO": "[AVA_40]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Riqueza da avifauna aquática atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "AVA_41": {
+    "TEXTO": "[AVA_41]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 9. Abundância total da avifauna aquática atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "AVA_42": "[AVA_42]",
+  "AVA_43": "[AVA_43]",
+  "AVA_47": {
+    "TEXTO": "[AVA_47]",
+    "FIGURA_010": {
+      "URL": "",
+      "TITULO": "Figura 10. Abundância total por ponto amostral para todo o período selecionado em relação à avifauna aquática."
+    }
+  },
+  "AVA_48": {
+    "TEXTO": "[AVA_48]",
+    "FIGURA_011": {
+      "URL": "",
+      "TITULO": "Figura 11. Atributos calculados para os pontos amostrais considerando o período selecionado em relação à avifauna aquática."
+    }
+  },
+  "AVA_49": {
+    "TEXTO": "[AVA_49]",
+    "FIGURA_012": {
+      "URL": "",
+      "TITULO": "Figura 12. Atributos calculados para as campanhas amostrais considerando o período selecionado em relação à avifauna aquática."
+    }
+  },
+  "AVA_50": "[AVA_50]",
+  "AVA_51": {
+    "TEXTO": "[AVA_51]",
+    "TABELA_005": {
+      "COLUNAS": 8,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ninho",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Espécie",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Abundância de adultos",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de ovos",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Sucesso de eclosão",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Sucesso reprodutivo",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_52": {
+    "TEXTO": "[AVA_52]",
+    "FIGURA_013": {
+      "URL": "",
+      "TITULO": "Figura 13. Registros fotográficos dos ninhais de aves aquáticas monitorados."
+    }
+  },
+  "AVA_53": {
+    "TEXTO": "[AVA_53]",
+    "TABELA_006": {
+      "COLUNAS": 5,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Campanha",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ninho",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Espécie",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Dieta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_55": {
+    "TEXTO": "[AVA_55]",
+    "TABELA_007": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "AVA_56": "[AVA_56]",
+  "AVA_57": "[AVA_57]"
+}

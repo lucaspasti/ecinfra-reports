@@ -1,0 +1,1285 @@
+{
+  "PRS_01": "[PRS_01]",
+  "PRS_54": "[PRS_54]",
+  "PRS_03": "[PRS_03]",
+  "PRS_04": "[PRS_04]",
+  "PRS_51": "[PRS_51]",
+  "PRS_52": "[PRS_52]",
+  "PRS_05": "[PRS_05]",
+  "PRS_06": "[PRS_06]",
+  "PRS_07": "[PRS_07]",
+  "PRS_08": "[PRS_08]",
+  "PRS_09": "[PRS_09]",
+  "PRS_10": "[PRS_10]",
+  "PRS_11": "[PRS_11]",
+  "PRS_12": "[PRS_12]",
+  "PRS_13": "[PRS_13]",
+  "PRS_44": "[PRS_44]",
+  "PRS_45": "[PRS_45]",
+  "PRS_46": "[PRS_46]",
+  "PRS_15": "[PRS_15]",
+  "PRS_17": "[PRS_17]",
+  "PRS_18": {
+    "TEXTO": "[PRS_18]",
+    "TABELA_004": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_19": {
+    "TEXTO": "[PRS_19]",
+    "TABELA_005": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Local/Atividade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Descritivo dos resíduos gerados",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classificação",
+              "COLSPAN": 2
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Local/Atividade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Descritivo dos resíduos gerados",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 10004 de 2004",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "RDC 661/2022",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_20": "[PRS_20]",
+  "PRS_21": "[PRS_21]",
+  "PRS_22": "[PRS_22]",
+  "PRS_23": {
+    "TEXTO": "[PRS_23]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Montante de resíduos gerados por tipo de gerador e estado físico dos resíduos."
+    }
+  },
+  "PRS_24": "[PRS_24]",
+  "PRS_25": "[PRS_25]",
+  "PRS_26": "[PRS_26]",
+  "PRS_30": "[PRS_30]",
+  "PRS_31": {
+    "TEXTO": "[PRS_31]",
+    "TABELA_006": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Categoria",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Quantidade (toneladas)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_27": "[PRS_27]",
+  "PRS_28": "[PRS_28]",
+  "PRS_29": {
+    "TEXTO": "[PRS_29]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Número de remessas coletadas no período selecionado."
+    }
+  },
+  "PRS_32": "[PRS_32]",
+  "PRS_33": {
+    "TEXTO": "[PRS_33]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Tipologias de acondicionamento utilizadas no manejo de resíduos sólidos."
+    }
+  },
+  "PRS_34": {
+    "TEXTO": "[PRS_34]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Registros fotográficos do acondicionamento de resíduos sólidos não perigosos (Classe II)."
+    }
+  },
+  "PRS_35": {
+    "TEXTO": "[PRS_35]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Registros fotográficos do acondicionamento de resíduos sólidos perigosos (Classe I)."
+    }
+  },
+  "PRS_36": {
+    "TEXTO": "[PRS_36]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Registros fotográficos do armazenamento de resíduos sólidos não perigosos (Classe II)."
+    }
+  },
+  "PRS_37": {
+    "TEXTO": "[PRS_37]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Registros fotográficos do armazenamento de resíduos sólidos perigosos (Classe I)."
+    }
+  },
+  "PRS_38": {
+    "TEXTO": "[PRS_38]",
+    "TABELA_007": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Empresa",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "CNPJ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipologia de resíduos coletados",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_39": {
+    "TEXTO": "[PRS_39]",
+    "TABELA_008": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Empresa",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "CNPJ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipologia de resíduos coletados",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_53": "[PRS_53]",
+  "PRS_40": {
+    "TEXTO": "[PRS_40]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Principais tratamentos e destinações finais empregadas no manejo de resíduos sólidos."
+    }
+  },
+  "PRS_41": {
+    "TEXTO": "[PRS_41]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 9. Localização das empresas destinatárias de resíduos sólidos oriundos do empreendimento em estudo."
+    }
+  },
+  "PRS_42": {
+    "TEXTO": "[PRS_42]",
+    "FIGURA_010": {
+      "URL": "",
+      "TITULO": "Figura 10. Principais municípios em termos de destinação de resíduos sólidos (toneladas recebidas)."
+    }
+  },
+  "PRS_43": {
+    "TEXTO": "[PRS_43]",
+    "TABELA_009": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome Empresa",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "CNPJ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipologia de resíduos coletados",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_47": {
+    "TEXTO": "[PRS_47]",
+    "TABELA_010": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nome atividade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Descrição",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Registro fotográfico",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_48": {
+    "TEXTO": "[PRS_48]",
+    "TABELA_011": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "PRS_49": "[PRS_49]",
+  "PRS_50": "[PRS_50]",
+  "TABELAS": {
+    "TEXTO": "[TABELAS]",
+    "TABELA_001": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abrangência",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Ato Normativo",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Lei nº 12.305 de 2010 - Institui a Política Nacional de Resíduos Sólidos; altera a Lei no 9.605, de 12 de fevereiro de 1998; e dá outras providências (Brasil, 2010a).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Decreto nº 10.936 de 2022 - Regulamenta a Lei nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos (Brasil, 2022a).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Decreto Federal n° 11.043, de 13 de abril de 2022 – Aprova o Plano Nacional de Resíduos Sólidos (Brasil, 2022b).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Lei nº 11.445 de 2007 - Estabelece as diretrizes nacionais para o saneamento básico; cria o Comitê Interministerial de Saneamento Básico; altera as Leis nos 6.766, de 19 de dezembro de 1979, 8.666, de 21 de junho de 1993, e 8.987, de 13 de fevereiro de 1995; e revoga a Lei nº 6.528, de 11 de maio de 1978 (Brasil, 2007).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Lei nº 14026 de 15 de julho de 2020 - Atualiza o marco legal do saneamento básico e altera a Lei nº 9.984, de 17 de julho de 2000 (Brasil, 2020a). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Lei Federal nº 9.966, de 28 de abril de 2000 - Dispõe sobre a prevenção, o controle e a fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional e dá outras providências (Brasil, 2000).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Decreto nº 7.217 de 2010 - Regulamenta a Lei no 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, e dá outras providências (Brasil, 2010b).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Federal",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Portaria MMA nº 280 de 29 de junho de 2020 - Regulamenta os arts. 56 e 76 do Decreto nº 7.404, de 23 de dezembro de 2010, e o art. 8º do Decreto nº 10.388, de 5 de junho de 2020, institui o Manifesto de Transporte de Resíduos - MTR nacional, como ferramenta de gestão e documento declaratório de implantação e operacionalização do plano de gerenciamento de resíduos, dispõe sobre o Inventário Nacional de Resíduos Sólidos e complementa a Portaria nº 412, de 25 de junho de 2019 (Brasil, 2020b).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 5 de 1993 - Dispõe sobre o gerenciamento de resíduos sólidos gerados nos portos, aeroportos, terminais ferroviários e rodoviários (Brasil, 1993).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 6 de 1991 - Dispõe sobre o tratamento de resíduos sólidos provenientes de estabelecimentos de saúde, portos e aeroportos (Brasil, 1991).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução do Conselho Nacional de Meio Ambiente (CONAMA) nº 275 de 2001 - Estabelece o código de cores para diferentes tipos de resíduos (Brasil, 2001).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 307 de 2002 - Estabelece diretrizes, critérios e procedimentos para a gestão dos resíduos da construção civil (Brasil, 2002).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 358 de 2005 - Dispõe sobre o tratamento e a disposição final dos resíduos dos serviços de saúde e dá outras providências (Brasil, 2005a).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 362 de 2005 - Dispõe sobre o recolhimento, coleta e destinação final de óleo lubrificante usado ou contaminado (Brasil, 2005b). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 416 de 2009 - Dispõe sobre a prevenção à degradação ambiental causada por pneus inservíveis e sua destinação ambientalmente adequada, e dá outras providências (Brasil, 2009a).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "CONAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução CONAMA nº 401 de 2008 - Estabelece os limites máximos de chumbo, cádmio e mercúrio para pilhas e baterias comercializadas no território nacional e os critérios e padrões para o seu gerenciamento ambientalmente adequado, e dá outras providências (Brasil, 2008).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR ISO 14.031: Gestão ambiental – Avaliação de desempenho ambiental – diretrizes (ABNT, 2015).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 11.174 de 1990– Armazenamento de resíduos classe II – não inertes e III - inertes (ANBT, 1990).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 10.004 de 2004– Resíduos sólidos – classificação (ABNT, 2004a). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 10.007 de 2004 – Amostragem de resíduos sólidos (ABNT, 2004b)",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 9.191 de 2008 – Sacos plásticos para acondicionamento de lixo – Requisitos e métodos de ensaio (ABNT, 2008). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ABNT",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "NBR 12.235 de 1992 - Armazenamento de resíduos sólidos perigosos –\nProcedimentos (ABNT, 1992). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ANVISA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "RDC nº. 72 da ANVISA, de 29 de dezembro de 2009 - Dispõe sobre o regulamento técnico que visa à promoção da saúde nos portos de controle sanitário instalados em território nacional, e embarcações que por eles transitem (Brasil, 2009b).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ANVISA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução RDC nº 661 de 2022 - Dispõe sobre as Boas Práticas Sanitárias no Gerenciamento de Resíduos Sólidos nas áreas de Portos, Aeroportos, Passagens de Fronteiras e Recintos Alfandegados. (Brasil, 2022c). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "ANTAQ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resolução ANTAQ nº 2.190, de 28 de julho de 2011 - Aprova a norma para disciplinar a prestação de serviços de retirada de resíduos de embarcações (ANTAQ, 2011). ",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "IBAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Portaria IBAMA nº13 de 18 de dezembro de 2012 - Publica a Lista Brasileira de Resíduos Sólidos, a qual será utilizada pelo Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, pelo Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental e pelo Cadastro Nacional de Operadores de Resíduos Perigosos, bem como por futuros sistemas informatizados do Ibama que possam vir a tratar de resíduos sólidos (IBAMA, 2012).",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_002": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo A",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resíduos que apresentem risco potencial ou efetivo à saúde pública e ao meio ambiente devido à presença de agentes biológicos, consideradas suas características de virulência, patogenicidade ou concentração.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo B",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resíduos contendo substâncias químicas que podem apresentar risco à saúde pública ou ao meio ambiente.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo C",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Rejeitos radioativos.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo D",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resíduos que não apresentem risco biológico, químico ou radiativo à saúde ou ao meio ambiente, podendo ser equiparados aos resíduos domiciliares.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Grupo E",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Materiais perfurocortantes ou escarificantes, tais como: lâminas de barbear, agulhas, escalpes, ampolas de vidro, brocas, limas endodônticas, pontas diamantadas, lâminas de bisturi, lancetas; micropipetas; lâminas e lamínulas; espátulas; todos os utensílios de vidro quebrados no laboratório (pipetas, tubos de coleta sanguínea e placas de Petri) e outros similares.",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    },
+    "TABELA_003": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Informação",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Descrição",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Entidade geradora",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Envolve a definição dos entes geradores de resíduos (ex. terminais portuários, autoridade portuária, embarcações).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Mês/Ano referência",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Data em que o resíduo foi destinado",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Estado físico",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Determinação do estado físico (ex. sólido ou líquido).",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo de geração",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Define se o resíduo destinado advém de uma geração regular ou eventual. As gerações eventuais são aquelas que não faz parte da rotina da empresa, por exemplo, a remediação de um vazamento acidental.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Evento",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Caso a geração seja eventual, determinar o tipo de evento em que o resíduo foi gerado.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classificação IN 13/2012 IBAMA",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classificação dos resíduos",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classificação NBR 10004:2004",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Classificação dos resíduos",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Quantidade de resíduo destinado",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Montante total de resíduo gerado na remessa em toneladas.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Acondicionamento",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de acondicionamento do resíduo.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tratamento/destinação final",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Tipo de tratamento/destinação dada ao resíduo.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Empresas de transporte e destinatárias",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Nome da empresa responsável pelo transporte do resíduo ou nome da empresa responsável pela destinação do resíduo.",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nº MTR",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número do Manifesto de Transporte de Resíduo (MTR)",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Nº CDF",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número do Certificado de Destinação Final (CDF)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "IMAGEM_COMPLEMENTAR_001_URL": ""
+}

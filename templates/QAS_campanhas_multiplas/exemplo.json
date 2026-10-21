@@ -1,0 +1,1269 @@
+{
+  "QAG_01": "Empreendimento Exemplo",
+  "QAG_54": "Técnico",
+  "QAG_04": "2026",
+  "QAG_05": "Florianópolis",
+  "QAG_06": "18",
+  "QAG_07": "outubro",
+  "QAG_08": "2026",
+  "QAG_09": "Empreendimento Exemplo LTDA.",
+  "QAG_10": "00.000.000/0000-00",
+  "QAG_11": "Rua de Exemplo, 100 - Centro, Florianópolis - SC",
+  "QAG_12": "contato@example.com",
+  "QAG_13": "0000/2026",
+  "QAG_44": "Responsável técnico de exemplo",
+  "QAG_45": "000000-0",
+  "QAG_46": "0000000",
+  "QAG_15": "Órgão ambiental de exemplo",
+  "QAG_02": "trimestral",
+  "QAG_14": "3",
+  "QAG_16": "região de estudo",
+  "QAG_17": "mapa-dos-pontos.png",
+  "PREVIA_SEM_MAPA": true,
+  "QAG_18": [
+    {
+      "PONTO": "P01",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "P02",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "P03",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    }
+  ],
+  "QAG_19": [
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARAMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    }
+  ],
+  "QAG_20": {
+    "NOME_FANTASIA": "[NOME_FANTASIA]",
+    "RAZAO_SOCIAL": "[RAZAO_SOCIAL]",
+    "CNPJ": "[CNPJ]",
+    "ENDERECO": "[ENDERECO]",
+    "RESPONSAVEL": "[RESPONSAVEL]",
+    "EMAIL": "[EMAIL]",
+    "CONTATO": "[CONTATO]"
+  },
+  "QAG_21": "[PARAMETROS_IN_SITU]",
+  "QAG_22": "sonda.png",
+  "PREVIA_SEM_SONDA": true,
+  "QAG_30": "[QAG_30]",
+  "QAG_62": "[QAG_62]",
+  "QAG_63": "[QAG_63]",
+  "QAG_25": "[QAG_25]",
+  "QAG_23": "garrafa.png",
+  "QAG_24": "transporte.png",
+  "PREVIA_SEM_GARRAFA": true,
+  "PREVIA_SEM_TRANSPORTE": true,
+  "QAG_26": [
+    {
+      "TIPO": "ICA",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    },
+    {
+      "TIPO": "IDO",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    },
+    {
+      "TIPO": "IDG",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    }
+  ],
+  "QAG_28": "[QAG_28]",
+  "QAG_33": "[QAG_33]",
+  "QAG_48": "[QAG_48]",
+  "QAG_41": "[QAG_41]",
+  "QAG_42": "[QAG_42]",
+  "QAG_29": [
+    {
+      "TITULO": "[PARÂMETRO / GRÁFICO]",
+      "URL": ""
+    }
+  ],
+  "QAG_36": [
+    {
+      "TITULO": "[PARÂMETRO / GRÁFICO]",
+      "URL": ""
+    }
+  ],
+  "QAG_49": [
+    {
+      "TITULO": "[PARÂMETRO / GRÁFICO]",
+      "URL": ""
+    }
+  ],
+  "QAG_32": [
+    {
+      "PARAMETRO": "Nitrogênio amoniacal (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Fósforo (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Temperatura (°C)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "pH",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "OD (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Turbidez (NTU)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Salinidade (%)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Coliformes totais (UFC/100ml)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    }
+  ],
+  "QAG_37": [
+    {
+      "PARAMETRO": "Alumínio (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Cromo (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Cobre (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Ferro (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Mercúrio (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Níquel (mg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    }
+  ],
+  "QAG_39": [
+    {
+      "PARAMETRO": "Acenafteno (µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Acenaftileno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Antraceno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Benzo(a) antraceno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Benzo(a) pireno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Benzo(g,h,i) perileno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Benzo(k) fluoranteno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Benzo(b) fluoranteno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Criseno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Dibenzo(a,h) antraceno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Fenantreno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Fluoranteno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Indeno (1,2,3-cd) pireno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Naftaleno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    },
+    {
+      "PARAMETRO": "Pireno(µg/L)",
+      "TOTAL": "[MÉDIA]",
+      "SUPERFICIE": "[MÉDIA]",
+      "MEIO": "[MÉDIA]",
+      "FUNDO": "[MÉDIA]"
+    }
+  ],
+  "QAG_47": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    },
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    },
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "QAG_43": [
+    {
+      "TITULO": "[QAG_43] — Anexo a inserir",
+      "TEXTO": "[DESCRIÇÃO DO ANEXO]",
+      "URL": "",
+      "IMAGEM": ""
+    }
+  ],
+  "QAG_50": "[QAG_50]",
+  "QAG_51": "[QAG_51]",
+  "QAG_52": "[QAG_52]",
+  "QAG_53": "[QAG_53]",
+  "QAG_55": "[QAG_55]",
+  "QAG_56": "[QAG_56]",
+  "QAG_58": "",
+  "QAG_57": "[QAG_57]",
+  "QAG_59": {
+    "PARAMETROS": [
+      {
+        "NOME": "Nitrato"
+      },
+      {
+        "NOME": "Nitrito"
+      },
+      {
+        "NOME": "Nitrogênio amoniacal"
+      },
+      {
+        "NOME": "Fósforo total"
+      },
+      {
+        "NOME": "DBO"
+      },
+      {
+        "NOME": "DQO"
+      },
+      {
+        "NOME": "COT"
+      },
+      {
+        "NOME": "Óleos/ graxas totais"
+      },
+      {
+        "NOME": "Sólidos totais"
+      },
+      {
+        "NOME": "Fenóis totais"
+      },
+      {
+        "NOME": "Temperatura"
+      },
+      {
+        "NOME": "Salinidade"
+      },
+      {
+        "NOME": "pH"
+      },
+      {
+        "NOME": "OD"
+      },
+      {
+        "NOME": "Turbidez"
+      },
+      {
+        "NOME": "Condutividade"
+      },
+      {
+        "NOME": "Sólidos dissolvidos totais"
+      },
+      {
+        "NOME": "Coliformes totais"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      }
+    ]
+  },
+  "QAG_60": {
+    "PARAMETROS": [
+      {
+        "NOME": "Alumínio"
+      },
+      {
+        "NOME": "Cobre"
+      },
+      {
+        "NOME": "Cromo"
+      },
+      {
+        "NOME": "Ferro"
+      },
+      {
+        "NOME": "Mercúrio"
+      },
+      {
+        "NOME": "Níquel"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      }
+    ]
+  },
+  "QAG_61": {
+    "PARAMETROS": [
+      {
+        "NOME": "Acenafteno"
+      },
+      {
+        "NOME": "Acenaftileno"
+      },
+      {
+        "NOME": "Antraceno"
+      },
+      {
+        "NOME": "Benzo(a) antraceno"
+      },
+      {
+        "NOME": "Benzo(a) pireno"
+      },
+      {
+        "NOME": "Benzo(g,h,i) perileno"
+      },
+      {
+        "NOME": "Benzo(k) fluoranteno"
+      },
+      {
+        "NOME": "Benzo(b) fluoranteno"
+      },
+      {
+        "NOME": "Criseno"
+      },
+      {
+        "NOME": "Dibenzo(a,h) antraceno"
+      },
+      {
+        "NOME": "Fenantreno"
+      },
+      {
+        "NOME": "Fluoranteno"
+      },
+      {
+        "NOME": "Indeno(1,2,3-cd)pireno"
+      },
+      {
+        "NOME": "Naftaleno"
+      },
+      {
+        "NOME": "Pireno"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C1",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]",
+          "[INCONFORMIDADE %]"
+        ]
+      }
+    ]
+  }
+}

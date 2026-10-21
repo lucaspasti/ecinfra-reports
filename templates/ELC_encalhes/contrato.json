@@ -1,0 +1,314 @@
+{
+  "origem": "1. EncalhesnaLinhadeCosta.docx",
+  "sha256": "6fef28298f49710a3ca2f9edcc6c7997d2201282e669e6b4b0e8b48634f52c5b",
+  "campos": {
+    "ELC_01": {
+      "original": "[ELC_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_54": {
+      "original": "[ELC_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_03": {
+      "original": "[ELC_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_04": {
+      "original": "[ELC_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_05": {
+      "original": "[ELC_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_06": {
+      "original": "[ELC_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_07": {
+      "original": "[ELC_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_08": {
+      "original": "[ELC_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_09": {
+      "original": "[ELC_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_10": {
+      "original": "[ELC_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_11": {
+      "original": "[ELC_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_12": {
+      "original": "[ELC_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_13": {
+      "original": "[ELC_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_44": {
+      "original": "[ELC_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_45": {
+      "original": "[ELC_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_46": {
+      "original": "[ELC_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_15": {
+      "original": "[ELC_15]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 126,
+          "caminho": "ELC_15.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "ELC_02": {
+      "original": "[ELC_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_16": {
+      "original": "[ELC_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_26": {
+      "original": "[ELC_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 108,
+          "caminho": "ELC_26.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "ELC_55": {
+      "original": "[ELC_55]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_56": {
+      "original": "[ELC_56]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_58": {
+      "original": "[ELC_58]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 112,
+          "caminho": "ELC_58.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "ELC_57": {
+      "original": "[ELC_57]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_14": {
+      "original": "[ELC_14]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 123,
+          "caminho": "ELC_14.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "ELC_17": {
+      "original": "[ELC_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 131,
+          "caminho": "ELC_17.FIGURA_003",
+          "tipo": "imagem"
+        },
+        {
+          "bloco": 139,
+          "caminho": "ELC_17.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "ELC_47": {
+      "original": "[ELC_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 148,
+          "caminho": "ELC_47.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "ELC_41": {
+      "original": "[ELC_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "ELC_42": {
+      "original": "[ELC_42]",
+      "type": "texto",
+      "ocorrencias": []
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 108,
+      "tipo": "tabela",
+      "caminho": "ELC_26.TABELA_001",
+      "colunas": 4,
+      "linhas": 13
+    },
+    {
+      "bloco": 123,
+      "tipo": "tabela",
+      "caminho": "ELC_14.TABELA_002",
+      "colunas": 6,
+      "linhas": 35
+    },
+    {
+      "bloco": 148,
+      "tipo": "tabela",
+      "caminho": "ELC_47.TABELA_003",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId18"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId22"
+        }
+      ],
+      "footers": []
+    }
+  ],
+  "observacoes": [],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [
+      "IMAGEM_COMPLEMENTAR_001_URL"
+    ],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

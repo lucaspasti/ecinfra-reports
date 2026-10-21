@@ -1,0 +1,633 @@
+{
+  "QSD_01": "[QSD_01]",
+  "QSD_54": "[QSD_54]",
+  "QSD_04": "[QSD_04]",
+  "QSD_05": "[QSD_05]",
+  "QSD_06": "[QSD_06]",
+  "QSD_07": "[QSD_07]",
+  "QSD_08": "[QSD_08]",
+  "QSD_09": "[QSD_09]",
+  "QSD_10": "[QSD_10]",
+  "QSD_11": "[QSD_11]",
+  "QSD_12": "[QSD_12]",
+  "QSD_13": "[QSD_13]",
+  "QSD_44": "[QSD_44]",
+  "QSD_45": "[QSD_45]",
+  "QSD_46": "[QSD_46]",
+  "QSD_15": "[QSD_15]",
+  "QSD_02": "[QSD_02]",
+  "QSD_14": "[QSD_14]",
+  "QSD_16": "[QSD_16]",
+  "QSD_17": "",
+  "QSD_18": [
+    {
+      "PONTO": "[PONTO_1]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "[PONTO_2]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "[PONTO_3]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "[PONTO_4]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    },
+    {
+      "PONTO": "[PONTO_5]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE]"
+    }
+  ],
+  "QSD_19": [
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    }
+  ],
+  "QSD_20": {
+    "NOME_FANTASIA": "[NOME_FANTASIA]",
+    "RAZAO_SOCIAL": "[RAZAO_SOCIAL]",
+    "CNPJ": "[CNPJ]",
+    "ENDERECO": "[ENDERECO]",
+    "RESPONSAVEL": "[RESPONSAVEL]",
+    "EMAIL": "[EMAIL]",
+    "CONTATO": "[CONTATO]"
+  },
+  "QSD_22": "[QSD_22]",
+  "QSD_24": "[QSD_24]",
+  "QSD_21": "",
+  "QSD_23": "[QSD_23]",
+  "QSD_25": "",
+  "QSD_27": "[QSD_27]",
+  "QSD_26": "[QSD_26]",
+  "QSD_28": [
+    {
+      "TIPO": "[TIPO]",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    }
+  ],
+  "QSD_47": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "QSD_48": "[QSD_48]",
+  "QSD_49": "[QSD_49]",
+  "QSD_50": [
+    {
+      "TITULO": "[ANEXO]",
+      "TEXTO": "[DESCRIÇÃO]",
+      "IMAGEM": "",
+      "URL": ""
+    }
+  ],
+  "QSD_52": "[QSD_52]",
+  "QSD_53": "[QSD_53]",
+  "QSD_55": "[QSD_55]",
+  "QSD_56": "[QSD_56]",
+  "QSD_57": "[QSD_57]",
+  "QSD_58": "[QSD_58]",
+  "QSD_60": "",
+  "QSD_59": "[QSD_59]",
+  "QSD_61": "[QSD_61]",
+  "QSD_62": "[QSD_62]",
+  "QSD_63": "[QSD_63]",
+  "QSD_64": "[QSD_64]",
+  "QSD_65": "[QSD_65]",
+  "QSD_66": "[QSD_66]",
+  "QSD_67": "[QSD_67]",
+  "QSD_68": "",
+  "QSD_69": {
+    "PARAMETROS": [
+      {
+        "NOME": "Arsênio"
+      },
+      {
+        "NOME": "Cádmio"
+      },
+      {
+        "NOME": "Chumbo"
+      },
+      {
+        "NOME": "Cobre"
+      },
+      {
+        "NOME": "Cromo"
+      },
+      {
+        "NOME": "Mercúrio"
+      },
+      {
+        "NOME": "Níquel"
+      },
+      {
+        "NOME": "Zinco"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QSD_70": {
+    "PARAMETROS": [
+      {
+        "NOME": "Tributilestanho"
+      },
+      {
+        "NOME": "HCH (Alfa-HCH)"
+      },
+      {
+        "NOME": "HCH (Beta-HCH)"
+      },
+      {
+        "NOME": "HCH (Delta-HCH)"
+      },
+      {
+        "NOME": "HCH (GamaHCH/ Lindano)"
+      },
+      {
+        "NOME": "Clordano (Alfa)"
+      },
+      {
+        "NOME": "Clordano (Gama)"
+      },
+      {
+        "NOME": "DDD"
+      },
+      {
+        "NOME": "DDE"
+      },
+      {
+        "NOME": "DDT"
+      },
+      {
+        "NOME": "Dieldrin"
+      },
+      {
+        "NOME": "Endrin"
+      },
+      {
+        "NOME": "Bifenilas Policloradas"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QSD_71": {
+    "PARAMETROS": [
+      {
+        "NOME": "Benzo(a) antraceno"
+      },
+      {
+        "NOME": "Benzo(a) pireno"
+      },
+      {
+        "NOME": "Criseno"
+      },
+      {
+        "NOME": "Dibenzo(a,h)a ntraceno"
+      },
+      {
+        "NOME": "Acenafteno"
+      },
+      {
+        "NOME": "Acenaftileno"
+      },
+      {
+        "NOME": "Antraceno"
+      },
+      {
+        "NOME": "Fenantreno"
+      },
+      {
+        "NOME": "Fluoranteno"
+      },
+      {
+        "NOME": "Fluoreno"
+      },
+      {
+        "NOME": "2-Metilnaftaleno"
+      },
+      {
+        "NOME": "Naftaleno"
+      },
+      {
+        "NOME": "Pireno"
+      },
+      {
+        "NOME": "Soma HPAs"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QSD_72": {
+    "PARAMETROS": [
+      {
+        "NOME": "COT"
+      },
+      {
+        "NOME": "Nitrogênio"
+      },
+      {
+        "NOME": "Fósforo"
+      }
+    ],
+    "LINHAS": [
+      {
+        "CAMPANHA": "C1",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C2",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C3",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      },
+      {
+        "CAMPANHA": "C4",
+        "VALORES": [
+          "[%]",
+          "[%]",
+          "[%]"
+        ]
+      }
+    ]
+  },
+  "QSD_73": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QSD_74": "",
+  "QSD_75": {
+    "CAMPANHAS": [
+      {
+        "NOME": "C1"
+      },
+      {
+        "NOME": "C2"
+      },
+      {
+        "NOME": "C3"
+      },
+      {
+        "NOME": "C4"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_6]",
+        "VALORES": [
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]",
+          "[TOXICIDADE]"
+        ]
+      }
+    ]
+  },
+  "QSD_76": "[QSD_76]"
+}

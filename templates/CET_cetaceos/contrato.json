@@ -1,0 +1,481 @@
+{
+  "origem": "4. Cetaceos.docx",
+  "sha256": "fd6e45f5c5425cb28928564596349a47698f3230b93e7b1637b8e15185b3cb47",
+  "campos": {
+    "CET_01": {
+      "original": "[CET_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_54": {
+      "original": "[CET_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_03": {
+      "original": "[CET_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_04": {
+      "original": "[CET_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_05": {
+      "original": "[CET_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_06": {
+      "original": "[CET_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_07": {
+      "original": "[CET_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_08": {
+      "original": "[CET_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_09": {
+      "original": "[CET_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_10": {
+      "original": "[CET_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_11": {
+      "original": "[CET_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_12": {
+      "original": "[CET_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_13": {
+      "original": "[CET_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_44": {
+      "original": "[CET_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_45": {
+      "original": "[CET_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_46": {
+      "original": "[CET_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_15": {
+      "original": "[CET_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_02": {
+      "original": "[CET_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_20": {
+      "original": "[CET_20]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_21": {
+      "original": "[CET_21]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 104,
+          "caminho": "CET_21.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_22": {
+      "original": "[CET_22]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_23": {
+      "original": "[CET_23]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_24": {
+      "original": "[CET_24]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 108,
+          "caminho": "CET_24.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_25": {
+      "original": "[CET_25]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 112,
+          "caminho": "CET_25.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_14": {
+      "original": "[CET_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_17": {
+      "original": "[CET_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 119,
+          "caminho": "CET_17.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_18": {
+      "original": "[CET_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 124,
+          "caminho": "CET_18.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "CET_19": {
+      "original": "[CET_19]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_26": {
+      "original": "[CET_26]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_27": {
+      "original": "[CET_27]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_28": {
+      "original": "[CET_28]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 134,
+          "caminho": "CET_28.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "CET_29": {
+      "original": "[CET_29]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_31": {
+      "original": "[CET_31]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 142,
+          "caminho": "CET_31.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "CET_32": {
+      "original": "[CET_32]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 145,
+          "caminho": "CET_32.FIGURA_005",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_33": {
+      "original": "[CET_33]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 149,
+          "caminho": "CET_33.FIGURA_006",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_34": {
+      "original": "[CET_34]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_35": {
+      "original": "[CET_35]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_36": {
+      "original": "[CET_36]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 153,
+          "caminho": "CET_36.FIGURA_007",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_37": {
+      "original": "[CET_37]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 158,
+          "caminho": "CET_37.FIGURA_008",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_38": {
+      "original": "[CET_38]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_39": {
+      "original": "[CET_39]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_40": {
+      "original": "[CET_40]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 163,
+          "caminho": "CET_40.FIGURA_009",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_41": {
+      "original": "[CET_41]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 168,
+          "caminho": "CET_41.FIGURA_010",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_42": {
+      "original": "[CET_42]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 172,
+          "caminho": "CET_42.FIGURA_011",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "CET_43": {
+      "original": "[CET_43]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 181,
+          "caminho": "CET_43.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "CET_47": {
+      "original": "[CET_47]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "CET_48": {
+      "original": "[CET_48]",
+      "type": "texto",
+      "ocorrencias": []
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 124,
+      "tipo": "tabela",
+      "caminho": "CET_18.TABELA_001",
+      "colunas": 3,
+      "linhas": 7
+    },
+    {
+      "bloco": 134,
+      "tipo": "tabela",
+      "caminho": "CET_28.TABELA_002",
+      "colunas": 4,
+      "linhas": 16
+    },
+    {
+      "bloco": 142,
+      "tipo": "tabela",
+      "caminho": "CET_31.TABELA_003",
+      "colunas": 6,
+      "linhas": 5
+    },
+    {
+      "bloco": 181,
+      "tipo": "tabela",
+      "caminho": "CET_43.TABELA_004",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId15"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "16838",
+        "w:h": "11906",
+        "w:orient": "landscape",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1276",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId18"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId26"
+        }
+      ],
+      "footers": []
+    }
+  ],
+  "observacoes": [],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "origem": "2. MonitoramentodeRuidos_MultiplasCampanhas.docx",
+  "sha256": "855e2e8ca06ee0c3e45b2fd1fa02af5710ff5526a7c7cf69dadad68ca87ecbd5",
+  "campos": {
+    "NPS_01": {
+      "original": "[NPS_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_54": {
+      "original": "[NPS_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_03": {
+      "original": "[NPS_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_04": {
+      "original": "[NPS_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_05": {
+      "original": "[NPS_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_06": {
+      "original": "[NPS_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_07": {
+      "original": "[NPS_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_08": {
+      "original": "[NPS_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_09": {
+      "original": "[NPS _09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_10": {
+      "original": "[NPS _10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_12": {
+      "original": "[NPS _12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_13": {
+      "original": "[NPS_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_44": {
+      "original": "[NPS_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_45": {
+      "original": "[NPS_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_46": {
+      "original": "[NPS_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_15": {
+      "original": "[NPS_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_02": {
+      "original": "[NPS_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_14": {
+      "original": "[NPS_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_16": {
+      "original": "[NPS_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_17": {
+      "original": "[NPS_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 94,
+          "caminho": "NPS_17.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "NPS_18": {
+      "original": "[NPS_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 99,
+          "caminho": "NPS_18.TABELA_001",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 105,
+          "caminho": "NPS_18.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "NPS_22": {
+      "original": "[NPS_22]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 110,
+          "caminho": "NPS_22.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "NPS_26": {
+      "original": "[NPS_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 121,
+          "caminho": "NPS_26.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "NPS_55": {
+      "original": "[NPS_55]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_56": {
+      "original": "[NPS_56]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_58": {
+      "original": "[NPS_58]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 125,
+          "caminho": "NPS_58.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "NPS_24": {
+      "original": "[NPS_24]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 138,
+          "caminho": "NPS_24.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "NPS_23": {
+      "original": "[NPS_23]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 145,
+          "caminho": "NPS_23.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "NPS_47": {
+      "original": "[NPS_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 155,
+          "caminho": "NPS_47.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "NPS_41": {
+      "original": "[NPS_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_42": {
+      "original": "[NPS_42]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "NPS_43": {
+      "original": "[NPS_43]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "caminho": "NPS_43.ANEXOS",
+          "tipo": "lista de anexos: TITULO, TEXTO, IMAGEM, URL"
+        }
+      ]
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 99,
+      "tipo": "tabela",
+      "caminho": "NPS_18.TABELA_001",
+      "colunas": 4,
+      "linhas": 20
+    },
+    {
+      "bloco": 105,
+      "tipo": "tabela",
+      "caminho": "NPS_18.TABELA_002",
+      "colunas": 3,
+      "linhas": 17
+    },
+    {
+      "bloco": 121,
+      "tipo": "tabela",
+      "caminho": "NPS_26.TABELA_003",
+      "colunas": 4,
+      "linhas": 15
+    },
+    {
+      "bloco": 138,
+      "tipo": "tabela",
+      "caminho": "NPS_24.TABELA_004",
+      "colunas": 17,
+      "linhas": 20
+    },
+    {
+      "bloco": 155,
+      "tipo": "tabela",
+      "caminho": "NPS_47.TABELA_005",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": []
+    }
+  ],
+  "observacoes": [
+    "Marcador [NPS _09] usa a chave normalizada NPS_09; espaços originais preservados na prévia.",
+    "Marcador [NPS _10] usa a chave normalizada NPS_10; espaços originais preservados na prévia.",
+    "Marcador [NPS _12] usa a chave normalizada NPS_12; espaços originais preservados na prévia.",
+    "Marcador [NPS _13] usa a chave normalizada NPS_13; espaços originais preservados na prévia."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "origem": "1. QualidadeSedimentos_CampanhaUnitaria.docx",
+  "decisoes": [
+    "HTML Mustache único com estilos incorporados; imagens por endereço e tabelas iteráveis.",
+    "Timbrado EC infra; marca antiga S8 arq. omitida conforme padrão aprovado.",
+    "A4 vertical e seção das quatro tabelas químicas 5–8 em A3 horizontal.",
+    "Sumário reconstruído a partir do corpo, incluindo Introdução e Medidas de Mitigação; páginas atualizadas após paginação.",
+    "Textos técnicos e referências preservados, sem classificação ou cálculos científicos no gerador.",
+    "Divergências de origem registradas: amônia ionizada no parágrafo da Tabela 9 versus não ionizada na tabela; ano 2022 na referência CONAMA 454 versus 2012 no corpo; referência Almeida/Rocha repetida e referência ASTM com endereço deslocado. Não foi feita revisão técnica ou normativa."
+  ],
+  "campos": {
+    "QSD_01": {
+      "marcadorOriginal": "[QSD_01]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_01]",
+        "Empreendedor: [QSD_01]",
+        "O presente relatório [QSD_54] refere-se ao monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01]. O monitoramento da qualidade dos sedimentos está vinculado à Licença de Operação (LO) nº [QSD_13], emitida pelo [QSD_15] sendo parte integrante do Programa de Monitoramento da Qualidade de Sedimento da referida licença.",
+        "À vista disso, este relatório visa atender as diretrizes propostas no Programa de Qualidade de Sedimento do [QSD_01], permitindo a divulgação dos resultados quantitativos dos sedimentos na região para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se:",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e de ecotoxicidade dos sedimentos da campanha realizada em [QSD_03] de [QSD_04] na área de influência do [QSD_01], de acordo com a legislação aplicável.",
+        "O monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01] acontece de modo [QSD_02] em [QSD_14] pontos amostrais, distribuídos em diferentes áreas da [QSD_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos.",
+        "Os parâmetros utilizados na determinação da qualidade dos sedimentos na região de influência do [QSD_01] constam resumidos na Tabela 2. Os parâmetros utilizados baseiam-se no Programa de Qualidade de Sedimentos do empreendimento, os quais apresentam diferentes VMPs, de acordo com a resolução CONAMA nº 454 de 2012.",
+        "A coleta, preservação, transporte e análise das amostras de sedimentos da área de influência do [QSD_01] foi realizada por laboratório contratado. As informações a respeito do laboratório podem ser observadas na Tabela 3.",
+        "De modo a avaliar a eficácia do Programa de Qualidade de Sedimentos do [QSD_01], são determinados indicadores de desempenho ambiental, propostos nos moldes da ABNT NBR ISSO 14.031/2015. Os indicadores avaliados constam resumidos na Tabela 4, sendo agrupados em Indicadores de Condição Ambiental (ICA), Indicadores de Desempenho Operacional (IDO) e Indicadores de Desempenho Gerencial (IDG).",
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados.",
+        "Os resultados atrelados aos compostos químicos dos sedimentos presentes na área de influência do [QSD_01] constam resumidos na Tabela 5 (metais pesados e arsênio), Tabela 6 (pesticidas organoclorados, TBT e PCBs), Tabela 7 (HPAs) e Tabela 8 (nutrientes e COT). No geral, [QSD_37]% dos pontos amostrados apresentaram conformidade com os Valores Máximos Permitidos pela resolução CONAMA nº 454/2012 para todos os parâmetros químicos avaliados."
+      ]
+    },
+    "QSD_54": {
+      "marcadorOriginal": "[QSD_54]",
+      "tipo": "texto",
+      "contextos": [
+        "Relatório [QSD_54] de Monitoramento da Qualidade dos Sedimentos",
+        "O presente relatório [QSD_54] refere-se ao monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01]. O monitoramento da qualidade dos sedimentos está vinculado à Licença de Operação (LO) nº [QSD_13], emitida pelo [QSD_15] sendo parte integrante do Programa de Monitoramento da Qualidade de Sedimento da referida licença.",
+        "O presente relatório [QSD_54] está pautado em legislações e outros requisitos legais voltados ao monitoramento de qualidade dos sedimentos em instalações portuárias, conforme segue:"
+      ]
+    },
+    "QSD_03": {
+      "marcadorOriginal": "[QSD_03]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_03]/[QSD_04]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e de ecotoxicidade dos sedimentos da campanha realizada em [QSD_03] de [QSD_04] na área de influência do [QSD_01], de acordo com a legislação aplicável."
+      ]
+    },
+    "QSD_04": {
+      "marcadorOriginal": "[QSD_04]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_03]/[QSD_04]",
+        "Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e de ecotoxicidade dos sedimentos da campanha realizada em [QSD_03] de [QSD_04] na área de influência do [QSD_01], de acordo com a legislação aplicável.",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04]).",
+        "Fonte: QSD_01 ([QSD_04])."
+      ]
+    },
+    "QSD_05": {
+      "marcadorOriginal": "[QSD_05]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_05], [QSD_06] de [QSD_07] de [QSD_08]."
+      ]
+    },
+    "QSD_06": {
+      "marcadorOriginal": "[QSD_06]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_05], [QSD_06] de [QSD_07] de [QSD_08]."
+      ]
+    },
+    "QSD_07": {
+      "marcadorOriginal": "[QSD_07]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_05], [QSD_06] de [QSD_07] de [QSD_08]."
+      ]
+    },
+    "QSD_08": {
+      "marcadorOriginal": "[QSD_08]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_05], [QSD_06] de [QSD_07] de [QSD_08]."
+      ]
+    },
+    "QSD_09": {
+      "marcadorOriginal": "[QSD_09]",
+      "tipo": "texto",
+      "contextos": [
+        "Razão social: [QSD_09]"
+      ]
+    },
+    "QSD_10": {
+      "marcadorOriginal": "[QSD_10]",
+      "tipo": "texto",
+      "contextos": [
+        "CNPJ: [QSD_10]"
+      ]
+    },
+    "QSD_11": {
+      "marcadorOriginal": "[QSD_11]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço: [QSD_11]"
+      ]
+    },
+    "QSD_12": {
+      "marcadorOriginal": "[QSD_12]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço eletrônico: [QSD_12]"
+      ]
+    },
+    "QSD_13": {
+      "marcadorOriginal": "[QSD_13]",
+      "tipo": "texto",
+      "contextos": [
+        "Nº Licença de Operação: [QSD_13]",
+        "O presente relatório [QSD_54] refere-se ao monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01]. O monitoramento da qualidade dos sedimentos está vinculado à Licença de Operação (LO) nº [QSD_13], emitida pelo [QSD_15] sendo parte integrante do Programa de Monitoramento da Qualidade de Sedimento da referida licença."
+      ]
+    },
+    "QSD_44": {
+      "marcadorOriginal": "[QSD_44]",
+      "tipo": "texto",
+      "contextos": [
+        "Responsável técnico: [QSD_44]"
+      ]
+    },
+    "QSD_45": {
+      "marcadorOriginal": "[QSD_45]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CREA: [QSD_45]"
+      ]
+    },
+    "QSD_46": {
+      "marcadorOriginal": "[QSD_46]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CTF/IBAMA: [QSD_46]"
+      ]
+    },
+    "QSD_15": {
+      "marcadorOriginal": "[QSD_15]",
+      "tipo": "texto",
+      "contextos": [
+        "O presente relatório [QSD_54] refere-se ao monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01]. O monitoramento da qualidade dos sedimentos está vinculado à Licença de Operação (LO) nº [QSD_13], emitida pelo [QSD_15] sendo parte integrante do Programa de Monitoramento da Qualidade de Sedimento da referida licença."
+      ]
+    },
+    "QSD_02": {
+      "marcadorOriginal": "[QSD_02]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01] acontece de modo [QSD_02] em [QSD_14] pontos amostrais, distribuídos em diferentes áreas da [QSD_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QSD_14": {
+      "marcadorOriginal": "[QSD_14]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01] acontece de modo [QSD_02] em [QSD_14] pontos amostrais, distribuídos em diferentes áreas da [QSD_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QSD_16": {
+      "marcadorOriginal": "[QSD_16]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade dos sedimentos na área de influência das atividades de operação do [QSD_01] acontece de modo [QSD_02] em [QSD_14] pontos amostrais, distribuídos em diferentes áreas da [QSD_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QSD_17": {
+      "marcadorOriginal": "[QSD_17]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QSD_17]"
+      ]
+    },
+    "QSD_18": {
+      "marcadorOriginal": "[QSD_18]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_18]"
+      ]
+    },
+    "QSD_19": {
+      "marcadorOriginal": "[QSD_19]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_19]"
+      ]
+    },
+    "QSD_20": {
+      "marcadorOriginal": "[QSD_20]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QSD_20]"
+      ]
+    },
+    "QSD_22": {
+      "marcadorOriginal": "[QSD_22]",
+      "tipo": "texto",
+      "contextos": [
+        "As amostras de sedimentos são coletadas por meio do uso de [QSD_22] (Figura 2), sendo coletada amostra [QSD_24]. A amostragem consiste na operação de equipamento para baixar a concha de amostragem em direção ao fundo, a qual é posteriormente aberta para coleta do material, sendo, portanto, uma amostra da camada superior do sedimento."
+      ]
+    },
+    "QSD_24": {
+      "marcadorOriginal": "[QSD_24]",
+      "tipo": "texto",
+      "contextos": [
+        "As amostras de sedimentos são coletadas por meio do uso de [QSD_22] (Figura 2), sendo coletada amostra [QSD_24]. A amostragem consiste na operação de equipamento para baixar a concha de amostragem em direção ao fundo, a qual é posteriormente aberta para coleta do material, sendo, portanto, uma amostra da camada superior do sedimento."
+      ]
+    },
+    "QSD_21": {
+      "marcadorOriginal": "[QSD_21]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QSD_21]"
+      ]
+    },
+    "QSD_23": {
+      "marcadorOriginal": "[QSD_23]",
+      "tipo": "texto",
+      "contextos": [
+        "As amostras são devidamente transferidas para recipientes de acordo com o parâmetro a ser analisado. Após a coleta, as amostras são colocadas em [QSD_23] (Figura 3), devidamente acondicionadas em recipientes etiquetados e enviadas ao laboratório responsável pela determinação dos parâmetros analisados."
+      ]
+    },
+    "QSD_25": {
+      "marcadorOriginal": "[QSD_25]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QSD_25]"
+      ]
+    },
+    "QSD_27": {
+      "marcadorOriginal": "[QSD_27]",
+      "tipo": "texto",
+      "contextos": [
+        "Especificamente para a caracterização ecotoxicológica, o organismo teste utilizado foi o [QSD_27].  A avaliação da ecotoxicidade deve ocorrer em conjunto com outras análises, como o nitrogênio amoniacal na fase aquosa e a amônia não ionizada, uma vez que são substâncias tóxicas e que podem deturpar os resultados obtidos quando não analisadas em conjunto."
+      ]
+    },
+    "QSD_26": {
+      "marcadorOriginal": "[QSD_26]",
+      "tipo": "texto",
+      "contextos": [
+        "As metodologias adotadas para análise dos diferentes parâmetros de qualidade de sedimentos seguem os seguintes procedimentos analíticos: [QSD_26], atendendo ao disposto pela Resolução CONAMA N 454/2012."
+      ]
+    },
+    "QSD_28": {
+      "marcadorOriginal": "[QSD_28]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_28]"
+      ]
+    },
+    "QSD_30": {
+      "marcadorOriginal": "[QSD_30]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_31": {
+      "marcadorOriginal": "[QSD_31]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_32": {
+      "marcadorOriginal": "[QSD_32]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_33": {
+      "marcadorOriginal": "[QSD_33]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_34": {
+      "marcadorOriginal": "[QSD_34]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_35": {
+      "marcadorOriginal": "[QSD_35]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_36": {
+      "marcadorOriginal": "[QSD_36]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados da caracterização física do material presente na área de influência do [QSD_01] constam na Figura 4. No geral, a média de granulometria da presente campanha foi: areia muito grossa ([QSD_30]%), areia grossa ([QSD_31]%), areia média ([QSD_32]%), areia fina ([QSD_33]%), areia muito fina ([QSD_34]%), silte ([QSD_35]%) e argila ([QSD_36]%) para os pontos amostrados."
+      ]
+    },
+    "QSD_29": {
+      "marcadorOriginal": "[QSD_29]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QSD_29]"
+      ]
+    },
+    "QSD_37": {
+      "marcadorOriginal": "[QSD_37]",
+      "tipo": "texto",
+      "contextos": [
+        "Os resultados atrelados aos compostos químicos dos sedimentos presentes na área de influência do [QSD_01] constam resumidos na Tabela 5 (metais pesados e arsênio), Tabela 6 (pesticidas organoclorados, TBT e PCBs), Tabela 7 (HPAs) e Tabela 8 (nutrientes e COT). No geral, [QSD_37]% dos pontos amostrados apresentaram conformidade com os Valores Máximos Permitidos pela resolução CONAMA nº 454/2012 para todos os parâmetros químicos avaliados."
+      ]
+    },
+    "QSD_38": {
+      "marcadorOriginal": "[QSD_38]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QSD_38]"
+      ]
+    },
+    "QSD_39": {
+      "marcadorOriginal": "[QSD_39]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QSD_39]"
+      ]
+    },
+    "QSD_40": {
+      "marcadorOriginal": "[QSD_40]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QSD_40]"
+      ]
+    },
+    "QSD_41": {
+      "marcadorOriginal": "[QSD_41]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QSD_41]"
+      ]
+    },
+    "QSD_51": {
+      "marcadorOriginal": "[QSD_51]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_51]"
+      ]
+    },
+    "QSD_42": {
+      "marcadorOriginal": "[QSD_42]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_42]"
+      ]
+    },
+    "QSD_43": {
+      "marcadorOriginal": "[QSD_43]",
+      "tipo": "texto",
+      "contextos": [
+        "Verifica-se que [QSD_43] % dos pontos amostrados apresentaram sedimentos que podem ser enquadrados como tóxicos."
+      ]
+    },
+    "QSD_47": {
+      "marcadorOriginal": "[QSD_47]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_47]"
+      ]
+    },
+    "QSD_48": {
+      "marcadorOriginal": "[QSD_48]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_48]"
+      ]
+    },
+    "QSD_49": {
+      "marcadorOriginal": "[QSD_49]",
+      "tipo": "texto",
+      "contextos": [
+        "[QSD_49]"
+      ]
+    },
+    "QSD_50": {
+      "marcadorOriginal": "[QSD_50]",
+      "tipo": "lista",
+      "contextos": [
+        "[QSD_50]"
+      ]
+    }
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Qualidade da Água Subterrânea — {{QAGS_01}}</title><style>
+    @page { size: A4; margin: 0; }
+    @page results-landscape { size: 420mm 297mm; margin: 0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #e5e7eb; color: #000; font: 12pt/1 Aptos, Calibri, Arial, sans-serif; }
+    .page { width: 210mm; height: 297mm; position: relative; margin: 24px auto; background: #fff; isolation: isolate; box-shadow: 0 2px 16px #0002; }
+    .letterhead { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
+    /* Oculta as marcas antigas do timbrado, incluindo S8 arq., e mantém EC infra. */
+    .logo-mask { position: absolute; left: 0; top: 0; width: 84.5mm; height: 18mm; background: #fff; }
+    .logo { position: absolute; left: 23.9mm; top: 2mm; width: 36.3mm; height: 14.4mm; object-fit: contain; }
+    .cover-content { position: absolute; inset: 25mm 30mm; text-align: center; }
+    p, h1 { margin: 0; font-size: inherit; font-weight: normal; }
+    .entrepreneur { position: absolute; top: 35.3mm; width: 100%; overflow-wrap: anywhere; }
+    .title-block { position: absolute; top: 84.7mm; width: 100%; }
+    h1 { line-height: 1.15; overflow-wrap: anywhere; }
+    .campaign { margin-top: 8pt; }
+    .date { position: absolute; top: 162.3mm; width: 100%; line-height: 1.2; overflow-wrap: anywhere; }
+    .footer { position: absolute; bottom: 0; left: 0; right: 0; padding: 2mm 7mm; background: #09505a; color: white; text-align: center; font-size: 6.8pt; line-height: 1.2; }
+    .page-number { position: absolute; right: 5mm; bottom: 2mm; font-size: 9pt; }
+    .summary-content { position: absolute; inset: 25mm 30mm; }
+    .summary-content h2 { margin: 0 0 12mm; color: #206b75; text-align: center; font-size: 16pt; line-height: 1.2; }
+    .summary-list { list-style: none; margin: 0; padding: 0; }
+    .summary-item { display: flex; align-items: baseline; gap: 2mm; margin-bottom: 8pt; line-height: 1.25; }
+    .summary-subsection { padding-left: 7.5mm; }
+    .summary-label { max-width: 132mm; }
+    .summary-leader { flex: 1; min-width: 3mm; border-bottom: 1px dotted currentColor; }
+    .summary-page { min-width: 5mm; text-align: right; }
+    .report-content { position: absolute; inset: 25mm 30mm; line-height: 1.25; overflow-wrap: anywhere; }
+    .report-content h2 { margin: 0 0 8pt; color: #206b75; font-size: 16pt; line-height: 1.2; }
+    .report-content p { margin: 0 0 8pt; }
+    .report-content section + section { margin-top: 10mm; }
+    .narrative { line-height: 1; text-align: justify; }
+    .narrative p { margin-bottom: 8pt; }
+    .narrative .following-heading { margin-top: 12pt; }
+    .report-content h3 { margin: 12pt 0 8pt; color: #206b75; font-size: 14pt; line-height: 1.2; }
+    .report-figure { margin: 12pt 0; break-inside: avoid; }
+    .caption { font-size: 10pt; line-height: 1.2; text-align: left; margin-bottom: 5pt; }
+    .map-image { display: block; width: 100%; height: 82mm; object-fit: contain; }
+    .map-placeholder { height: 82mm; display: flex; align-items: center; justify-content: center; border: 1px solid #aaa; background: #f7f9f9; color: #555; font-size: 11pt; }
+    .report-content .source { font-size: 9pt; line-height: 1.2; margin: 4pt 0 10pt; text-align: left; }
+    .report-table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.2; text-align: center; }
+    .report-table th, .report-table td { border: 1px solid #899c9f; padding: 5pt; overflow-wrap: anywhere; background: #fff; color: #000; }
+    .report-table th { font-weight: bold; }
+    .landscape { width: 420mm; page: results-landscape; }
+    .landscape .report-content { inset: 30mm 25mm; }
+    .results-table { table-layout: fixed; font-size: 7pt; line-height: 1; }
+    .results-table th, .results-table td { padding: 0.5pt 2pt; }
+    .results-table .point-column { width: 16mm; }
+    .results-table .depth-column { width: 23mm; }
+    .chart-image { display: block; width: 100%; height: 78mm; object-fit: contain; }
+    .chart-placeholder { height: 78mm; }
+    .variable-text { white-space: pre-line; }
+    .annex-image { display: block; max-width: 100%; max-height: 190mm; object-fit: contain; margin: 8pt auto; }
+    .references p { font-size: 10pt; line-height: 1.15; text-align: left; }
+    .report-content > h3:first-child { margin-top: 0; }
+    @media print {
+      body { background: white; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      .page { margin: 0; box-shadow: none; break-after: page; }
+      .page:last-child { break-after: auto; }
+    }
+    .landscape .letterhead { width: 210mm; object-fit: fill; }
+    .landscape::before { content: ''; position: absolute; top: 3.5mm; left: 120mm; right: 0; height: 12mm; background: #329eab; z-index: -1; }
+    .landscape .logo-mask { width: 84.5mm !important; }
+    .results-table { font-size: 8pt; line-height: 1.15; }
+    .results-table th, .results-table td { padding: 4pt 2pt; }
+    .landscape .chart-image, .landscape .chart-placeholder { height: 175mm; }
+  
+.summary-item { margin-bottom: 6pt; font-size: 11pt; }
+.results-table { font-size: 9pt; line-height: 1.2; }
+.results-table td,.results-table th { padding: 5pt 3pt; }
+.equipment-image,.equipment-placeholder { height: 43mm; }
+.landscape .letterhead { width: 210mm; }
+</style></head><body><main class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="cover-content"><p class="entrepreneur">{{QAGS_01}}</p><div class="title-block"><h1>Relatório {{QAGS_54}} de Monitoramento da Qualidade da Água Subterrânea</h1><p class="campaign">{{QAGS_03}}/{{QAGS_04}}</p></div><p class="date">{{QAGS_05}}, {{QAGS_06}} de {{QAGS_07}} de {{QAGS_08}}.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></main>
+<section class="page summary"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><nav class="summary-content"><h2>SUMÁRIO</h2><ol class="summary-list">{{#SUMARIO}}<li class="summary-item {{#SUBSECAO}}summary-subsection{{/SUBSECAO}}"><span class="summary-label">{{NUMERO}}. {{TITULO}}</span><span class="summary-leader"></span><span class="summary-page">{{PAGINA}}</span></li>{{/SUMARIO}}</ol></nav><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>1. Dados do empreendedor</h2>
+<p>Empreendedor: {{QAGS_01}}</p>
+<p>Razão social: {{QAGS_09}}</p>
+<p>CNPJ: {{QAGS_10}}</p>
+<p>Endereço: {{QAGS_11}}</p>
+<p>Endereço eletrônico: {{QAGS_12}}</p>
+<p>Nº Licença de Operação: {{QAGS_13}}</p>
+
+<h2>2. Dados da empresa consultora</h2>
+<p>Nome: EC Projetos</p>
+<p>Razão Social: Eagle Consultoria Econômica e de engenharia LTDA.</p>
+<p>CNPJ: 17.940.831&#x2F;0001-46</p>
+<p>Endereço: R. Lauro Linhares, 2123 - sala 508 - Trindade, Florianópolis - SC, 88036-003.</p>
+<p>Endereço eletrônico: https:&#x2F;&#x2F;ecprojetos.com.br&#x2F;en&#x2F;home&#x2F;</p>
+<p>Responsável técnico: {{QAGS_44}}</p>
+<p>Registro CREA: {{QAGS_45}}</p>
+<p>Registro CTF&#x2F;IBAMA: {{QAGS_46}}</p>
+
+
+
+
+
+
+
+
+
+
+
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>3. Introdução</h2>
+<p>Segundo Von Sperling (1996), a qualidade da água resulta tanto de fatores naturais como da atuação antrópica, sendo esta última interferência correlacionada principalmente com o uso e ocupação do solo na bacia hidrográfica (Von Sperling, 1996). De modo geral, os principais fatores que alteram a qualidade da água de uma bacia, além do uso e ocupação do solo, são o clima, cobertura vegetal, topografia, geologia etc. (Donadio, Galbiatti, Paula, 2005).</p>
+<p>De modo a avaliar a qualidade da água no entorno da Área de Influência do empreendimento, realizou-se a análise dos componentes presentes na água responsáveis por alterar seu grau de pureza, englobando-se aspectos físicos, químicos e biológicos. Esse tipo de estudo se faz relevante uma vez que serve tanto para realizar a caracterização das consequências de determinada atividade poluidora, como para estabelecer meios de modo a satisfazer determinado uso da água (Von Sperling, 1996). Ainda, serve de parâmetro para controle contínuo da qualidade da água dos corpos hídricos observados, já que fornece a possibilidade de comparação entre as condições atuais e futuras de qualidade ambiental.</p>
+<h2>4. Objetivos e justificativas</h2>
+<p>O presente relatório {{QAGS_54}} refere-se ao monitoramento da qualidade da água subterrânea na área de influência das atividades de operação do {{QAGS_01}}. O monitoramento da qualidade da água está vinculado à Licença de Operação (LO) nº {{QAGS_13}}, emitida pelo {{QAGS_15}} sendo parte integrante do Programa de Monitoramento da Qualidade da Água da referida licença.</p>
+<p>À vista disso, este relatório visa atender as diretrizes propostas no Programa de Qualidade da Água do {{QAGS_01}}, permitindo a divulgação dos resultados quantitativos das águas subterrâneas na região para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se:</p>
+<p>Apresentar e interpretar os resultados referentes as variáveis físicas, químicas e biológicas da água da campanha realizada em {{QAGS_03}} de {{QAGS_04}} na área de influência do {{QAGS_01}}, de acordo com a legislação aplicável.</p>
+<p>Avaliar a eficácia do Programa de Qualidade da Água Subterrânea por meio da determinação e discussão dos indicadores de desempenho ambiental, propostos nos moldes da Associação Brasileira de Normas Técnicas (ABNT) NBR ISO 14.031&#x2F;2015.</p>
+<p>Elaborar parecer técnico sobre a qualidade da água, identificando eventuais não conformidades e propondo ações corretivas para garantir o cumprimento das normativas vigentes.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>5. Legislação e outros requisitos</h2>
+<p>O presente relatório {{QAGS_54}} está pautado em legislações e outros requisitos legais voltados ao monitoramento de qualidade da água em instalações portuárias, conforme segue:</p>
+<p>Lei nº 9.433 de 8 de janeiro de 1997 – Política Nacional de Recursos Hídricos (PNRH) (Brasil, 1997).</p>
+<p>Resolução do Conselho Nacional do meio Ambiente (CONAMA) nº 396 de 03 de abril de 2008 - Dispõe sobre a classificação e diretrizes ambientais para o enquadramento das águas subterrâneas e dá outras providências (Brasil, 2008).</p>
+<p>Guia Nacional de Coleta e Preservação de Amostras (Brasil, 2011).</p>
+<p>NBR ISO 14.031: Gestão ambiental – Avaliação de desempenho ambiental – diretrizes (ABNT, 2015).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>6. Metodologia</h2>
+<h3>6.1. Campanha de monitoramento</h3>
+<p>O monitoramento da qualidade da água subterrânea na área de influência das atividades de operação do {{QAGS_01}} acontece de modo {{QAGS_02}} em {{QAGS_14}} pontos amostrais, distribuídos em diferentes áreas da {{QAGS_16}}. A Figura 1 exibe a localização dos pontos amostrais mencionados.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 1. Localização dos pontos de monitoramento.</figcaption>{{#QAGS_17}}{{#QAGS_17}}<img class="map-image " src="{{QAGS_17}}" alt="Figura 1. Localização dos pontos de monitoramento.">{{/QAGS_17}}{{/QAGS_17}}{{^QAGS_17}}<div class="map-placeholder ">[QAGS_17] — Imagem a inserir</div>{{/QAGS_17}}</figure>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+
+<p>A Tabela 1 resume os usos d’água para cada ponto amostral, uma vez que essa distinção acarreta diferentes Valores Máximos Permitidos (VMP) pela CONAMA 396&#x2F;2008.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 1. Pontos amostrais e classes de água de acordo com a CONAMA 396&#x2F;2008.</caption><thead><tr><th>Ponto</th><th>UTM E (m)</th><th>UTM N (m)</th><th>Classe de uso água – CONAMA 396&#x2F;2008</th></tr></thead><tbody>{{#QAGS_18}}<tr><td>{{PONTO}}</td><td>{{UTM_E}}</td><td>{{UTM_N}}</td><td>{{CLASSE}}</td></tr>{{/QAGS_18}}</tbody></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>6.2. Parâmetros e periodicidade</h3>
+<p>Os parâmetros utilizados na determinação da qualidade da água subterrânea na região de influência do {{QAGS_01}} constam resumidos na Tabela 2. Os parâmetros utilizados baseiam-se no Programa de Qualidade da Água Subterrânea do empreendimento, os quais apresentam diferentes VMPs, de acordo com a classe de uso.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 2. Parâmetros avaliados nas campanhas de monitoramento de qualidade da água e periodicidade.</caption><thead><tr><th>Grupo</th><th>Parâmetro</th><th>Periodicidade</th></tr></thead><tbody>{{#QAGS_19}}<tr><td>{{GRUPO}}</td><td>{{PARAMETRO}}</td><td>{{PERIODICIDADE}}</td></tr>{{/QAGS_19}}</tbody></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>6.3. Coleta, preservação, transporte e análise</h3>
+<p>A coleta, preservação, transporte e análise das amostras de água subterrânea da área de influência do {{QAGS_01}} foi realizada por laboratório contratado. As informações a respeito do laboratório podem ser observadas na Tabela 3.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 3. Dados do laboratório contratado para coleta, preservação, transporte e análise das amostras.</caption><tbody><tr><th>Nome Fantasia</th><td>{{QAGS_20.NOME_FANTASIA}}</td></tr><tr><th>Razão Social</th><td>{{QAGS_20.RAZAO_SOCIAL}}</td></tr><tr><th>CNPJ</th><td>{{QAGS_20.CNPJ}}</td></tr><tr><th>Endereço</th><td>{{QAGS_20.ENDERECO}}</td></tr><tr><th>Responsável</th><td>{{QAGS_20.RESPONSAVEL}}</td></tr><tr><th>E-mail</th><td>{{QAGS_20.EMAIL}}</td></tr><tr><th>Contato</th><td>{{QAGS_20.CONTATO}}</td></tr></tbody></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+<p>Em relação às coletas de amostras, alguns parâmetros são determinados in situ por meio de sonda multiparâmetro, a saber: {{QAGS_21}}. A Figura 2 exibe registro da multisonda utilizada durante a coleta.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 2. Sonda multiparâmetro utilizada para os parâmetros determinados in situ.</figcaption>{{#QAGS_22}}{{#QAGS_22}}<img class="map-image equipment-image" src="{{QAGS_22}}" alt="Figura 2. Sonda multiparâmetro utilizada para os parâmetros determinados in situ.">{{/QAGS_22}}{{/QAGS_22}}{{^QAGS_22}}<div class="map-placeholder equipment-placeholder">[QAGS_22] — Imagem a inserir</div>{{/QAGS_22}}</figure>
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p>Já os demais parâmetros são determinados em laboratório e, para isso, é necessária a coleta de amostras em recipientes adequados. As amostragens são coletadas com o uso de {{QAGS_62}} (Figura 3) em amostra {{QAGS_65}}. As amostras são transferidas para {{QAGS_63}}, os quais são previamente etiquetados com identificação do ponto amostral, referência de parâmetros a serem analisados, data e hora de cada coleta.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 3. Garrafa amostradora utilizada nas amostragens de água.</figcaption>{{#QAGS_23}}{{#QAGS_23}}<img class="map-image equipment-image" src="{{QAGS_23}}" alt="Figura 3. Garrafa amostradora utilizada nas amostragens de água.">{{/QAGS_23}}{{/QAGS_23}}{{^QAGS_23}}<div class="map-placeholder equipment-placeholder">[QAGS_23] — Imagem a inserir</div>{{/QAGS_23}}</figure>
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+<p>Após a coleta, as amostras são colocadas em {{QAGS_64}} (Figura 4), devidamente acondicionadas em frascos etiquetados e enviadas ao laboratório responsável pela determinação dos parâmetros analisados.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 4. Equipamento utilizado no transporte das amostras.</figcaption>{{#QAGS_24}}{{#QAGS_24}}<img class="map-image equipment-image" src="{{QAGS_24}}" alt="Figura 4. Equipamento utilizado no transporte das amostras.">{{/QAGS_24}}{{/QAGS_24}}{{^QAGS_24}}<div class="map-placeholder equipment-placeholder">[QAGS_24] — Imagem a inserir</div>{{/QAGS_24}}</figure>
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+<p>As metodologias adotadas para análise dos diferentes parâmetros de qualidade da água seguem os seguintes procedimentos analíticos: {{QAGS_25}} atendendo ao disposto pela Resolução CONAMA N 396&#x2F;2008.</p>
+<h3>6.4. Indicadores de desempenho</h3>
+<p>De modo a avaliar a eficácia do Programa de Qualidade de Água do {{QAGS_01}}, são determinados indicadores de desempenho ambiental, propostos nos moldes da ABNT NBR ISSO 14.031&#x2F;2015. Os indicadores avaliados constam resumidos na Tabela 4, sendo agrupados em Indicadores de Condição Ambiental (ICA), Indicadores de Desempenho Operacional (IDO) e Indicadores de Desempenho Gerencial (IDG).</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 4. Indicadores de desempenho utilizados para avaliação do Programa de Qualidade da Água.</caption><thead><tr><th>Tipo</th><th>Indicador</th><th>Unidade</th><th>Meta</th></tr></thead><tbody>{{#QAGS_26}}<tr><td>{{TIPO}}</td><td>{{INDICADOR}}</td><td>{{UNIDADE}}</td><td>{{META}}</td></tr>{{/QAGS_26}}</tbody></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>7. Resultados e discussões</h2>
+<h3>7.1. Parâmetros inorgânicos</h3>
+<p>Os resultados obtidos para os parâmetros inorgânicos selecionados podem ser observados nas Tabela 5. Verifica-se que {{QAGS_31}} % dos pontos apresentaram conformidade em relação aos VMP estabelecidos pela CONAMA 396&#x2F;2008.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page landscape"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative">
+
+<table class="report-table results-table"><caption class="caption">Tabela 5. Resumo dos resultados obtidos frente aos parâmetros de inorgânicos nos pontos amostrados.</caption><colgroup><col style="width:20mm">{{#QAGS_27.PARAMETROS}}<col>{{/QAGS_27.PARAMETROS}}</colgroup><thead><tr><th>Ponto</th>{{#QAGS_27.PARAMETROS}}<th>{{NOME}}</th>{{/QAGS_27.PARAMETROS}}</tr></thead><tbody>{{#QAGS_27.LINHAS}}<tr><td>{{PONTO}}</td>{{#VALORES}}<td>{{.}}</td>{{/VALORES}}</tr>{{/QAGS_27.LINHAS}}</tbody><tfoot><tr><th>Média</th>{{#QAGS_27.PARAMETROS}}<td>{{MEDIA}}</td>{{/QAGS_27.PARAMETROS}}</tr><tr><th>VMP</th>{{#QAGS_27.PARAMETROS}}<td>{{VMP}}</td>{{/QAGS_27.PARAMETROS}}</tr><tr><th>Unidade</th>{{#QAGS_27.PARAMETROS}}<td>{{UNIDADE}}</td>{{/QAGS_27.PARAMETROS}}</tr></tfoot></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p>A Figura 5 destaca os resultados obtidos para os parâmetros inorgânicos selecionados: {{QAGS_28}} comparando com a média obtida para o parâmetro e com os VMP pelo CONAMA, quando existentes.</p>
+
+{{#QAGS_29}}<figure class="report-figure"><figcaption class="caption">Figura 5. Concentração dos parâmetros inorgânicos selecionados para os pontos avaliados. — {{TITULO}}</figcaption>{{#URL}}{{#URL}}<img class="chart-image" src="{{URL}}" alt="{{TITULO}}">{{/URL}}{{/URL}}{{^URL}}<div class="map-placeholder chart-placeholder">[QAGS_29] — Gráfico a inserir</div>{{/URL}}</figure>{{/QAGS_29}}
+
+
+
+
+
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.2. Parâmetros orgânicos</h3>
+<p>Os resultados obtidos para os parâmetros orgânicos selecionados podem ser observados nas Tabela 6. Verifica-se que {{QAGS_32}} % dos pontos apresentaram conformidade em relação aos VMP estabelecidos pela CONAMA 396&#x2F;2008.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page landscape"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative">
+
+<table class="report-table results-table"><caption class="caption">Tabela 6. Resumo dos resultados obtidos frente aos parâmetros de orgânicos nos pontos amostrados.</caption><colgroup><col style="width:20mm">{{#QAGS_33.PARAMETROS}}<col>{{/QAGS_33.PARAMETROS}}</colgroup><thead><tr><th>Ponto</th>{{#QAGS_33.PARAMETROS}}<th>{{NOME}}</th>{{/QAGS_33.PARAMETROS}}</tr></thead><tbody>{{#QAGS_33.LINHAS}}<tr><td>{{PONTO}}</td>{{#VALORES}}<td>{{.}}</td>{{/VALORES}}</tr>{{/QAGS_33.LINHAS}}</tbody><tfoot><tr><th>Média</th>{{#QAGS_33.PARAMETROS}}<td>{{MEDIA}}</td>{{/QAGS_33.PARAMETROS}}</tr><tr><th>VMP</th>{{#QAGS_33.PARAMETROS}}<td>{{VMP}}</td>{{/QAGS_33.PARAMETROS}}</tr><tr><th>Unidade</th>{{#QAGS_33.PARAMETROS}}<td>{{UNIDADE}}</td>{{/QAGS_33.PARAMETROS}}</tr></tfoot></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p>A Figura 6 destaca os resultados obtidos para os parâmetros orgânicos selecionados: {{QAGS_57}} comparando com a média obtida para o parâmetro e com os VMP pelo CONAMA, quando existentes.</p>
+
+
+{{#QAGS_36}}<figure class="report-figure"><figcaption class="caption">Figura 6. Concentração dos parâmetros orgânicos selecionados para os pontos avaliados. — {{TITULO}}</figcaption>{{#URL}}{{#URL}}<img class="chart-image" src="{{URL}}" alt="{{TITULO}}">{{/URL}}{{/URL}}{{^URL}}<div class="map-placeholder chart-placeholder">[QAGS_36] — Gráfico a inserir</div>{{/URL}}</figure>{{/QAGS_36}}
+
+
+
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.3. Agrotóxicos</h3>
+<p>Agrotóxicos podem ser definidos como produtos químicos sintéticos usados para combater pragas, doenças e regular o crescimento da vegetação em ambientes rurais e urbanos (Brasil, 2023). Seu uso abrange atividades agrícolas, como preparo do solo, acompanhamento da lavoura e beneficiamento de produtos, e atividades não agrícolas, como em florestas nativas e corpos d’água (Brasil, 2023). A exposição aos agrotóxicos pode causar diversas doenças, dependendo do tipo de produto, tempo de exposição e quantidade absorvida pelo organismo (Brasil, 2023).</p>
+<p>Os resultados obtidos para os parâmetros agrotóxicos selecionados podem ser observados nas Tabela 7. Verifica-se que {{QAGS_34}} % dos pontos apresentaram conformidade em relação aos VMP estabelecidos pela CONAMA 396&#x2F;2008.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page landscape"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative">
+
+<table class="report-table results-table"><caption class="caption">Tabela 7. Resumo dos resultados obtidos frente aos parâmetros de agrotóxicos nos pontos amostrados.</caption><colgroup><col style="width:20mm">{{#QAGS_35.PARAMETROS}}<col>{{/QAGS_35.PARAMETROS}}</colgroup><thead><tr><th>Ponto</th>{{#QAGS_35.PARAMETROS}}<th>{{NOME}}</th>{{/QAGS_35.PARAMETROS}}</tr></thead><tbody>{{#QAGS_35.LINHAS}}<tr><td>{{PONTO}}</td>{{#VALORES}}<td>{{.}}</td>{{/VALORES}}</tr>{{/QAGS_35.LINHAS}}</tbody><tfoot><tr><th>Média</th>{{#QAGS_35.PARAMETROS}}<td>{{MEDIA}}</td>{{/QAGS_35.PARAMETROS}}</tr><tr><th>VMP</th>{{#QAGS_35.PARAMETROS}}<td>{{VMP}}</td>{{/QAGS_35.PARAMETROS}}</tr><tr><th>Unidade</th>{{#QAGS_35.PARAMETROS}}<td>{{UNIDADE}}</td>{{/QAGS_35.PARAMETROS}}</tr></tfoot></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p>A Figura 7 destaca os resultados obtidos para os parâmetros de agrotóxicos selecionados: {{QAGS_66}} comparando com a média obtida para o parâmetro e com os VMP pelo CONAMA, quando existentes.</p>
+
+
+{{#QAGS_37}}<figure class="report-figure"><figcaption class="caption">Figura 7. Concentração dos parâmetros de agrotóxicos selecionados para os pontos avaliados. — {{TITULO}}</figcaption>{{#URL}}{{#URL}}<img class="chart-image" src="{{URL}}" alt="{{TITULO}}">{{/URL}}{{/URL}}{{^URL}}<div class="map-placeholder chart-placeholder">[QAGS_37] — Gráfico a inserir</div>{{/URL}}</figure>{{/QAGS_37}}
+
+
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.4. Microrganismos</h3>
+<p>Os resultados obtidos para os parâmetros de microrganismos selecionados podem ser observados na Tabela 8. Verifica-se que {{QAGS_38}} % dos pontos apresentaram conformidade em relação aos VMP estabelecidos pela CONAMA 396&#x2F;2008.</p>
+
+
+<table class="report-table results-table"><caption class="caption">Tabela 8. Concentração dos parâmetros de microrganismos selecionados para os pontos avaliados.</caption><colgroup><col style="width:20mm">{{#QAGS_67.PARAMETROS}}<col>{{/QAGS_67.PARAMETROS}}</colgroup><thead><tr><th>Ponto</th>{{#QAGS_67.PARAMETROS}}<th>{{NOME}}</th>{{/QAGS_67.PARAMETROS}}</tr></thead><tbody>{{#QAGS_67.LINHAS}}<tr><td>{{PONTO}}</td>{{#VALORES}}<td>{{.}}</td>{{/VALORES}}</tr>{{/QAGS_67.LINHAS}}</tbody><tfoot><tr><th>Unidade</th>{{#QAGS_67.PARAMETROS}}<td>{{UNIDADE}}</td>{{/QAGS_67.PARAMETROS}}</tr></tfoot></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+<p>A Figura 8 destaca os resultados obtidos para os parâmetros de microrganismos selecionados: {{QAGS_68}} comparando com a média obtida para o parâmetro e com os VMP pelo CONAMA, quando existentes.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative">
+
+
+
+
+{{#QAGS_39}}<figure class="report-figure"><figcaption class="caption">Figura 8. Concentração dos parâmetros de microrganismo selecionados para os pontos avaliados. — {{TITULO}}</figcaption>{{#URL}}{{#URL}}<img class="chart-image" src="{{URL}}" alt="{{TITULO}}">{{/URL}}{{/URL}}{{^URL}}<div class="map-placeholder chart-placeholder">[QAGS_39] — Gráfico a inserir</div>{{/URL}}</figure>{{/QAGS_39}}
+
+
+
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.5. Indicadores de desempenho</h3>
+<p>A Tabela 9 exibe os resultados obtidos frente aos indicadores de desempenho adotados.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 9. Resultados obtidos dos indicadores de desempenho.</caption><thead><tr><th>Indicador</th><th>Meta</th><th>Resultado</th></tr></thead><tbody>{{#QAGS_40}}<tr><td>{{INDICADOR}}</td><td>{{META}}</td><td>{{RESULTADO}}</td></tr>{{/QAGS_40}}</tbody></table>
+<p class="source">Fonte: {{QAGS_01}} ({{QAGS_04}}).</p>
+
+<h2>8. Parecer Técnico</h2>
+<p class="variable-text">{{QAGS_41}}</p>
+<h2>9. Medidas de Mitigação</h2>
+<p class="variable-text">{{QAGS_42}}</p>
+<h2>10. Anexos</h2>
+{{#QAGS_43}}<h3>{{TITULO}}</h3>{{#TEXTO}}<p class="variable-text">{{TEXTO}}</p>{{/TEXTO}}{{#IMAGEM}}{{#IMAGEM}}<img class="annex-image" src="{{IMAGEM}}" alt="{{TITULO}}">{{/IMAGEM}}{{/IMAGEM}}{{#URL}}<p><a href="{{URL}}">{{URL}}</a></p>{{/URL}}{{/QAGS_43}}{{^QAGS_43}}<p>Sem anexos.</p>{{/QAGS_43}}</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative references"><h2>11. Lista de Referências</h2>
+<p>ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR ISO 14.031: Gestão ambiental – Avaliação de desempenho ambiental – diretrizes. Rio de Janeiro, RJ: ABNT, 2015. 44 p.</p>
+
+<p>BRASIL. Lei Federal nº 9433 de 8 de janeiro de 1997. Institui a Política Nacional de Recursos Hídricos, cria o Sistema Nacional de Gerenciamento de Recursos Hídricos, regulamenta o inciso XIX do art. 21 da Constituição Federal, e altera o art. 1º da Lei nº 8.001, de 13 de março de 1990, que modificou a Lei nº 7.990, de 28 de dezembro de 1989. Brasília, DF, Diário Oficial da União. Disponível em: https:&#x2F;&#x2F;www.planalto.gov.br&#x2F;ccivil_03&#x2F;leis&#x2F;l9433.htm.</p>
+
+<p>BRASIL. Instituto Nacional de Câncer (INCA). Agrotóxico. 2023. Segundo a Organização Mundial da Saúde (OMS) são registradas 20 mil mortes por ano devido o consumo de agrotóxicos. Disponível em: https:&#x2F;&#x2F;www.gov.br&#x2F;inca&#x2F;pt-br&#x2F;assuntos&#x2F;causas-e-prevencao-do-cancer&#x2F;exposicao-no-trabalho-e-no-ambiente&#x2F;agrotoxico. Acesso em: 06 fev. 2025.</p>
+
+<p>BRASIL. Ministério do Meio Ambiente (MMA). Guia Nacional de Coleta e Preservação de Amostras. Brasília, DF, 2011. Disponível em: https:&#x2F;&#x2F;cetesb.sp.gov.br&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;10&#x2F;Guia-nacional-de-coleta-e-preservacao-de-amostras-2012.pdf.</p>
+
+<p>BRASIL. Resolução CONAMA nº 357 de 17 de março de 2005. Dispõe sobre a classificação dos corpos de água e diretrizes ambientais para o seu enquadramento, bem como estabelece as condições e padrões de lançamento de efluentes, e dá outras providências. Brasília, DF, Diário Oficial da União. Disponível em: https:&#x2F;&#x2F;www.icmbio.gov.br&#x2F;cepsul&#x2F;images&#x2F;stories&#x2F;legislacao&#x2F;Resolucao&#x2F;2005&#x2F;res_conama_357_2005_classificacao_corpos_agua_rtfcda_altrd_res_393_2007_397_2008_410_2009_430_2011.pdf.</p>
+<p>DONADIO, Nicole MM; GALBIATTI, João A.; PAULA, Rinaldo C. de. Qualidade da água de nascentes com diferentes usos do solo na bacia hidrográfica do Córrego Rico, São Paulo, Brasil. Engenharia Agrícola, v. 25, p. 115-125, 2005. Disponível em: https:&#x2F;&#x2F;www.scielo.br&#x2F;j&#x2F;eagri&#x2F;a&#x2F;m9KzFQywkjqVLCZZdhT7JsF&#x2F;abstract&#x2F;?lang&#x3D;pt.</p>
+<p>VON SPERLING, Marcos. Introdução à qualidade das águas e ao tratamento de esgotos. Editora UFMG, p.183. 1996.</p>
+
+
+
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section></body></html>

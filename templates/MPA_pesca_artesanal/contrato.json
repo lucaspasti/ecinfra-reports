@@ -1,0 +1,396 @@
+{
+  "origem": "1. PescaArtesanal.docx",
+  "sha256": "b209cb4862ca504a3d818148906ede07b18ed8fcb413136a58b17e1672ac9859",
+  "campos": {
+    "MPA_01": {
+      "original": "[MPA_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_54": {
+      "original": "[MPA_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_03": {
+      "original": "[MPA_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_04": {
+      "original": "[MPA_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_05": {
+      "original": "[MPA_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_06": {
+      "original": "[MPA_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_07": {
+      "original": "[MPA_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_08": {
+      "original": "[MPA_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_09": {
+      "original": "[MPA_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_10": {
+      "original": "[MPA_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_11": {
+      "original": "[MPA_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_12": {
+      "original": "[MPA_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_13": {
+      "original": "[MPA_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_44": {
+      "original": "[MPA_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_45": {
+      "original": "[MPA_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_46": {
+      "original": "[MPA_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_15": {
+      "original": "[MPA_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_02": {
+      "original": "[MPA_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_16": {
+      "original": "[MPA_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_17": {
+      "original": "[MPA_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 121,
+          "caminho": "MPA_17.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "MPA_18": {
+      "original": "[MPA_18]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_19": {
+      "original": "[MPA_19]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_20": {
+      "original": "[MPA_20]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 125,
+          "caminho": "MPA_20.FIGURA_001",
+          "tipo": "imagem"
+        },
+        {
+          "bloco": 138,
+          "caminho": "MPA_20.FIGURA_002",
+          "tipo": "imagem"
+        },
+        {
+          "bloco": 168,
+          "caminho": "MPA_20.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "MPA_21": {
+      "original": "[MPA_21]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_22": {
+      "original": "[MPA_22]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 135,
+          "caminho": "MPA_22.TABELA_002",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 155,
+          "caminho": "MPA_22.TABELA_003",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 160,
+          "caminho": "MPA_22.TABELA_004",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 164,
+          "caminho": "MPA_22.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "MPA_14": {
+      "original": "[MPA_14]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 172,
+          "caminho": "MPA_14.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "MPA_47": {
+      "original": "[MPA_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 182,
+          "caminho": "MPA_47.TABELA_006",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "MPA_41": {
+      "original": "[MPA_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "MPA_42": {
+      "original": "[MPA_42]",
+      "type": "texto",
+      "ocorrencias": []
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 121,
+      "tipo": "tabela",
+      "caminho": "MPA_17.TABELA_001",
+      "colunas": 4,
+      "linhas": 16
+    },
+    {
+      "bloco": 135,
+      "tipo": "tabela",
+      "caminho": "MPA_22.TABELA_002",
+      "colunas": 6,
+      "linhas": 28
+    },
+    {
+      "bloco": 155,
+      "tipo": "tabela",
+      "caminho": "MPA_22.TABELA_003",
+      "colunas": 9,
+      "linhas": 8
+    },
+    {
+      "bloco": 160,
+      "tipo": "tabela",
+      "caminho": "MPA_22.TABELA_004",
+      "colunas": 9,
+      "linhas": 8
+    },
+    {
+      "bloco": 164,
+      "tipo": "tabela",
+      "caminho": "MPA_22.TABELA_005",
+      "colunas": 8,
+      "linhas": 7
+    },
+    {
+      "bloco": 182,
+      "tipo": "tabela",
+      "caminho": "MPA_47.TABELA_006",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId18"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId20"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId21"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId27"
+        }
+      ],
+      "footers": []
+    }
+  ],
+  "observacoes": [],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [
+      "IMAGEM_COMPLEMENTAR_001_URL"
+    ],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

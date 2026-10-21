@@ -1,0 +1,988 @@
+{
+  "BEN_01": "[BEN_01]",
+  "BEN_54": "[BEN_54]",
+  "BEN_03": "[BEN_03]",
+  "BEN_04": "[BEN_04]",
+  "BEN_05": "[BEN_05]",
+  "BEN_06": "[BEN_06]",
+  "BEN_07": "[BEN_07]",
+  "BEN_08": "[BEN_08]",
+  "BEN_09": "[BEN_09]",
+  "BEN_10": "[BEN_10]",
+  "BEN_11": "[BEN_11]",
+  "BEN_12": "[BEN_12]",
+  "BEN_13": "[BEN_13]",
+  "BEN_44": "[BEN_44]",
+  "BEN_45": "[BEN_45]",
+  "BEN_46": "[BEN_46]",
+  "BEN_15": "[BEN_15]",
+  "BEN_14": "[BEN_14]",
+  "BEN_16": "[BEN_16]",
+  "BEN_17": {
+    "TEXTO": "[BEN_17]",
+    "FIGURA_001": {
+      "URL": "",
+      "TITULO": "Figura 1. Localização dos pontos de monitoramento da macrofauna bentônica de fundo consolidado."
+    }
+  },
+  "BEN_18": {
+    "TEXTO": "[BEN_18]",
+    "TABELA_001": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_02": "[BEN_02]",
+  "BEN_19": "[BEN_19]",
+  "BEN_20": "[BEN_20]",
+  "BEN_21": "[BEN_21]",
+  "BEN_22": "[BEN_22]",
+  "BEN_23": {
+    "TEXTO": "[BEN_23]",
+    "FIGURA_002": {
+      "URL": "",
+      "TITULO": "Figura 2. Estrutura de fixação utilizada no monitoramento da macrofauna bentônica de fundo consolidado."
+    }
+  },
+  "BEN_24": "[BEN_24]",
+  "BEN_27": "[BEN_27]",
+  "BEN_28": {
+    "TEXTO": "[BEN_28]",
+    "FIGURA_003": {
+      "URL": "",
+      "TITULO": "Figura 3. Localização dos pontos de monitoramento da macrofauna bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_29": {
+    "TEXTO": "[BEN_29]",
+    "TABELA_002": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Ponto",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM E (m)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "UTM N (m)",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_30": "[BEN_30]",
+  "BEN_31": "[BEN_31]",
+  "BEN_32": "[BEN_32]",
+  "BEN_33": {
+    "TEXTO": "[BEN_33]",
+    "FIGURA_004": {
+      "URL": "",
+      "TITULO": "Figura 4. Equipamento amostrador de macrofauna bentônica de fundo inconsolidado utilizado na coleta de amostras."
+    }
+  },
+  "BEN_34": "[BEN_34]",
+  "BEN_35": {
+    "TEXTO": "[BEN_35]",
+    "FIGURA_005": {
+      "URL": "",
+      "TITULO": "Figura 5. Equipamento utilizado no transporte das amostras de macrofauna bentônica de fundo inconsolidade."
+    }
+  },
+  "BEN_25": "[BEN_25]",
+  "BEN_26": {
+    "TEXTO": "[BEN_26]",
+    "TABELA_003": {
+      "COLUNAS": 4,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Tipo",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": " Unidade",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_36": "[BEN_36]",
+  "BEN_37": "[BEN_37]",
+  "BEN_38": {
+    "TEXTO": "[BEN_38]",
+    "TABELA_004": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abundância total (org.)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_39": {
+    "TEXTO": "[BEN_39]",
+    "FIGURA_006": {
+      "URL": "",
+      "TITULO": "Figura 6. Registros fotográficos de algumas espécies de macrofauna bentônica de fundo consolidado amostradas na área de influência do empreendimento."
+    }
+  },
+  "BEN_40": "[BEN_40]",
+  "BEN_41": {
+    "TEXTO": "[BEN_41]",
+    "TABELA_005": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_42": "[BEN_42]",
+  "BEN_43": "[BEN_43]",
+  "BEN_47": "[BEN_47]",
+  "BEN_48": {
+    "TEXTO": "[BEN_48]",
+    "FIGURA_007": {
+      "URL": "",
+      "TITULO": "Figura 7. Principais espécies em termos de abundância total para o período avaliado em relação à comunidade bentônica de fundo consolidado."
+    }
+  },
+  "BEN_49": {
+    "TEXTO": "[BEN_49]",
+    "FIGURA_008": {
+      "URL": "",
+      "TITULO": "Figura 8. Riqueza da comunidade bentônica de fundo consolidado atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BEN_50": {
+    "TEXTO": "[BEN_50]",
+    "FIGURA_009": {
+      "URL": "",
+      "TITULO": "Figura 9. Abundância total da comunidade bentônica de fundo consolidado atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BEN_51": "[BEN_51]",
+  "BEN_52": "[BEN_52]",
+  "BEN_53": {
+    "TEXTO": "[BEN_53]",
+    "FIGURA_010": {
+      "URL": "",
+      "TITULO": "Figura 10. Abundância total por ponto amostral para todo o período selecionado em relação à comunidade bentônica de fundo consolidado."
+    }
+  },
+  "BEN_55": {
+    "TEXTO": "[BEN_55]",
+    "FIGURA_011": {
+      "URL": "",
+      "TITULO": "Figura 11. Atributos calculados para os pontos amostrais considerando o período selecionado em relação à comunidade bentônica de fundo consolidado."
+    }
+  },
+  "BEN_56": {
+    "TEXTO": "[BEN_56]",
+    "FIGURA_012": {
+      "URL": "",
+      "TITULO": "Figura 12. Atributos calculados para as campanhas amostrais considerando o período selecionado em relação à comunidade bentônica de fundo consolidado."
+    }
+  },
+  "BEN_57": {
+    "TEXTO": "[BEN_57]",
+    "FIGURA_013": {
+      "URL": "",
+      "TITULO": "Figura 13. Análise de escalonamento MDS para a comunidade bentônica de fundo consolidado."
+    }
+  },
+  "BEN_58": "[BEN_58]",
+  "BEN_59": "[BEN_59]",
+  "BEN_60": {
+    "TEXTO": "[BEN_60]",
+    "TABELA_006": {
+      "COLUNAS": 6,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Lista de taxa/Campanha amostral",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C1",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C2",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C3",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "C4",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Total",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Riqueza ",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Abundância total (org.)",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_61": {
+    "TEXTO": "[BEN_61]",
+    "FIGURA_014": {
+      "URL": "",
+      "TITULO": "Figura 14. Registros fotográficos de algumas espécies de macrofauna bentônica de fundo inconsolidado amostradas na área de influência do empreendimento."
+    }
+  },
+  "BEN_62": "[BEN_62]",
+  "BEN_63": {
+    "TEXTO": "[BEN_63]",
+    "TABELA_007": {
+      "COLUNAS": 2,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Classe",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Número de táxons",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_64": "[BEN_64]",
+  "BEN_65": "[BEN_65]",
+  "BEN_66": "[BEN_66]",
+  "BEN_67": {
+    "TEXTO": "[BEN_67]",
+    "FIGURA_015": {
+      "URL": "",
+      "TITULO": "Figura 15. Principais espécies em termos de abundância total para o período avaliado em relação à comunidade bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_68": {
+    "TEXTO": "[BEN_68]",
+    "FIGURA_016": {
+      "URL": "",
+      "TITULO": "Figura 16. Riqueza da comunidade bentônica de fundo inconsolidado atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BEN_69": {
+    "TEXTO": "[BEN_69]",
+    "FIGURA_017": {
+      "URL": "",
+      "TITULO": "Figura 17. Abundância total da comunidade bentônica de fundo inconsolidado atrelada as diferentes campanhas amostrais."
+    }
+  },
+  "BEN_70": "[BEN_70]",
+  "BEN_71": "[BEN_71]",
+  "BEN_72": {
+    "TEXTO": "[BEN_72]",
+    "FIGURA_018": {
+      "URL": "",
+      "TITULO": "Figura 18. Abundância total por ponto amostral para todo o período selecionado em relação à comunidade bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_73": {
+    "TEXTO": "[BEN_73]",
+    "FIGURA_019": {
+      "URL": "",
+      "TITULO": "Figura 19. Atributos calculados para os pontos amostrais considerando o período selecionado em relação à comunidade bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_74": {
+    "TEXTO": "[BEN_74]",
+    "FIGURA_020": {
+      "URL": "",
+      "TITULO": "Figura 20. Atributos calculados para as campanhas amostrais considerando o período selecionado em relação à comunidade bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_75": {
+    "TEXTO": "[BEN_75]",
+    "FIGURA_021": {
+      "URL": "",
+      "TITULO": "Figura 21. Análise de escalonamento MDS para a comunidade bentônica de fundo inconsolidado."
+    }
+  },
+  "BEN_76": {
+    "TEXTO": "[BEN_76]",
+    "TABELA_008": {
+      "COLUNAS": 3,
+      "CABECALHO": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "Indicador",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Meta",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "Resultado",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "LINHAS": [
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        },
+        {
+          "CELULAS": [
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            },
+            {
+              "TEXTO": "",
+              "COLSPAN": 1
+            }
+          ]
+        }
+      ],
+      "RODAPE": []
+    }
+  },
+  "BEN_77": "[BEN_77]",
+  "BEN_78": "[BEN_78]",
+  "IMAGEM_COMPLEMENTAR_001_URL": "",
+  "IMAGEM_COMPLEMENTAR_002_URL": ""
+}

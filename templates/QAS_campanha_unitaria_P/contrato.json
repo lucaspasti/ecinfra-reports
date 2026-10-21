@@ -1,0 +1,136 @@
+{
+  "origem": "5. QualidadeAguaSuperficial_CampanhaUnitaria_P.docx",
+  "marcadoresOriginais": [
+    "[QAG_17]",
+    "[QAG_31]",
+    "[QAG_47]"
+  ],
+  "decisoes": [
+    "Variante preenchida: dados e textos do DOCX mantidos; sem importar seções de metais/HPA ausentes no corpo.",
+    "Sumário reconstruído a partir do corpo, incluindo Introdução e Referências; Indicadores de Desempenho é 7.2.",
+    "Marca EC Projetos original, sem substituir por EC infra nem acrescentar timbrado de outros modelos. Capa e páginas pares sem cabeçalho/rodapé como nas referências de seção.",
+    "A4 vertical e seção da Tabela 5 em A3 horizontal.",
+    "Foto original repetida nas figuras 2, 3 e 4; os três vínculos apontam ao mesmo recurso rId15.",
+    "Nove gráficos reutilizados sem redesenho ou cálculos; alguns bitmaps do DOCX já estão cortados.",
+    "Mapa QAG_17, percentual QAG_31 e indicadores QAG_47 permanecem pendentes. Parecer e medidas vazios no original.",
+    "Dados numéricos de médias copiados do DOCX; sem validação científica. Periodicidade mensal no texto e trimestral na Tabela 2 preservadas. Pontos P01–P23 nos resultados e PSFS/Controle nas coordenadas preservados, sem correspondência presumida.",
+    "Anexo é link assinado a laudo identificado como FICTÍCIO, copiado sem download ou incorporação.",
+    "Fonte duplicada normalizada; unidade da Tabela 5 associada a DBO/pH/OD, corrigindo a mesclagem original."
+  ],
+  "campos": {
+    "QAG_17": {
+      "tipo": "texto",
+      "original": true,
+      "contextos": [
+        "[QAG_17]"
+      ],
+      "descricao": "Endereço do mapa; marcador original não preenchido."
+    },
+    "QAG_31": {
+      "tipo": "texto",
+      "original": true,
+      "contextos": [
+        "Os resultados obtidos para os parâmetros físico-químicos e biológicos selecionados podem ser observados na Tabela 5. Verifica-se que [QAG_31] % dos pontos apresentaram conformidade em relação aos VMP estabelecidos pela CONAMA 357/2005."
+      ],
+      "descricao": "Percentual de conformidade, sem símbolo %; marcador original não preenchido."
+    },
+    "QAG_47": {
+      "tipo": "lista",
+      "original": true,
+      "contextos": [
+        "[QAG_47]"
+      ],
+      "descricao": "Resultados dos indicadores; lista com INDICADOR, META e RESULTADO."
+    },
+    "PARECER": {
+      "tipo": "texto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Texto opcional; vazio no documento."
+    },
+    "MEDIDAS": {
+      "tipo": "texto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Texto opcional; vazio no documento."
+    },
+    "FOTO_SONDA": {
+      "tipo": "texto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Endereço da foto da Figura 2."
+    },
+    "FOTO_AMOSTRADOR": {
+      "tipo": "texto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Endereço da foto da Figura 3."
+    },
+    "FOTO_TRANSPORTE": {
+      "tipo": "texto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Endereço da foto da Figura 4."
+    },
+    "TABELA_01": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Pontos e coordenadas copiados da Tabela 1."
+    },
+    "TABELA_02": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Parâmetros e periodicidade copiados da Tabela 2."
+    },
+    "TABELA_04": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Indicadores e metas copiados da Tabela 4."
+    },
+    "TABELA_06": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Médias copiadas da Tabela 6, sem recálculo."
+    },
+    "LABORATORIO": {
+      "tipo": "objeto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Dados do laboratório copiados da Tabela 3."
+    },
+    "TABELA_05": {
+      "tipo": "objeto",
+      "original": false,
+      "contextos": [],
+      "descricao": "Matriz de resultados por ponto e profundidade. Campos PARAMETROS e LINHAS."
+    },
+    "GRAFICOS": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Nove imagens originais em ordem; objetos TITULO e URL."
+    },
+    "ANEXOS": {
+      "tipo": "lista",
+      "original": false,
+      "contextos": [],
+      "descricao": "Anexos com TITULO, URL e opcionais TEXTO e IMAGEM."
+    }
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

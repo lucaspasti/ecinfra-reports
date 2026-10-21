@@ -1,0 +1,382 @@
+{
+  "origem": "2. QualidadeAr_CampanhaMultipla.docx",
+  "modo": "multi",
+  "arquivoHtml": "2. QualidadeAr_CampanhaMultipla.html",
+  "pastaPrevia": ".report-to-mustache/previews-ar-multipla",
+  "decisoes": [
+    "HTML Mustache único, imagens por endereço e tabelas iteráveis.",
+    "Timbrado EC infra com remoção aprovada de S8 arq.",
+    "A4 vertical e Tabela 5 em A3 horizontal conforme seções do documento.",
+    "Títulos, conteúdo técnico e referências preservados, sem cálculos ou revisão normativa.",
+    "Mantidas divergências da origem: Portaria IBAMA 85 datada julho no corpo e outubro nas referências; texto em PI-2; limiar de 60% na Tabela 6 preservado, sem conciliação normativa.",
+    "Corrigidos colchetes ausentes em QAR_39 e QAR_42 no parágrafo da Figura 4."
+  ],
+  "campos": {
+    "QAR_01": {
+      "marcadorOriginal": "[QAR_01]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_01]",
+        "Empreendedor: [QAR_01]",
+        "O presente relatório [QAR_54] refere-se ao monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01]. O monitoramento da qualidade do ar está vinculado à Licença de Operação (LO) nº [QAR_13], emitida pelo [QAR_15] sendo parte integrante do Programa de Monitoramento da Qualidade do Ar da referida licença.",
+        "À vista disso, este relatório visa atender as diretrizes propostas no Programa de Qualidade do Ar do [QAR_01], permitindo a divulgação dos resultados quantitativos do ar na região para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se:",
+        "Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em [QAR_39]/[QAR_40] e [QAR_41]/[QAR_42] na área de influência do [QAR_01], de acordo com a legislação aplicável.",
+        "O monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01] acontece de modo [QAR_02] em [QAR_14] pontos amostrais, distribuídos em diferentes áreas da [QAR_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos.",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Os parâmetros utilizados na determinação da qualidade do ar na região de influência do [QAR_01] constam resumidos na Tabela 2. Os parâmetros utilizados baseiam-se no Programa de Qualidade do Ar do empreendimento, os quais apresentam diferentes padrões de qualidade do ar, de acordo com a resolução CONAMA nº 506 de 2024.",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Atualmente, os padrões de qualidade do ar encontram-se na segunda fase (PI-2), válida até janeiro de 2033, a partir do qual inicia-se a terceira fase (PI-3) dos padrões de qualidade a serem adotados em nível nacional (Brasil, 2024). Assim, os limites adotados para avaliação das emissões atmosféricas do [QAR_01] são referentes aos padrões PI-2 da Resolução CONAMA nº 506 de 2024. Especificamente para os poluentes Monóxido de Carbono (CO), Partículas Totais em Suspensão (PTS) e Chumbo (Pb) devem ser adotados os padrões de qualidade do ar final (PF).",
+        "As amostragens da qualidade do ar na área de influência do [QAR_01] foram realizadas por laboratório contratado. As informações a respeito do laboratório podem ser observadas na Tabela 3.",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "De modo a avaliar a eficácia do Programa de Qualidade do Ar do [QAR_01], são determinados indicadores de desempenho ambiental, propostos nos moldes da ABNT NBR ISSO 14.031/2015. Os indicadores avaliados constam resumidos na Tabela 4, sendo agrupados em Indicadores de Condição Ambiental (ICA), Indicadores de Desempenho Operacional (IDO) e Indicadores de Desempenho Gerencial (IDG).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Sabendo-se disso, a preocupação com as emissões advindas das operações portuárias, com ênfase nos navios, e seus impactos na saúde humana (Corbett et al., 2007) vem aumentando ao longo dos anos, tornando-se uma das questões socioambientais levantadas por gestores portuários pelo mundo (ESPO, 2020). Neste sentido, o monitoramento da qualidade do ar nas intermediações do [QAR_01] é de extrema importância, tanto em nível local como regional.",
+        "Os percentuais de inconformidade nas campanhas amostrais atreladas aos poluentes atmosféricos do ar presente na área de influência do [QAR_01] constam resumidos na Tabela 5.",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04])."
+      ]
+    },
+    "QAR_54": {
+      "marcadorOriginal": "[QAR_54]",
+      "tipo": "texto",
+      "contextos": [
+        "Relatório [QAR_54] de Monitoramento da Qualidade do Ar",
+        "O presente relatório [QAR_54] refere-se ao monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01]. O monitoramento da qualidade do ar está vinculado à Licença de Operação (LO) nº [QAR_13], emitida pelo [QAR_15] sendo parte integrante do Programa de Monitoramento da Qualidade do Ar da referida licença.",
+        "O presente relatório [QAR_54] está pautado em legislações e outros requisitos legais voltados ao monitoramento de qualidade do ar em instalações portuárias, conforme segue:"
+      ]
+    },
+    "QAR_39": {
+      "marcadorOriginal": "[QAR_39]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_39]/[QAR_40] – [QAR_41]/[QAR_42]",
+        "Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em [QAR_39]/[QAR_40] e [QAR_41]/[QAR_42] na área de influência do [QAR_01], de acordo com a legislação aplicável.",
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_40": {
+      "marcadorOriginal": "[QAR_40]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_39]/[QAR_40] – [QAR_41]/[QAR_42]",
+        "Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em [QAR_39]/[QAR_40] e [QAR_41]/[QAR_42] na área de influência do [QAR_01], de acordo com a legislação aplicável.",
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_41": {
+      "marcadorOriginal": "[QAR_41]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_39]/[QAR_40] – [QAR_41]/[QAR_42]",
+        "Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em [QAR_39]/[QAR_40] e [QAR_41]/[QAR_42] na área de influência do [QAR_01], de acordo com a legislação aplicável.",
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_42": {
+      "marcadorOriginal": "[QAR_42]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_39]/[QAR_40] – [QAR_41]/[QAR_42]",
+        "Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em [QAR_39]/[QAR_40] e [QAR_41]/[QAR_42] na área de influência do [QAR_01], de acordo com a legislação aplicável.",
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_05": {
+      "marcadorOriginal": "[QAR_05]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_05], [QAR_06] de [QAR_07] de [QAR_08]."
+      ]
+    },
+    "QAR_06": {
+      "marcadorOriginal": "[QAR_06]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_05], [QAR_06] de [QAR_07] de [QAR_08]."
+      ]
+    },
+    "QAR_07": {
+      "marcadorOriginal": "[QAR_07]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_05], [QAR_06] de [QAR_07] de [QAR_08]."
+      ]
+    },
+    "QAR_08": {
+      "marcadorOriginal": "[QAR_08]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_05], [QAR_06] de [QAR_07] de [QAR_08]."
+      ]
+    },
+    "QAR_09": {
+      "marcadorOriginal": "[QAR_09]",
+      "tipo": "texto",
+      "contextos": [
+        "Razão social: [QAR_09]"
+      ]
+    },
+    "QAR_10": {
+      "marcadorOriginal": "[QAR_10]",
+      "tipo": "texto",
+      "contextos": [
+        "CNPJ: [QAR_10]"
+      ]
+    },
+    "QAR_11": {
+      "marcadorOriginal": "[QAR_11]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço: [QAR_11]"
+      ]
+    },
+    "QAR_12": {
+      "marcadorOriginal": "[QAR_12]",
+      "tipo": "texto",
+      "contextos": [
+        "Endereço eletrônico: [QAR_12]"
+      ]
+    },
+    "QAR_13": {
+      "marcadorOriginal": "[QAR_13]",
+      "tipo": "texto",
+      "contextos": [
+        "Nº Licença de Operação: [QAR_13]",
+        "O presente relatório [QAR_54] refere-se ao monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01]. O monitoramento da qualidade do ar está vinculado à Licença de Operação (LO) nº [QAR_13], emitida pelo [QAR_15] sendo parte integrante do Programa de Monitoramento da Qualidade do Ar da referida licença."
+      ]
+    },
+    "QAR_44": {
+      "marcadorOriginal": "[QAR_44]",
+      "tipo": "texto",
+      "contextos": [
+        "Responsável técnico: [QAR_44]"
+      ]
+    },
+    "QAR_45": {
+      "marcadorOriginal": "[QAR_45]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CREA: [QAR_45]"
+      ]
+    },
+    "QAR_46": {
+      "marcadorOriginal": "[QAR_46]",
+      "tipo": "texto",
+      "contextos": [
+        "Registro CTF/IBAMA: [QAR_46]"
+      ]
+    },
+    "QAR_15": {
+      "marcadorOriginal": "[QAR_15]",
+      "tipo": "texto",
+      "contextos": [
+        "O presente relatório [QAR_54] refere-se ao monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01]. O monitoramento da qualidade do ar está vinculado à Licença de Operação (LO) nº [QAR_13], emitida pelo [QAR_15] sendo parte integrante do Programa de Monitoramento da Qualidade do Ar da referida licença."
+      ]
+    },
+    "QAR_02": {
+      "marcadorOriginal": "[QAR_02]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01] acontece de modo [QAR_02] em [QAR_14] pontos amostrais, distribuídos em diferentes áreas da [QAR_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QAR_14": {
+      "marcadorOriginal": "[QAR_14]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01] acontece de modo [QAR_02] em [QAR_14] pontos amostrais, distribuídos em diferentes áreas da [QAR_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QAR_16": {
+      "marcadorOriginal": "[QAR_16]",
+      "tipo": "texto",
+      "contextos": [
+        "O monitoramento da qualidade do ar na área de influência das atividades de operação do [QAR_01] acontece de modo [QAR_02] em [QAR_14] pontos amostrais, distribuídos em diferentes áreas da [QAR_16]. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos."
+      ]
+    },
+    "QAR_17": {
+      "marcadorOriginal": "[QAR_17]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAR_17]"
+      ]
+    },
+    "QAR_04": {
+      "marcadorOriginal": "[QAR_04]",
+      "tipo": "texto",
+      "contextos": [
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04]).",
+        "Fonte: QAR_01 ([QAR_04])."
+      ]
+    },
+    "QAR_24": {
+      "marcadorOriginal": "[QAR_24]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_24]."
+      ]
+    },
+    "QAR_18": {
+      "marcadorOriginal": "[QAR_18]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_18]"
+      ]
+    },
+    "QAR_19": {
+      "marcadorOriginal": "[QAR_19]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_19]"
+      ]
+    },
+    "QAR_20": {
+      "marcadorOriginal": "[QAR_20]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAR_20]"
+      ]
+    },
+    "QAR_22": {
+      "marcadorOriginal": "[QAR_22]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_22]. [QAR_23]. A Figura 2 exibe registros fotográficos dos amostradores utilizados."
+      ]
+    },
+    "QAR_23": {
+      "marcadorOriginal": "[QAR_23]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_22]. [QAR_23]. A Figura 2 exibe registros fotográficos dos amostradores utilizados."
+      ]
+    },
+    "QAR_21": {
+      "marcadorOriginal": "[QAR_21]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAR_21]"
+      ]
+    },
+    "QAR_25": {
+      "marcadorOriginal": "[QAR_25]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_25]"
+      ]
+    },
+    "QAR_26": {
+      "marcadorOriginal": "[QAR_26]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_26]"
+      ]
+    },
+    "QAR_43": {
+      "marcadorOriginal": "[QAR_43]",
+      "tipo": "objeto",
+      "contextos": [
+        "[QAR_43]"
+      ]
+    },
+    "QAR_29": {
+      "marcadorOriginal": "[QAR_29]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_29]"
+      ]
+    },
+    "QAR_31": {
+      "marcadorOriginal": "[QAR_31]",
+      "tipo": "texto",
+      "contextos": [
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_32": {
+      "marcadorOriginal": "[QAR_32]",
+      "tipo": "texto",
+      "contextos": [
+        "A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais (QAR_39]/[QAR_40] – [QAR_41]/[QAR_42). Pode-se verificar que [QAR_31] % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados [QAR_32] veículos pesados no período selecionado."
+      ]
+    },
+    "QAR_30": {
+      "marcadorOriginal": "[QAR_30]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAR_30]"
+      ]
+    },
+    "QAR_33": {
+      "marcadorOriginal": "[QAR_33]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_33]"
+      ]
+    },
+    "QAR_34": {
+      "marcadorOriginal": "[QAR_34]",
+      "tipo": "endereço de imagem",
+      "contextos": [
+        "[QAR_34]"
+      ]
+    },
+    "QAR_35": {
+      "marcadorOriginal": "[QAR_35]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_35]"
+      ]
+    },
+    "QAR_36": {
+      "marcadorOriginal": "[QAR_36]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_36]"
+      ]
+    },
+    "QAR_37": {
+      "marcadorOriginal": "[QAR_37]",
+      "tipo": "texto",
+      "contextos": [
+        "[QAR_37]"
+      ]
+    },
+    "QAR_38": {
+      "marcadorOriginal": "[QAR_38]",
+      "tipo": "lista",
+      "contextos": [
+        "[QAR_38]"
+      ]
+    }
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

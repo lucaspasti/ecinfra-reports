@@ -1,0 +1,48 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report:html": "node scripts/render-report.js",
+    "report:pdf": "node scripts/export-report.js",
+    "report:build": "node scripts/render-report.js && node scripts/export-report.js",
+    "report:multi:html": "node scripts/render-multi-report.js",
+    "report:multi:pdf": "node scripts/export-report.js .report-to-mustache/previews-multiplas-campanhas \"2. QualidadeAguaSuperficial_MultiplasCampanhas.html\"",
+    "report:multi:build": "npm run report:multi:html && npm run report:multi:pdf",
+    "report:groundwater:html": "node scripts/render-groundwater-report.js",
+    "report:groundwater:pdf": "node scripts/export-report.js .report-to-mustache/previews-subterranea \"3. QualidadeAguaSubterranea_CampanhaUnitaria.html\"",
+    "report:groundwater:build": "npm run report:groundwater:html && npm run report:groundwater:pdf",
+    "report:groundwater:multi:html": "node scripts/render-groundwater-multi-report.js",
+    "report:groundwater:multi:pdf": "node scripts/export-report.js .report-to-mustache/previews-subterranea-multiplas \"4. QualidadeAguaSubterranea_MultiplasCampanhas.html\"",
+    "report:groundwater:multi:build": "npm run report:groundwater:multi:html && npm run report:groundwater:multi:pdf",
+    "report:p:html": "node scripts/render-p-report.js",
+    "report:p:pdf": "node scripts/export-report.js .report-to-mustache/previews-superficial-unitaria-p \"5. QualidadeAguaSuperficial_CampanhaUnitaria_P.html\"",
+    "report:p:build": "npm run report:p:html && npm run report:p:pdf",
+    "report:sediments:html": "node scripts/render-sediments-report.js",
+    "report:sediments:pdf": "node scripts/export-report.js .report-to-mustache/previews-sedimentos \"1. QualidadeSedimentos_CampanhaUnitaria.html\"",
+    "report:sediments:build": "npm run report:sediments:html && npm run report:sediments:pdf",
+    "report:sediments:multi:html": "node scripts/render-sediments-multi-report.js",
+    "report:sediments:multi:pdf": "node scripts/export-report.js .report-to-mustache/previews-sedimentos-multiplas \"2. QualidadeSedimentos_CampanhaMultiplas.html\"",
+    "report:sediments:multi:build": "npm run report:sediments:multi:html && npm run report:sediments:multi:pdf",
+    "report:air:unit:html": "node scripts/render-air-report.js unit",
+    "report:air:unit:pdf": "node scripts/export-report.js .report-to-mustache/previews-ar-unitaria \"1. QualidadeAr_CampanhaUnitaria.html\"",
+    "report:air:unit:build": "npm run report:air:unit:html && npm run report:air:unit:pdf",
+    "report:air:multi:html": "node scripts/render-air-report.js multi",
+    "report:air:multi:pdf": "node scripts/export-report.js .report-to-mustache/previews-ar-multipla \"2. QualidadeAr_CampanhaMultipla.html\"",
+    "report:air:multi:build": "npm run report:air:multi:html && npm run report:air:multi:pdf",
+    "report:air:all": "npm run report:air:unit:build && npm run report:air:multi:build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.9.12",
+    "jszip": "^3.10.2",
+    "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.1"
+  }
+}

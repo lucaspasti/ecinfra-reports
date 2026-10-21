@@ -1,0 +1,608 @@
+{
+  "origem": "7. Aves Aquaticas.docx",
+  "sha256": "5fcd9475c972688a8ff8f76ccba1f0499d8c3e7f49e16ca9a5bd496643ed3313",
+  "campos": {
+    "AVA_01": {
+      "original": "[AVA_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_54": {
+      "original": "[AVA_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_03": {
+      "original": "[AVA_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_04": {
+      "original": "[AVA_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_05": {
+      "original": "[AVA_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_06": {
+      "original": "[AVA_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_07": {
+      "original": "[AVA_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_08": {
+      "original": "[AVA_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_09": {
+      "original": "[AVA_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_10": {
+      "original": "[AVA_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_11": {
+      "original": "[AVA_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_12": {
+      "original": "[AVA_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_13": {
+      "original": "[AVA_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_44": {
+      "original": "[AVA_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_45": {
+      "original": "[AVA_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_46": {
+      "original": "[AVA_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_16": {
+      "original": "[AVA_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_15": {
+      "original": "[AVA_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_02": {
+      "original": "[AVA_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_14": {
+      "original": "[AVA_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_17": {
+      "original": "[AVA_17]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 100,
+          "caminho": "AVA_17.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_18": {
+      "original": "[AVA_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 105,
+          "caminho": "AVA_18.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_19": {
+      "original": "[AVA_19]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_20": {
+      "original": "[AVA_20]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_21": {
+      "original": "[AVA_21]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 110,
+          "caminho": "AVA_21.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_22": {
+      "original": "[AVA_22]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_23": {
+      "original": "[AVA_23]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 115,
+          "caminho": "AVA_23.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_24": {
+      "original": "[AVA_24]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_25": {
+      "original": "[AVA_25]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 119,
+          "caminho": "AVA_25.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_26": {
+      "original": "[AVA_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 122,
+          "caminho": "AVA_26.FIGURA_005",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_27": {
+      "original": "[AVA_27]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_28": {
+      "original": "[AVA_28]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_29": {
+      "original": "[AVA_29]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 134,
+          "caminho": "AVA_29.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_30": {
+      "original": "[AVA_30]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_31": {
+      "original": "[AVA_31]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_32": {
+      "original": "[AVA_32]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 142,
+          "caminho": "AVA_32.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_33": {
+      "original": "[AVA_33]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 145,
+          "caminho": "AVA_33.FIGURA_006",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_34": {
+      "original": "[AVA_34]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_35": {
+      "original": "[AVA_35]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 151,
+          "caminho": "AVA_35.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_36": {
+      "original": "[AVA_36]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_37": {
+      "original": "[AVA_37]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_38": {
+      "original": "[AVA_38]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_39": {
+      "original": "[AVA_39]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 154,
+          "caminho": "AVA_39.FIGURA_007",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_40": {
+      "original": "[AVA_40]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 159,
+          "caminho": "AVA_40.FIGURA_008",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_41": {
+      "original": "[AVA_41]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 163,
+          "caminho": "AVA_41.FIGURA_009",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_42": {
+      "original": "[AVA_42]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_43": {
+      "original": "[AVA_43]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_47": {
+      "original": "[AVA_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 168,
+          "caminho": "AVA_47.FIGURA_010",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_48": {
+      "original": "[AVA_48]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 173,
+          "caminho": "AVA_48.FIGURA_011",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_49": {
+      "original": "[AVA_49]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 179,
+          "caminho": "AVA_49.FIGURA_012",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_50": {
+      "original": "[AVA_50]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_51": {
+      "original": "[AVA_51]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 187,
+          "caminho": "AVA_51.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_52": {
+      "original": "[AVA_52]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 190,
+          "caminho": "AVA_52.FIGURA_013",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "AVA_53": {
+      "original": "[AVA_53]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 196,
+          "caminho": "AVA_53.TABELA_006",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_55": {
+      "original": "[AVA_55]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 203,
+          "caminho": "AVA_55.TABELA_007",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "AVA_56": {
+      "original": "[AVA_56]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "AVA_57": {
+      "original": "[AVA_57]",
+      "type": "texto",
+      "ocorrencias": []
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 105,
+      "tipo": "tabela",
+      "caminho": "AVA_18.TABELA_001",
+      "colunas": 3,
+      "linhas": 14
+    },
+    {
+      "bloco": 134,
+      "tipo": "tabela",
+      "caminho": "AVA_29.TABELA_002",
+      "colunas": 4,
+      "linhas": 8
+    },
+    {
+      "bloco": 142,
+      "tipo": "tabela",
+      "caminho": "AVA_32.TABELA_003",
+      "colunas": 7,
+      "linhas": 6
+    },
+    {
+      "bloco": 151,
+      "tipo": "tabela",
+      "caminho": "AVA_35.TABELA_004",
+      "colunas": 2,
+      "linhas": 4
+    },
+    {
+      "bloco": 187,
+      "tipo": "tabela",
+      "caminho": "AVA_51.TABELA_005",
+      "colunas": 8,
+      "linhas": 3
+    },
+    {
+      "bloco": 196,
+      "tipo": "tabela",
+      "caminho": "AVA_53.TABELA_006",
+      "colunas": 5,
+      "linhas": 3
+    },
+    {
+      "bloco": 203,
+      "tipo": "tabela",
+      "caminho": "AVA_55.TABELA_007",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId15"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "16838",
+        "w:h": "11906",
+        "w:orient": "landscape",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1276",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId23"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "16838",
+        "w:h": "11906",
+        "w:orient": "landscape",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1276",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId24"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId27"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId28"
+        }
+      ]
+    }
+  ],
+  "observacoes": [
+    "Fonte contém números de tabela repetidos. Legendas e referências textuais preservadas para revisão técnica, sem correção ambígua automática."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

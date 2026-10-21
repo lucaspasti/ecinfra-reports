@@ -1,0 +1,231 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Qualidade do Ar — {{QAR_01}}</title><style>
+    @page { size: A4; margin: 0; }
+    @page results-landscape { size: 420mm 297mm; margin: 0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #e5e7eb; color: #000; font: 12pt/1 Aptos, Calibri, Arial, sans-serif; }
+    .page { width: 210mm; height: 297mm; position: relative; margin: 24px auto; background: #fff; isolation: isolate; box-shadow: 0 2px 16px #0002; }
+    .letterhead { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
+    /* Oculta as marcas antigas do timbrado, incluindo S8 arq., e mantém EC infra. */
+    .logo-mask { position: absolute; left: 0; top: 0; width: 84.5mm; height: 18mm; background: #fff; }
+    .logo { position: absolute; left: 23.9mm; top: 2mm; width: 36.3mm; height: 14.4mm; object-fit: contain; }
+    .cover-content { position: absolute; inset: 25mm 30mm; text-align: center; }
+    p, h1 { margin: 0; font-size: inherit; font-weight: normal; }
+    .entrepreneur { position: absolute; top: 35.3mm; width: 100%; overflow-wrap: anywhere; }
+    .title-block { position: absolute; top: 84.7mm; width: 100%; }
+    h1 { line-height: 1.15; overflow-wrap: anywhere; }
+    .campaign { margin-top: 8pt; }
+    .date { position: absolute; top: 162.3mm; width: 100%; line-height: 1.2; overflow-wrap: anywhere; }
+    .footer { position: absolute; bottom: 0; left: 0; right: 0; padding: 2mm 7mm; background: #09505a; color: white; text-align: center; font-size: 6.8pt; line-height: 1.2; }
+    .page-number { position: absolute; right: 5mm; bottom: 2mm; font-size: 9pt; }
+    .summary-content { position: absolute; inset: 25mm 30mm; }
+    .summary-content h2 { margin: 0 0 12mm; color: #206b75; text-align: center; font-size: 16pt; line-height: 1.2; }
+    .summary-list { list-style: none; margin: 0; padding: 0; }
+    .summary-item { display: flex; align-items: baseline; gap: 2mm; margin-bottom: 8pt; line-height: 1.25; }
+    .summary-subsection { padding-left: 7.5mm; }
+    .summary-label { max-width: 132mm; }
+    .summary-leader { flex: 1; min-width: 3mm; border-bottom: 1px dotted currentColor; }
+    .summary-page { min-width: 5mm; text-align: right; }
+    .report-content { position: absolute; inset: 25mm 30mm; line-height: 1.25; overflow-wrap: anywhere; }
+    .report-content h2 { margin: 0 0 8pt; color: #206b75; font-size: 16pt; line-height: 1.2; }
+    .report-content p { margin: 0 0 8pt; }
+    .report-content section + section { margin-top: 10mm; }
+    .narrative { line-height: 1; text-align: justify; }
+    .narrative p { margin-bottom: 8pt; }
+    .narrative .following-heading { margin-top: 12pt; }
+    .report-content h3 { margin: 12pt 0 8pt; color: #206b75; font-size: 14pt; line-height: 1.2; }
+    .report-figure { margin: 12pt 0; break-inside: avoid; }
+    .caption { font-size: 10pt; line-height: 1.2; text-align: left; margin-bottom: 5pt; }
+    .map-image { display: block; width: 100%; height: 82mm; object-fit: contain; }
+    .map-placeholder { height: 82mm; display: flex; align-items: center; justify-content: center; border: 1px solid #aaa; background: #f7f9f9; color: #555; font-size: 11pt; }
+    .report-content .source { font-size: 9pt; line-height: 1.2; margin: 4pt 0 10pt; text-align: left; }
+    .report-table { width: 100%; border-collapse: collapse; font-size: 10pt; line-height: 1.2; text-align: center; }
+    .report-table th, .report-table td { border: 1px solid #899c9f; padding: 5pt; overflow-wrap: anywhere; background: #fff; color: #000; }
+    .report-table th { font-weight: bold; }
+    .landscape { width: 420mm; page: results-landscape; }
+    .landscape .report-content { inset: 30mm 25mm; }
+    .results-table { table-layout: fixed; font-size: 7pt; line-height: 1; }
+    .results-table th, .results-table td { padding: 0.5pt 2pt; }
+    .results-table .point-column { width: 16mm; }
+    .results-table .depth-column { width: 23mm; }
+    .chart-image { display: block; width: 100%; height: 78mm; object-fit: contain; }
+    .chart-placeholder { height: 78mm; }
+    .variable-text { white-space: pre-line; }
+    .annex-image { display: block; max-width: 100%; max-height: 190mm; object-fit: contain; margin: 8pt auto; }
+    .references p { font-size: 10pt; line-height: 1.15; text-align: left; }
+    .report-content > h3:first-child { margin-top: 0; }
+    @media print {
+      body { background: white; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      .page { margin: 0; box-shadow: none; break-after: page; }
+      .page:last-child { break-after: auto; }
+    }
+    .landscape .letterhead { width: 210mm; object-fit: fill; }
+    .landscape::before { content: ''; position: absolute; top: 3.5mm; left: 120mm; right: 0; height: 12mm; background: #329eab; z-index: -1; }
+    .landscape .logo-mask { width: 84.5mm !important; }
+    .results-table { font-size: 8pt; line-height: 1.15; }
+    .results-table th, .results-table td { padding: 4pt 2pt; }
+    .landscape .chart-image, .landscape .chart-placeholder { height: 175mm; }
+  
+.summary-item { margin-bottom: 6pt; font-size: 11pt; }
+.results-table { font-size: 9pt; line-height: 1.2; }
+.results-table td,.results-table th { padding: 5pt 3pt; }
+.equipment-image,.equipment-placeholder { height: 43mm; }
+.landscape .letterhead { width: 210mm; }
+
+.results-table {font-size:8pt;line-height:1.15;} .results-table th,.results-table td {padding:4pt 2pt;} .equipment-image,.equipment-placeholder {height:47mm;}
+
+.equipment-image,.equipment-placeholder{height:55mm;} .variable-text{white-space:pre-line;}
+</style></head><body><main class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="cover-content"><p class="entrepreneur">{{QAR_01}}</p><div class="title-block"><h1>Relatório {{QAR_54}} de Monitoramento da Qualidade do Ar</h1><p class="campaign">{{QAR_39}}&#x2F;{{QAR_40}} – {{QAR_41}}&#x2F;{{QAR_42}}</p></div><p class="date">{{QAR_05}}, {{QAR_06}} de {{QAR_07}} de {{QAR_08}}.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></main>
+<section class="page summary"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><nav class="summary-content"><h2>SUMÁRIO</h2><ol class="summary-list">{{#SUMARIO}}<li class="summary-item {{#SUBSECAO}}summary-subsection{{/SUBSECAO}}"><span class="summary-label">{{NUMERO}}. {{TITULO}}</span><span class="summary-leader"></span><span class="summary-page">{{PAGINA}}</span></li>{{/SUMARIO}}</ol></nav><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>1. Dados do empreendedor</h2>
+<p class="variable-text">Empreendedor: {{QAR_01}}</p>
+<p class="variable-text">Razão social: {{QAR_09}}</p>
+<p class="variable-text">CNPJ: {{QAR_10}}</p>
+<p class="variable-text">Endereço: {{QAR_11}}</p>
+<p class="variable-text">Endereço eletrônico: {{QAR_12}}</p>
+<p class="variable-text">Nº Licença de Operação: {{QAR_13}}</p>
+
+<h2>2. Dados da empresa consultora</h2>
+<p class="variable-text">Nome: EC Projetos</p>
+<p class="variable-text">Razão Social: Eagle Consultoria Econômica e de engenharia LTDA.</p>
+<p class="variable-text">CNPJ: 17.940.831&#x2F;0001-46</p>
+<p class="variable-text">Endereço: R. Lauro Linhares, 2123 - sala 508 - Trindade, Florianópolis - SC, 88036-003.</p>
+<p class="variable-text">Endereço eletrônico: https:&#x2F;&#x2F;ecprojetos.com.br&#x2F;en&#x2F;home&#x2F;</p>
+<p class="variable-text">Responsável técnico: {{QAR_44}}</p>
+<p class="variable-text">Registro CREA: {{QAR_45}}</p>
+<p class="variable-text">Registro CTF&#x2F;IBAMA: {{QAR_46}}</p>
+
+
+
+
+
+
+
+
+
+
+
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>3. Introdução</h2>
+<p class="variable-text">O setor portuário e seus serviços de apoio constituem-se em uma das atividades econômicas causadoras de poluição do ar, através da emissão de poluentes na forma de particulados de diferentes diâmetros, do inglês Particulate Matter (PM), gases poluentes como os NOx, CO2, SO2 e compostos orgânicos voláteis (VOCs) provenientes das emissões de navios e equipamentos portuários (Bailey; Solomon, 2004). Sabendo-se disso, a preocupação com as emissões advindas das operações portuárias, com ênfase nos navios, e seus impactos na saúde humana (Corbett et al., 2007) vem aumentando ao longo dos anos, tornando-se uma das questões socioambientais levantadas por gestores portuários pelo mundo (ESPO, 2020).</p>
+<p class="variable-text">Em se tratando da identificação das fontes geradoras de poluição do ar em atividades portuárias, a origem da poluição dependerá fundamentalmente dos produtos movimentados, uma vez que há variação em diâmetro e tipo das partículas emitidas, e dos modais utilizados no seu escoamento, já que outras modalidades de transportes como ferrovias e rodovias também adicionam carga de poluentes ao ar devido a queima de combustíveis fósseis (Mousavi et al., 2018).</p>
+<p class="variable-text">No Brasil, não há legislação específica aplicada ao setor portuário e ao controle dos níveis de emissão de atividades portuárias e navios. No entanto, o Conama por meio do Programa Nacional de Controle da Qualidade do Ar (PRONAR), instrumento de gestão que visa a manutenção de padrões mínimos de garantia da qualidade do ar em território nacional, traz diretrizes a esse respeito (Brasil, 1989).</p>
+<p class="variable-text">Complementares às diretrizes do PRONAR, tem-se os padrões de qualidade do ar especificados pela Resolução Conama nº 491 de novembro de 2018, a qual traz limites para MP10, MP2.5, SO2, NO2, O3, Fumaça, CO, chumbo e partículas totais em suspensão e também regulamenta metodologia para cálculo do Índice de Qualidade do Ar (IQA) e define níveis de alerta, atenção e emergência para poluentes atmosféricos (Brasil, 2018) . Nesse sentido, a atividade portuária deverá atender esses padrões em seus processos cotidianos, observando a interação de suas operações com a qualidade do ar tanto nos limites do empreendimento quanto em seu entorno.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>4. Objetivos e justificativas</h2>
+<p class="variable-text">O presente relatório {{QAR_54}} refere-se ao monitoramento da qualidade do ar na área de influência das atividades de operação do {{QAR_01}}. O monitoramento da qualidade do ar está vinculado à Licença de Operação (LO) nº {{QAR_13}}, emitida pelo {{QAR_15}} sendo parte integrante do Programa de Monitoramento da Qualidade do Ar da referida licença.</p>
+<p class="variable-text">À vista disso, este relatório visa atender as diretrizes propostas no Programa de Qualidade do Ar do {{QAR_01}}, permitindo a divulgação dos resultados quantitativos do ar na região para diferentes partes interessadas, com destaque o órgão ambiental licenciador, gestores portuários e comunidade. Dentre os objetivos específicos do relatório, cita-se:</p>
+<p class="variable-text">Apresentar e interpretar os resultados referentes aos padrões de qualidade do ar da campanha realizada em {{QAR_39}}&#x2F;{{QAR_40}} e {{QAR_41}}&#x2F;{{QAR_42}} na área de influência do {{QAR_01}}, de acordo com a legislação aplicável.</p>
+<p class="variable-text">Avaliar a eficácia do Programa de Qualidade do Ar por meio da determinação e discussão dos indicadores de desempenho ambiental, propostos nos moldes da Associação Brasileira de Normas Técnicas (ABNT) NBR ISO 14.031&#x2F;2015.</p>
+<p class="variable-text">Elaborar parecer técnico sobre a qualidade do ar, identificando eventuais não conformidades e propondo ações corretivas para garantir o cumprimento das normativas vigentes.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>5. Legislação e outros requisitos</h2>
+<p class="variable-text">O presente relatório {{QAR_54}} está pautado em legislações e outros requisitos legais voltados ao monitoramento de qualidade do ar em instalações portuárias, conforme segue:</p>
+<p class="variable-text">Resolução do Conselho Nacional do meio Ambiente (CONAMA) n° 05, de 15 de junho de 1989 - Institui o Programa Nacional de Controle da Qualidade do Ar (PRONAR) (Brasil, 1989).</p>
+<p class="variable-text">Resolução CONAMA n° 382, de 26 de dezembro de 2006 - Estabelece os limites máximos de emissão de poluentes atmosféricos para fontes fixas (Brasil, 2006).</p>
+<p class="variable-text">Resolução CONAMA n° 491, de 19 de novembro de 2018 - Dispõe sobre padrões de qualidade do ar (Brasil, 2018).</p>
+<p class="variable-text">Resolução CONAMA nº 506 de 5 de julho de 2024 - Estabelece padrões nacionais de qualidade do ar e fornece diretrizes para sua aplicação (Brasil, 2024).</p>
+<p class="variable-text">Portaria IBAMA n° 85 de 14 de julho de 1996 - Dispõe sobre a criação e adoção de um Programa Interno de Autofiscalização da Correta Manutenção da Frota, quanto a Emissão da Fumaça Preta, por empresa que possuem frota própria de transporte de carga ou de passageiro, cujos veículos são movidos a óleo diesel (Brasil, 1996).</p>
+<p class="variable-text">ABNT NBR 6016:2015 - Gás de escapamento de motor Diesel - avaliação de teor de fuligem com a escala de Ringelmann (ABNT, 2015).</p>
+<p class="variable-text">NBR ISO 14.031: Gestão ambiental – Avaliação de desempenho ambiental – diretrizes (ABNT, 2015).</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>6. Metodologia</h2>
+<h3>6.1. Campanha de monitoramento</h3>
+<p class="variable-text">O monitoramento da qualidade do ar na área de influência das atividades de operação do {{QAR_01}} acontece de modo {{QAR_02}} em {{QAR_14}} pontos amostrais, distribuídos em diferentes áreas da {{QAR_16}}. A Figura 1 exibe a localização dos pontos amostrais mencionados enquanto a Tabela 1 exibe as coordenadas geográficas atreladas aos pontos.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 1. Localização dos pontos de monitoramento.</figcaption>{{#QAR_17}}{{#QAR_17}}<img class="map-image " src="{{QAR_17}}" alt="Figura 1. Localização dos pontos de monitoramento.">{{/QAR_17}}{{/QAR_17}}{{^QAR_17}}<div class="map-placeholder ">[QAR_17] — Imagem a inserir</div>{{/QAR_17}}</figure>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+<p class="variable-text">{{QAR_24}}.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 1. Coordenadas geográficas dos pontos amostrais da qualidade do ar.</caption><thead><tr><th>Ponto</th><th>UTM E (m)</th><th>UTM N (m)</th></tr></thead><tbody>{{#QAR_18}}<tr><td>{{PONTO}}</td><td>{{UTM_E}}</td><td>{{UTM_N}}</td></tr>{{/QAR_18}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>6.2. Parâmetros e periodicidade</h3>
+<p class="variable-text">Os parâmetros utilizados na determinação da qualidade do ar na região de influência do {{QAR_01}} constam resumidos na Tabela 2. Os parâmetros utilizados baseiam-se no Programa de Qualidade do Ar do empreendimento, os quais apresentam diferentes padrões de qualidade do ar, de acordo com a resolução CONAMA nº 506 de 2024.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 2. Parâmetros avaliados nas campanhas de monitoramento de qualidade do ar e periodicidade.</caption><thead><tr><th>Parâmetro</th><th>Periodicidade</th></tr></thead><tbody>{{#QAR_19}}<tr><td>{{PARAMETRO}}</td><td>{{PERIODICIDADE}}</td></tr>{{/QAR_19}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+<p class="variable-text">Atualmente, os padrões de qualidade do ar encontram-se na segunda fase (PI-2), válida até janeiro de 2033, a partir do qual inicia-se a terceira fase (PI-3) dos padrões de qualidade a serem adotados em nível nacional (Brasil, 2024). Assim, os limites adotados para avaliação das emissões atmosféricas do {{QAR_01}} são referentes aos padrões PI-2 da Resolução CONAMA nº 506 de 2024. Especificamente para os poluentes Monóxido de Carbono (CO), Partículas Totais em Suspensão (PTS) e Chumbo (Pb) devem ser adotados os padrões de qualidade do ar final (PF).</p>
+<p class="variable-text">Quanto à fumaça preta, os limites estabelecidos para veículos movidos a óleo diesel constam na Portaria do IBAMA, que considera o seguinte (Brasil, 1996):</p>
+<p class="variable-text">Menor ou igual ao padrão nº 2 da Escala Ringelman, quando medidos em localidades situadas até 500 (quinhentos) metros de altitude.</p>
+<p class="variable-text">Menor ou igual do que o padrão nº 3 da Escala Ringelman, quando medidos em localidades situadas acima de 500 (quinhentos) metros de altitude.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>6.3. Amostragens e análise</h3>
+<p class="variable-text">As amostragens da qualidade do ar na área de influência do {{QAR_01}} foram realizadas por laboratório contratado. As informações a respeito do laboratório podem ser observadas na Tabela 3.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 3. Dados do laboratório responsável pelas amostragens e análises dos poluentes atmosféricos.</caption><tbody><tr><th>Nome Fantasia</th><td>{{QAR_20.NOME_FANTASIA}}</td></tr><tr><th>Razão Social</th><td>{{QAR_20.RAZAO_SOCIAL}}</td></tr><tr><th>CNPJ</th><td>{{QAR_20.CNPJ}}</td></tr><tr><th>Endereço</th><td>{{QAR_20.ENDERECO}}</td></tr><tr><th>Responsável</th><td>{{QAR_20.RESPONSAVEL}}</td></tr><tr><th>E-mail</th><td>{{QAR_20.EMAIL}}</td></tr><tr><th>Contato</th><td>{{QAR_20.CONTATO}}</td></tr></tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+<p class="variable-text">{{QAR_22}}. {{QAR_23}}. A Figura 2 exibe registros fotográficos dos amostradores utilizados.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 2. Equipamento amostrador utilizado para determinação da qualidade do ar.</figcaption>{{#QAR_21}}{{#QAR_21}}<img class="map-image equipment-image" src="{{QAR_21}}" alt="Figura 2. Equipamento amostrador utilizado para determinação da qualidade do ar.">{{/QAR_21}}{{/QAR_21}}{{^QAR_21}}<div class="map-placeholder equipment-placeholder">[QAR_21] — Imagem a inserir</div>{{/QAR_21}}</figure>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+<p class="variable-text">{{QAR_25}}</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>6.4. Indicadores de desempenho</h3>
+<p class="variable-text">De modo a avaliar a eficácia do Programa de Qualidade do Ar do {{QAR_01}}, são determinados indicadores de desempenho ambiental, propostos nos moldes da ABNT NBR ISSO 14.031&#x2F;2015. Os indicadores avaliados constam resumidos na Tabela 4, sendo agrupados em Indicadores de Condição Ambiental (ICA), Indicadores de Desempenho Operacional (IDO) e Indicadores de Desempenho Gerencial (IDG).</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 4. Indicadores de desempenho utilizados para avaliação do Programa de Qualidade do Ar.</caption><thead><tr><th>Tipo</th><th>Indicador</th><th>Unidade</th><th>Meta</th></tr></thead><tbody>{{#QAR_26}}<tr><td>{{TIPO}}</td><td>{{INDICADOR}}</td><td>{{UNIDADE}}</td><td>{{META}}</td></tr>{{/QAR_26}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h2>7. Resultados e discussões</h2>
+<h3>7.1. Padrões de Qualidade do Ar</h3>
+<p class="variable-text">O setor portuário e seus serviços de apoio constituem-se em uma das atividades econômicas causadoras de poluição do ar, através da emissão de poluentes na forma de particulados de diferentes diâmetros, do inglês Particulate Matter (PM), gases poluentes como os NOx, CO2, SO2 e compostos orgânicos voláteis (VOCs) provenientes das emissões de navios e equipamentos portuários (Bailey; Solomon, 2004).</p>
+<p class="variable-text">Sabendo-se disso, a preocupação com as emissões advindas das operações portuárias, com ênfase nos navios, e seus impactos na saúde humana (Corbett et al., 2007) vem aumentando ao longo dos anos, tornando-se uma das questões socioambientais levantadas por gestores portuários pelo mundo (ESPO, 2020). Neste sentido, o monitoramento da qualidade do ar nas intermediações do {{QAR_01}} é de extrema importância, tanto em nível local como regional.</p>
+<p class="variable-text">Os percentuais de inconformidade nas campanhas amostrais atreladas aos poluentes atmosféricos do ar presente na área de influência do {{QAR_01}} constam resumidos na Tabela 5.</p>
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page landscape"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative">
+
+<table class="report-table results-table"><caption class="caption">Tabela 5. Percentual de inconformidades das campanhas de monitoramento selecionadas frente aos padrões de qualidade do ar nos pontos amostrados.</caption><thead><tr><th>Campanha</th>{{#QAR_43.PARAMETROS}}<th>{{NOME}}</th>{{/QAR_43.PARAMETROS}}</tr></thead><tbody>{{#QAR_43.LINHAS}}<tr><td>{{CAMPANHA}}</td>{{#VALORES}}<td>{{.}}</td>{{/VALORES}}</tr>{{/QAR_43.LINHAS}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+
+</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p class="variable-text">Já a Figura 3 exibe graficamente os resultados obtidos dos parâmetros de qualidade do ar selecionados para as diferentes campanhas amostrais, comparando com a média obtida para o parâmetro e com os limites estabelecidos pelo CONAMA, quando existentes.</p>
+
+{{#QAR_29}}<figure class="report-figure"><figcaption class="caption">Figura 3. Resultados das concentrações dos parâmetros de qualidade do ar. — {{TITULO}}</figcaption>{{#URL}}{{#URL}}<img class="chart-image" src="{{URL}}" alt="{{TITULO}}">{{/URL}}{{/URL}}{{^URL}}<div class="map-placeholder chart-placeholder">[QAR_29] — Gráfico a inserir</div>{{/URL}}</figure>{{/QAR_29}}
+
+
+
+
+
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.2. Fumaça Preta</h3>
+<p class="variable-text">A fumaça preta engloba materiais particulados que apresentam diâmetro entre 2,5 e 10 micrômetros com origem na queima incompleta do combustível que, quando em suspensão no ar e ao ser inalado tende a se acumular nos pulmões (Arbex et al., 2012), trazendo grande risco para quem entra em contato com esse poluente.</p>
+<p class="variable-text">A Figura 4 exibe os resultados das densidades de fumaça preta para os veículos que circularam no período das campanhas amostrais ({{QAR_39}}&#x2F;{{QAR_40}} – {{QAR_41}}&#x2F;{{QAR_42}}). Pode-se verificar que {{QAR_31}} % dos veículos mapeados no ponto de monitoramento apresentaram inconformidade com os limites estabelecidos pela Portaria nº 85 de 1996 do IBAMA. Ao todo, foram monitorados {{QAR_32}} veículos pesados no período selecionado.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 4. Número de veículos por grau de densidade de fumaça preta no período selecionado.</figcaption>{{#QAR_30}}{{#QAR_30}}<img class="map-image " src="{{QAR_30}}" alt="Figura 4. Número de veículos por grau de densidade de fumaça preta no período selecionado.">{{/QAR_30}}{{/QAR_30}}{{^QAR_30}}<div class="map-placeholder ">[QAR_30] — Imagem a inserir</div>{{/QAR_30}}</figure>
+
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><p class="variable-text">A Tabela 6 resume os veículos identificados no período que ultrapassaram o percentual de 60% de densidade no período selecionado.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 6. Listagem de veículos que tiveram densidade de fumaça preta superior a 60% no período selecionado.</caption><thead><tr><th>Data</th><th>Densidade (%)</th><th>Veículo</th></tr></thead><tbody>{{#QAR_33}}<tr><td>{{DATA}}</td><td>{{DENSIDADE}}</td><td>{{VEICULO}}</td></tr>{{/QAR_33}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+<p class="variable-text">Por fim, a Figura 5 exibe o número de veículos por tipologia avistada, em relação aos diferentes níveis de densidade de fumaça preta para o período selecionado.</p>
+
+<figure class="report-figure"><figcaption class="caption">Figura 5. Número de veículos por tipologia e densidade de fumaça preta monitorado no período selecionado.</figcaption>{{#QAR_34}}{{#QAR_34}}<img class="map-image " src="{{QAR_34}}" alt="Figura 5. Número de veículos por tipologia e densidade de fumaça preta monitorado no período selecionado.">{{/QAR_34}}{{/QAR_34}}{{^QAR_34}}<div class="map-placeholder ">[QAR_34] — Imagem a inserir</div>{{/QAR_34}}</figure>
+
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative"><h3>7.3. Indicadores de Desempenho</h3>
+<p class="variable-text">A Tabela 7 exibe os resultados obtidos frente aos indicadores de desempenho adotados.</p>
+
+
+<table class="report-table"><caption class="caption">Tabela 7. Resultados obtidos dos indicadores de desempenho.</caption><thead><tr><th>Indicador</th><th>Meta</th><th>Resultado</th></tr></thead><tbody>{{#QAR_35}}<tr><td>{{INDICADOR}}</td><td>{{META}}</td><td>{{RESULTADO}}</td></tr>{{/QAR_35}}</tbody></table>
+<p class="source">Fonte: {{QAR_01}} ({{QAR_04}}).</p>
+
+<h2>8. Parecer Técnico</h2>
+<p class="variable-text">{{QAR_36}}</p>
+<h2>9. Medidas de mitigação</h2>
+<p class="variable-text">{{QAR_37}}</p>
+<h2>10. Anexos</h2>
+{{#QAR_38}}<h3>{{TITULO}}</h3>{{#TEXTO}}<p class="variable-text">{{TEXTO}}</p>{{/TEXTO}}{{#IMAGEM}}{{#IMAGEM}}<img class="annex-image" src="{{IMAGEM}}" alt="{{TITULO}}">{{/IMAGEM}}{{/IMAGEM}}{{#URL}}<p><a href="{{URL}}">{{URL}}</a></p>{{/URL}}{{/QAR_38}}{{^QAR_38}}<p>Sem anexos.</p>{{/QAR_38}}</div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section>
+<section class="page"><img class="letterhead" src="{{ASSET_BASE}}/5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png" alt=""><div class="logo-mask" aria-hidden="true"></div><img class="logo" src="{{ASSET_BASE}}/706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png" alt="EC infra"><div class="report-content narrative references"><h2>11. Lista de Referências</h2>
+<p class="variable-text">ARBEX, Marcos Abdo et al. A poluição do ar e o sistema respiratório. 2012. Jornal Brasileiro de Pneumologia, v.38, n.5, p.643-655, São Paulo, 2012. Disponível em: https:&#x2F;&#x2F;www.scielo.br&#x2F;j&#x2F;jbpneu&#x2F;a&#x2F;sD3cLkXqQwmDFpgzsyj7gBm&#x2F;?lang&#x3D;pt#:~:text&#x3D;Pela%20an%C3%A1lise%20de%20diversos%20estudos,incid%C3%AAncia%20de%20c%C3%A2nce r%20de%20pulm%C3%A3o.</p>
+<p class="variable-text">ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR ISO 14.031: Gestão ambiental – Avaliação de desempenho ambiental – diretrizes. Rio de Janeiro, RJ: ABNT, 2015. 44 p.</p>
+<p class="variable-text">ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR ISO 6016: Gás de escapamento de motor Diesel - avaliação de teor de fuligem com a escala de Ringelmann. Rio de Janeiro, RJ: ABNT 2015. 6 p.</p>
+<p class="variable-text">BAILEY, D.; SOLOMON, G. Pollution prevention at ports: clearing the air. Environmental Impact Assessment Review, [S.L.], v. 24, n. 7-8, p. 749-774, out. 2004. Elsevier BV. http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1016&#x2F;j.eiar.2004.06.005.</p>
+<p class="variable-text">BRASIL. Conama aprova prazos para novos padrões de qualidade do ar. 2024. Disponível em: https:&#x2F;&#x2F;www.gov.br&#x2F;mma&#x2F;pt-br&#x2F;assuntos&#x2F;noticias&#x2F;conama-aprova-prazos-para-novos-padroes-de-qualidade-do-ar.</p>
+<p class="variable-text">BRASIL. Portaria IBAMA nº 85 de 17 de outubro de 1996. Dispõe sobre a criação e adoção de um Programa Interno de Autofiscalização da Correta Manutenção da Frota, quanto a Emissão da Fumaça Preta, por empresa que possuem frota própria de transporte de carga ou de passageiro, cujos veículos são movidos a óleo diesel. Brasilia, DF, Diário Oficial da União. 1996. Disponível em: https:&#x2F;&#x2F;www.ibama.gov.br&#x2F;sophia&#x2F;cnia&#x2F;legislacao&#x2F;IBAMA&#x2F;PT0085-171096.PDF</p>
+<p class="variable-text">BRASIL. Resolução CONAMA nº 382 de 26 de dezembro de 2006. Estabelece os limites máximos de emissão de poluentes atmosféricos para fontes fixas. Brasília, DF, Diário Oficial da União. 2006. Disponível em: https:&#x2F;&#x2F;conama.mma.gov.br&#x2F;?option&#x3D;com_sisconama&amp;task&#x3D;arquivo.download&amp;id&#x3D;510.</p>
+<p class="variable-text">BRASIL. Resolução CONAMA nº 491 de 19 de novembro de 2018. Dispõe sobre padrões de qualidade do ar. Brasília, DF, Diário Oficial da União. 2018. Disponível em: https:&#x2F;&#x2F;conama.mma.gov.br&#x2F;?option&#x3D;com_sisconama&amp;task&#x3D;arquivo.download&amp;id&#x3D;766.</p>
+<p class="variable-text">BRASIL. Resolução CONAMA nº 506 de 5 de julho de 2024. Estabelece padrões nacionais de qualidade do ar e fornece diretrizes para sua aplicação. Brasilia, DF, Diário Oficial da União. 2024. Disponível em: https:&#x2F;&#x2F;conama.mma.gov.br&#x2F;index.php?option&#x3D;com_sisconama&amp;task&#x3D;arquivo.download&amp;id&#x3D;827.</p>
+<p class="variable-text">BRASIL. Resolução do CONAMA nº 05 de 15 de junho de 1989. Dispõe sobre o Programa Nacional de Controle da Poluição do Ar – PRONAR. Brasília, DF, Diário Oficial da União. 1989. Disponível em: https:&#x2F;&#x2F;conama.mma.gov.br&#x2F;?option&#x3D;com_sisconama&amp;task&#x3D;arquivo.download&amp;id&#x3D;81.</p>
+<p class="variable-text">CORBETT, J. J.; WINEBRAKE, J. J.; GREEN, E. H.; KASIBHATLA, Prasad; EYRING, Veronika; LAUER, Axel. Mortality from Ship Emissions: a global assessment. Environmental Science &amp; Technology, [S.L.], v. 41, n. 24, p. 8512-8518, dez. 2007. American Chemical Society (ACS). http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1021&#x2F;es071686z.</p>
+<p class="variable-text">EUROPEAN SEA PORTS ORGANISATION (ESPO). ESPO Environmental Report 2020. [S. L.]: Espo, 2020. 30 p. Disponível em: https:&#x2F;&#x2F;www.espo.be&#x2F;media&#x2F;Environmental%20Report-WEB-FINAL.pdf.</p>
+<p class="variable-text">MOUSAVI, A.; SOWLAT, M. H.; HASHEMINASSAB, S.; PIKELNAYA, O.; POLIDORI, A.; BAN-WEISS, G.; SIOUTAS, C.. Impact of particulate matter (PM) emissions from ships, locomotives, and freeways in the communities near the ports of Los Angeles (POLA) and Long Beach (POLB) on the air quality in the Los Angeles county. Atmospheric Environment, [S.L.], v. 195, p. 159-169, dez. 2018. Elsevier BV. http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1016&#x2F;j.atmosenv.2018.09.044.</p></div><footer class="footer"><div>Fone: + 55 (48) 99931-0580 | contato@ecprojetos.com.br | R. Lauro Linhares, 2123 | - Bloco B Salas 507/508 |</div><div>Florianópolis-Santa Catarina | CNPJ: 17.940.831/0001-46 | www.ecprojetos.com.br</div><span class="page-number"></span></footer></section></body></html>

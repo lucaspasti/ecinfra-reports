@@ -1,0 +1,134 @@
+[
+  {
+    "numero": "1",
+    "titulo": "Dados do empreendedor",
+    "bloco": 56,
+    "nivel": 1
+  },
+  {
+    "numero": "2",
+    "titulo": "Dados da empresa consultora",
+    "bloco": 64,
+    "nivel": 1
+  },
+  {
+    "numero": "3",
+    "titulo": "Introdução",
+    "bloco": 85,
+    "nivel": 1
+  },
+  {
+    "numero": "4",
+    "titulo": "Objetivos e justificativas",
+    "bloco": 89,
+    "nivel": 1
+  },
+  {
+    "numero": "5",
+    "titulo": "Legislação e outros requisitos",
+    "bloco": 96,
+    "nivel": 1
+  },
+  {
+    "numero": "6",
+    "titulo": "Metodologia",
+    "bloco": 102,
+    "nivel": 1
+  },
+  {
+    "numero": "6.1",
+    "titulo": "Classificação dos resíduos sólidos",
+    "bloco": 103,
+    "nivel": 2
+  },
+  {
+    "numero": "6.2",
+    "titulo": "Coleta de dados",
+    "bloco": 117,
+    "nivel": 2
+  },
+  {
+    "numero": "6.3",
+    "titulo": "Indicadores de desempenho",
+    "bloco": 124,
+    "nivel": 2
+  },
+  {
+    "numero": "7",
+    "titulo": "Resultados e discussões",
+    "bloco": 130,
+    "nivel": 1
+  },
+  {
+    "numero": "7.1",
+    "titulo": "Diagnóstico",
+    "bloco": 131,
+    "nivel": 2
+  },
+  {
+    "numero": "7.1.1",
+    "titulo": "Caracterização dos resíduos",
+    "bloco": 132,
+    "nivel": 3
+  },
+  {
+    "numero": "7.1.2",
+    "titulo": "Geração de resíduos",
+    "bloco": 138,
+    "nivel": 3
+  },
+  {
+    "numero": "7.2",
+    "titulo": "Manejo dos resíduos",
+    "bloco": 155,
+    "nivel": 2
+  },
+  {
+    "numero": "7.2.1",
+    "titulo": "Acondicionamento",
+    "bloco": 156,
+    "nivel": 3
+  },
+  {
+    "numero": "7.2.2",
+    "titulo": "Armazenamento e transporte",
+    "bloco": 171,
+    "nivel": 3
+  },
+  {
+    "numero": "7.2.3",
+    "titulo": "Tratamento/Destinação",
+    "bloco": 191,
+    "nivel": 3
+  },
+  {
+    "numero": "7.3",
+    "titulo": "Ações Complementares",
+    "bloco": 213,
+    "nivel": 2
+  },
+  {
+    "numero": "7.4",
+    "titulo": "Indicadores de Desempenho",
+    "bloco": 220,
+    "nivel": 2
+  },
+  {
+    "numero": "8",
+    "titulo": "Parecer Técnico",
+    "bloco": 227,
+    "nivel": 1
+  },
+  {
+    "numero": "9",
+    "titulo": "Medidas de Mitigação",
+    "bloco": 229,
+    "nivel": 1
+  },
+  {
+    "numero": "10",
+    "titulo": "Lista de Referências",
+    "bloco": 231,
+    "nivel": 1
+  }
+]

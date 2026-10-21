@@ -1,0 +1,920 @@
+{
+  "QAGS_01": "[QAGS_01]",
+  "QAGS_54": "[QAGS_54]",
+  "QAGS_03": "[QAGS_03]",
+  "QAGS_04": "[QAGS_04]",
+  "QAGS_05": "[QAGS_05]",
+  "QAGS_06": "[QAGS_06]",
+  "QAGS_07": "[QAGS_07]",
+  "QAGS_08": "[QAGS_08]",
+  "QAGS_09": "[QAGS_09]",
+  "QAGS_10": "[QAGS_10]",
+  "QAGS_11": "[QAGS_11]",
+  "QAGS_12": "[QAGS_12]",
+  "QAGS_13": "[QAGS_13]",
+  "QAGS_44": "[QAGS_44]",
+  "QAGS_45": "[QAGS_45]",
+  "QAGS_46": "[QAGS_46]",
+  "QAGS_15": "[QAGS_15]",
+  "QAGS_02": "[QAGS_02]",
+  "QAGS_14": "[QAGS_14]",
+  "QAGS_16": "[QAGS_16]",
+  "QAGS_17": "",
+  "QAGS_18": [
+    {
+      "PONTO": "[PONTO_1]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_2]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_3]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_4]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    },
+    {
+      "PONTO": "[PONTO_5]",
+      "UTM_E": "[UTM_E]",
+      "UTM_N": "[UTM_N]",
+      "CLASSE": "[CLASSE_DE_USO]"
+    }
+  ],
+  "QAGS_19": [
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    },
+    {
+      "GRUPO": "[GRUPO]",
+      "PARAMETRO": "[PARÂMETRO]",
+      "PERIODICIDADE": "[PERIODICIDADE]"
+    }
+  ],
+  "QAGS_20": {
+    "NOME_FANTASIA": "[NOME_FANTASIA]",
+    "RAZAO_SOCIAL": "[RAZAO_SOCIAL]",
+    "CNPJ": "[CNPJ]",
+    "ENDERECO": "[ENDERECO]",
+    "RESPONSAVEL": "[RESPONSAVEL]",
+    "EMAIL": "[EMAIL]",
+    "CONTATO": "[CONTATO]"
+  },
+  "QAGS_21": "[QAGS_21]",
+  "QAGS_22": "",
+  "QAGS_62": "[QAGS_62]",
+  "QAGS_65": "[QAGS_65]",
+  "QAGS_63": "[QAGS_63]",
+  "QAGS_23": "",
+  "QAGS_64": "[QAGS_64]",
+  "QAGS_24": "",
+  "QAGS_25": "[QAGS_25]",
+  "QAGS_26": [
+    {
+      "TIPO": "[TIPO]",
+      "INDICADOR": "[INDICADOR]",
+      "UNIDADE": "[UNIDADE]",
+      "META": "[META]"
+    }
+  ],
+  "QAGS_31": "[QAGS_31]",
+  "QAGS_27": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_11]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_12]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_13]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_14]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_15]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_6]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_7]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_8]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      }
+    ]
+  },
+  "QAGS_28": "[QAGS_28]",
+  "QAGS_29": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_32": "[QAGS_32]",
+  "QAGS_33": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_6]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_7]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_8]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      }
+    ]
+  },
+  "QAGS_57": "[QAGS_57]",
+  "QAGS_36": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_34": "[QAGS_34]",
+  "QAGS_35": {
+    "PARAMETROS": [
+      {
+        "NOME": "[PARÂMETRO_01]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_02]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_03]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_04]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_05]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_06]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_07]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_08]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_09]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_10]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_11]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_12]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      },
+      {
+        "NOME": "[PARÂMETRO_13]",
+        "MEDIA": "[MÉDIA]",
+        "VMP": "[VMP]",
+        "UNIDADE": "[UNIDADE]"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_6]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_7]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_8]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      }
+    ]
+  },
+  "QAGS_66": "[QAGS_66]",
+  "QAGS_37": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_38": "[QAGS_38]",
+  "QAGS_67": {
+    "PARAMETROS": [
+      {
+        "NOME": "E. coli",
+        "UNIDADE": "NMP/100 mL"
+      },
+      {
+        "NOME": "Enterococos",
+        "UNIDADE": "NMP/100 mL"
+      },
+      {
+        "NOME": "Coliformes termotolerantes",
+        "UNIDADE": "NMP/100 mL"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "[PONTO_1]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_2]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_3]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_4]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      },
+      {
+        "PONTO": "[PONTO_5]",
+        "VALORES": [
+          "[VALOR]",
+          "[VALOR]",
+          "[VALOR]"
+        ]
+      }
+    ]
+  },
+  "QAGS_68": "[QAGS_68]",
+  "QAGS_39": [
+    {
+      "TITULO": "[PARÂMETRO]",
+      "URL": ""
+    }
+  ],
+  "QAGS_40": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "QAGS_41": "[QAGS_41]",
+  "QAGS_42": "[QAGS_42]",
+  "QAGS_43": [
+    {
+      "TITULO": "[ANEXO]",
+      "TEXTO": "[DESCRIÇÃO]",
+      "IMAGEM": "",
+      "URL": ""
+    }
+  ]
+}

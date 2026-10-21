@@ -1,0 +1,149 @@
+{
+  "origem": "0. Fauna Modelo.docx",
+  "sha256": "10c1588e61d4e071dd5f8b134af883024448627b876f813339d41a6a1d82de43",
+  "campos": {
+    "PRS_01": {
+      "original": "[PRS_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_54": {
+      "original": "[PRS_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_03": {
+      "original": "[PRS_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_04": {
+      "original": "[PRS_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_05": {
+      "original": "[PRS_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_06": {
+      "original": "[PRS_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_07": {
+      "original": "[PRS_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_08": {
+      "original": "[PRS_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_09": {
+      "original": "[PRS_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_10": {
+      "original": "[PRS_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_11": {
+      "original": "[PRS_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_12": {
+      "original": "[PRS_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_13": {
+      "original": "[PRS_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_44": {
+      "original": "[PRS_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_45": {
+      "original": "[PRS_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_46": {
+      "original": "[PRS_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PRS_15": {
+      "original": "[PRS_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "QAR_01": {
+      "original": "[QAR_01]",
+      "type": "texto",
+      "ocorrencias": []
+    }
+  },
+  "tabelas": [],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId11"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId12"
+        }
+      ]
+    }
+  ],
+  "observacoes": [
+    "Fonte incompleta: título XXXX, objetivos de resíduos e marcador QAR_01; seções finais vazias. Preservados sem inventar conteúdo.",
+    "A fonte contém instruções editoriais ou lacunas no corpo; conferir antes de emissão técnica."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

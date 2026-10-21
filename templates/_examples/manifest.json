@@ -1,0 +1,89 @@
+{
+  "algoritmo": "sha256",
+  "templates": {
+    "AVA_aves_aquaticas": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "BAQ_biota_aquatica": {
+      "image3.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "BEN_bentos": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "BIO_bioacumulacao": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "CET_cetaceos": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "ELC_encalhes": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "MAN_manguezais": {
+      "image3.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "MDP_morfodinamica_praial": {
+      "image4.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "MOS_organismos_sentinelas": {
+      "image2.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "MPA_pesca_artesanal": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "NPS_ruidos_terrestres": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "PCS_comunicacao_social": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "PEA_educacao_ambiental": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "PMM_meteoceanografico": {
+      "image2.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "PRS_residuos_solidos": {
+      "image2.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "PTA_peixes_teleosteos": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAGS_campanhas_multiplas": {
+      "image3.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAGS_campanha_unitaria": {
+      "image3.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAR_campanhas_multiplas": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAR_campanha_unitaria": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAS_campanhas_multiplas": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QAS_campanha_unitaria": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QEF_campanhas_multiplas": {
+      "image3.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QEF_campanha_unitaria": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QLN_quelonios": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QSD_campanhas_multiplas": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "QSD_campanha_unitaria": {
+      "image1.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    },
+    "RSA_ruidos_subaquaticos": {
+      "image2.png": "ebbf8a3ae7292af4193b70fa25ef37496e798d80146655e77b10adec6e4cffc9.png"
+    }
+  }
+}

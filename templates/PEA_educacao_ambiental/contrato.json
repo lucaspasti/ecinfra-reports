@@ -1,0 +1,385 @@
+{
+  "origem": "1. EducaçaoAmbiental.docx",
+  "sha256": "c2a748692ce48b8a7952061eaea7b78a39488999b05f2bc297c3b4d9ff33bf2a",
+  "campos": {
+    "PEA_01": {
+      "original": "[PEA_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_54": {
+      "original": "[PEA_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_03": {
+      "original": "[PEA_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_04": {
+      "original": "[PEA_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_05": {
+      "original": "[PEA_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_06": {
+      "original": "[PEA_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_07": {
+      "original": "[PEA_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_08": {
+      "original": "[PEA_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_09": {
+      "original": "[PEA_09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_10": {
+      "original": "[PEA_10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_11": {
+      "original": "[PEA_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_12": {
+      "original": "[PEA_12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_13": {
+      "original": "[PEA_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_44": {
+      "original": "[PEA_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_45": {
+      "original": "[PEA_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_46": {
+      "original": "[PEA_46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_15": {
+      "original": "[PEA_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_02": {
+      "original": "[PEA_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_26": {
+      "original": "[PEA_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 124,
+          "caminho": "PEA_26.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PEA_16": {
+      "original": "[PEA_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_17": {
+      "original": "[PEA_17]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_18": {
+      "original": "[PEA_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 137,
+          "caminho": "PEA_18.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PEA_14": {
+      "original": "[PEA_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_19": {
+      "original": "[PEA_19]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 153,
+          "caminho": "PEA_19.TABELA_002",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 167,
+          "caminho": "PEA_19.TABELA_003",
+          "tipo": "tabela"
+        },
+        {
+          "bloco": 172,
+          "caminho": "PEA_19.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PEA_21": {
+      "original": "[PEA_21]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 156,
+          "caminho": "PEA_21.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "PEA_20": {
+      "original": "[PEA_20]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_47": {
+      "original": "[PEA_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 183,
+          "caminho": "PEA_47.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "PEA_41": {
+      "original": "[PEA_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "PEA_42": {
+      "original": "[PEA_42]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "FIGURAS": {
+      "original": "[FIGURAS]",
+      "ocorrencias": [
+        {
+          "bloco": 175,
+          "caminho": "FIGURAS.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ],
+      "type": "objeto"
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 124,
+      "tipo": "tabela",
+      "caminho": "PEA_26.TABELA_001",
+      "colunas": 4,
+      "linhas": 16
+    },
+    {
+      "bloco": 153,
+      "tipo": "tabela",
+      "caminho": "PEA_19.TABELA_002",
+      "colunas": 5,
+      "linhas": 18
+    },
+    {
+      "bloco": 167,
+      "tipo": "tabela",
+      "caminho": "PEA_19.TABELA_003",
+      "colunas": 5,
+      "linhas": 12
+    },
+    {
+      "bloco": 172,
+      "tipo": "tabela",
+      "caminho": "PEA_19.TABELA_004",
+      "colunas": 5,
+      "linhas": 12
+    },
+    {
+      "bloco": 183,
+      "tipo": "tabela",
+      "caminho": "PEA_47.TABELA_005",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId16"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId18"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId20"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId21"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId29"
+        }
+      ],
+      "footers": []
+    }
+  ],
+  "observacoes": [
+    "Figura 003: campo adicional FIGURAS.FIGURA_003.URL; legenda sem marcador exclusivo no DOCX."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

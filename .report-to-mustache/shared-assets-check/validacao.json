@@ -1,0 +1,131 @@
+{
+  "templates": 31,
+  "imagens": 1022,
+  "arquivosUnicos": 2,
+  "resultados": [
+    {
+      "template": "AVA_aves_aquaticas",
+      "imagens": 30
+    },
+    {
+      "template": "BAQ_biota_aquatica",
+      "imagens": 36
+    },
+    {
+      "template": "BEN_bentos",
+      "imagens": 30
+    },
+    {
+      "template": "BIO_bioacumulacao",
+      "imagens": 40
+    },
+    {
+      "template": "CET_cetaceos",
+      "imagens": 26
+    },
+    {
+      "template": "ELC_encalhes",
+      "imagens": 28
+    },
+    {
+      "template": "MAN_manguezais",
+      "imagens": 34
+    },
+    {
+      "template": "MDP_morfodinamica_praial",
+      "imagens": 30
+    },
+    {
+      "template": "MOS_organismos_sentinelas",
+      "imagens": 46
+    },
+    {
+      "template": "MPA_pesca_artesanal",
+      "imagens": 32
+    },
+    {
+      "template": "NPS_campanhas_multiplas",
+      "imagens": 14
+    },
+    {
+      "template": "NPS_ruidos_terrestres",
+      "imagens": 32
+    },
+    {
+      "template": "PCS_comunicacao_social",
+      "imagens": 32
+    },
+    {
+      "template": "PEA_educacao_ambiental",
+      "imagens": 32
+    },
+    {
+      "template": "PMM_meteoceanografico",
+      "imagens": 36
+    },
+    {
+      "template": "PRS_fauna_modelo",
+      "imagens": 10
+    },
+    {
+      "template": "PRS_residuos_solidos",
+      "imagens": 24
+    },
+    {
+      "template": "PTA_peixes_teleosteos",
+      "imagens": 30
+    },
+    {
+      "template": "QAGS_campanhas_multiplas",
+      "imagens": 44
+    },
+    {
+      "template": "QAGS_campanha_unitaria",
+      "imagens": 44
+    },
+    {
+      "template": "QAR_campanhas_multiplas",
+      "imagens": 34
+    },
+    {
+      "template": "QAR_campanha_unitaria",
+      "imagens": 34
+    },
+    {
+      "template": "QAS_campanhas_multiplas",
+      "imagens": 50
+    },
+    {
+      "template": "QAS_campanha_unitaria",
+      "imagens": 50
+    },
+    {
+      "template": "QAS_campanha_unitaria_P",
+      "imagens": 14
+    },
+    {
+      "template": "QEF_campanhas_multiplas",
+      "imagens": 34
+    },
+    {
+      "template": "QEF_campanha_unitaria",
+      "imagens": 38
+    },
+    {
+      "template": "QLN_quelonios",
+      "imagens": 26
+    },
+    {
+      "template": "QSD_campanhas_multiplas",
+      "imagens": 44
+    },
+    {
+      "template": "QSD_campanha_unitaria",
+      "imagens": 40
+    },
+    {
+      "template": "RSA_ruidos_subaquaticos",
+      "imagens": 28
+    }
+  ]
+}

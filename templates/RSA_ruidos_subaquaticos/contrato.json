@@ -1,0 +1,407 @@
+{
+  "origem": "2. MonitoramentodeRuidosSubAquaticos.docx",
+  "sha256": "35e4357392113e0a9d2daa749d326dcd2a5612b3f87e48224018bca26de44bb8",
+  "campos": {
+    "RSA_01": {
+      "original": "[RSA_01]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_54": {
+      "original": "[RSA_54]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_03": {
+      "original": "[RSA_03]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_04": {
+      "original": "[RSA_04]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_05": {
+      "original": "[RSA_05]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_06": {
+      "original": "[RSA_06]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_07": {
+      "original": "[RSA_07]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_08": {
+      "original": "[RSA_08]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_09": {
+      "original": "[RSA _09]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_10": {
+      "original": "[RSA _10]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_11": {
+      "original": "[RSA_11]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_12": {
+      "original": "[RSA _12]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_13": {
+      "original": "[RSA_13]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_44": {
+      "original": "[RSA_44]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_45": {
+      "original": "[RSA_45]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_46": {
+      "original": "[RSA _46]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_15": {
+      "original": "[RSA_15]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_02": {
+      "original": "[RSA_02]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_14": {
+      "original": "[RSA_14]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_16": {
+      "original": "[RSA_16]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_17": {
+      "original": "[RSA_17]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_18": {
+      "original": "[RSA_18]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 108,
+          "caminho": "RSA_18.TABELA_001",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "RSA_24": {
+      "original": "[RSA_24]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 114,
+          "caminho": "RSA_24.TABELA_002",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "RSA_19": {
+      "original": "[RSA_19]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_20": {
+      "original": "[RSA_20]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 120,
+          "caminho": "RSA_20.FIGURA_002",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "RSA_21": {
+      "original": "[RSA_21]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 124,
+          "caminho": "RSA_21.FIGURA_003",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "RSA_26": {
+      "original": "[RSA_26]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 132,
+          "caminho": "RSA_26.TABELA_003",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "RSA_55": {
+      "original": "[RSA_55]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_56": {
+      "original": "[RSA_56]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_58": {
+      "original": "[RSA_58]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 136,
+          "caminho": "RSA_58.FIGURA_004",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "RSA_22": {
+      "original": "[RSA_22]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 146,
+          "caminho": "RSA_22.TABELA_004",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "RSA_23": {
+      "original": "[RSA_23]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 151,
+          "caminho": "RSA_23.FIGURA_005",
+          "tipo": "imagem"
+        }
+      ]
+    },
+    "RSA_47": {
+      "original": "[RSA_47]",
+      "type": "objeto",
+      "ocorrencias": [
+        {
+          "bloco": 160,
+          "caminho": "RSA_47.TABELA_005",
+          "tipo": "tabela"
+        }
+      ]
+    },
+    "RSA_41": {
+      "original": "[RSA_41]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "RSA_42": {
+      "original": "[RSA_42]",
+      "type": "texto",
+      "ocorrencias": []
+    },
+    "FIGURAS": {
+      "original": "[FIGURAS]",
+      "ocorrencias": [
+        {
+          "bloco": 101,
+          "caminho": "FIGURAS.FIGURA_001",
+          "tipo": "imagem"
+        }
+      ],
+      "type": "objeto"
+    }
+  },
+  "tabelas": [
+    {
+      "bloco": 108,
+      "tipo": "tabela",
+      "caminho": "RSA_18.TABELA_001",
+      "colunas": 3,
+      "linhas": 20
+    },
+    {
+      "bloco": 114,
+      "tipo": "tabela",
+      "caminho": "RSA_24.TABELA_002",
+      "colunas": 2,
+      "linhas": 16
+    },
+    {
+      "bloco": 132,
+      "tipo": "tabela",
+      "caminho": "RSA_26.TABELA_003",
+      "colunas": 4,
+      "linhas": 15
+    },
+    {
+      "bloco": 146,
+      "tipo": "tabela",
+      "caminho": "RSA_22.TABELA_004",
+      "colunas": 7,
+      "linhas": 18
+    },
+    {
+      "bloco": 160,
+      "tipo": "tabela",
+      "caminho": "RSA_47.TABELA_005",
+      "colunas": 3,
+      "linhas": 3
+    }
+  ],
+  "secoes": [
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId17"
+        }
+      ],
+      "footers": [
+        {
+          "w:type": "default",
+          "r:id": "rId18"
+        }
+      ]
+    },
+    {
+      "page": {
+        "w:w": "23811",
+        "w:h": "16838",
+        "w:orient": "landscape",
+        "w:code": "8"
+      },
+      "margins": {
+        "w:top": "1701",
+        "w:right": "1417",
+        "w:bottom": "1701",
+        "w:left": "1417",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId19"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [
+        {
+          "w:type": "default",
+          "r:id": "rId22"
+        }
+      ],
+      "footers": []
+    },
+    {
+      "page": {
+        "w:w": "11906",
+        "w:h": "16838",
+        "w:code": "9"
+      },
+      "margins": {
+        "w:top": "1417",
+        "w:right": "1701",
+        "w:bottom": "1417",
+        "w:left": "1701",
+        "w:header": "567",
+        "w:footer": "0",
+        "w:gutter": "0"
+      },
+      "headers": [],
+      "footers": []
+    }
+  ],
+  "observacoes": [
+    "Marcador [RSA _09] usa a chave normalizada RSA_09; espaços originais preservados na prévia.",
+    "Marcador [RSA _10] usa a chave normalizada RSA_10; espaços originais preservados na prévia.",
+    "Marcador [RSA _12] usa a chave normalizada RSA_12; espaços originais preservados na prévia.",
+    "Marcador [RSA _13] usa a chave normalizada RSA_13; espaços originais preservados na prévia.",
+    "Marcador [RSA _46] usa a chave normalizada RSA_46; espaços originais preservados na prévia.",
+    "Figura 001: campo adicional FIGURAS.FIGURA_001.URL; legenda sem marcador exclusivo no DOCX."
+  ],
+  "estrutura": {
+    "texto": "Strings escapadas; quebras de linha preservadas. TEXTO mantém usos narrativos de códigos também estruturados.",
+    "tabela": "CABECALHO, LINHAS e RODAPE são listas de {CELULAS:[{TEXTO,COLSPAN}]}. COLUNAS é a soma dos spans em cada linha. Nenhum resultado é calculado.",
+    "figura": "Cada ocorrência tem FIGURA_NNN {URL,TITULO}; URL vazia mostra marcador de validação.",
+    "mesclagens": "Mesclagens horizontais preservadas. Rótulos de mesclagens verticais repetidos para permitir divisão entre páginas."
+  },
+  "imagens": {
+    "regra": "Somente os dois assets fixos aprovados são usados automaticamente. Todas as outras imagens são exemplos de conteúdo variável e devem ser fornecidas por URL.",
+    "camposComplementares": [
+      "IMAGEM_COMPLEMENTAR_001_URL"
+    ],
+    "identidadeVisual": "Logotipo e timbrado fixos sÃ£o usados automaticamente a partir de templates/_shared/assets.",
+    "assetsFixos": {
+      "letterhead": "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "logo": "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    },
+    "assetsPermitidos": [
+      "5c0409144749f2fcd70619ba919060e34f24cd79f68dd5e17c76f2bf50354676.png",
+      "706e769c92d7524c02b6625e3c1c4500ba60cf9a699df5620d1ebfbe39081002.png"
+    ]
+  }
+}

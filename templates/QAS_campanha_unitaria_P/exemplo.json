@@ -1,0 +1,1101 @@
+{
+  "QAG_17": "",
+  "QAG_31": "[QAG_31]",
+  "QAG_47": [
+    {
+      "INDICADOR": "[INDICADOR]",
+      "META": "[META]",
+      "RESULTADO": "[RESULTADO]"
+    }
+  ],
+  "PARECER": "",
+  "MEDIDAS": "",
+  "FOTO_SONDA": "",
+  "FOTO_AMOSTRADOR": "",
+  "FOTO_TRANSPORTE": "",
+  "TABELA_01": [
+    {
+      "PONTO": "PSFS01",
+      "UTM_E": "736157",
+      "UTM_N": "7095903",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS02",
+      "UTM_E": "735948",
+      "UTM_N": "7095918",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS03",
+      "UTM_E": "735948",
+      "UTM_N": "7095918",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS04",
+      "UTM_E": "735953",
+      "UTM_N": "7096195",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS05",
+      "UTM_E": "735787",
+      "UTM_N": "7095888",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS06",
+      "UTM_E": "735921",
+      "UTM_N": "7095564",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS07",
+      "UTM_E": "735534",
+      "UTM_N": "7095693",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS08",
+      "UTM_E": "735505",
+      "UTM_N": "7096303",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS09",
+      "UTM_E": "736017",
+      "UTM_N": "7096438",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS10",
+      "UTM_E": "736575",
+      "UTM_N": "7096904",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS11",
+      "UTM_E": "736176",
+      "UTM_N": "7098053",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS12",
+      "UTM_E": "737662",
+      "UTM_N": "7099434",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS13",
+      "UTM_E": "741383",
+      "UTM_N": "7101693",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS14",
+      "UTM_E": "741383",
+      "UTM_N": "7101693",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS15",
+      "UTM_E": "745988",
+      "UTM_N": "7105630",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS16",
+      "UTM_E": "748185",
+      "UTM_N": "7103826",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS17",
+      "UTM_E": "750193",
+      "UTM_N": "7101614",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS18",
+      "UTM_E": "756320",
+      "UTM_N": "7108490",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS19",
+      "UTM_E": "755678",
+      "UTM_N": "7107893",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS20",
+      "UTM_E": "756969",
+      "UTM_N": "7107890",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "PSFS21",
+      "UTM_E": "756323",
+      "UTM_N": "7107148",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "Controle Baia",
+      "UTM_E": "734924",
+      "UTM_N": "7098985",
+      "CLASSE": "Salina"
+    },
+    {
+      "PONTO": "Controle Descarte",
+      "UTM_E": "758260",
+      "UTM_N": "7107897",
+      "CLASSE": "Salina"
+    }
+  ],
+  "TABELA_02": [
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Temperatura da coluna d’água (°C)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Salinidade (‰)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "pH (unidade de pH)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Oxigênio dissolvido (OD) (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Turbidez (UNT)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Condutividade (µS/cm)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Sólidos dissolvidos totais (SDT) (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Nitrato (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Nitrito (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Nitrogênio amoniacal (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Fósforo total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Demanda bioquímica de oxigênio (mg/L O₂)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Demanda química de oxigênio (mg/L O₂)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Coliformes totais (NMP/100 mL)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Carbono orgânico total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Óleos e graxas totais (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Sólidos totais (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros físico-químicos e biológicos",
+      "PARAMETRO": "Fenóis totais (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Acenafteno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Acenaftileno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Antraceno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Benzo(a)antraceno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Benzo(a)pireno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Benzo(g,h,i)perileno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Benzo(k)fluoranteno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Benzo(b)fluoranteno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Criseno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Dibenzo(a,h)antraceno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Fenantreno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Fluoranteno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Fluoreno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Indeno(1,2,3-cd)pireno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Naftaleno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Parâmetros Orgânicos",
+      "PARAMETRO": "Pireno (µg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Alumínio total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Cobre total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Cromo total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Ferro total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Mercúrio total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    },
+    {
+      "GRUPO": "Metais pesados",
+      "PARAMETRO": "Níquel total (mg/L)",
+      "PERIODICIDADE": "Trimestral"
+    }
+  ],
+  "TABELA_04": [
+    {
+      "TIPO": "ICA",
+      "INDICADOR": "Concentrações/níveis de pH",
+      "UNIDADE": "-",
+      "META": "Atingir 100% de conformidade com os VMPs definidos na Resolução CONAMA nº 357/2005, por campanha."
+    },
+    {
+      "TIPO": "ICA",
+      "INDICADOR": "Concentrações/níveis de OD",
+      "UNIDADE": "mg/L",
+      "META": "Atingir 100% de conformidade com os VMPs definidos na Resolução CONAMA nº 357/2005, por campanha."
+    },
+    {
+      "TIPO": "IDG",
+      "INDICADOR": "Realização de coleta e análise de pontos amostrais",
+      "UNIDADE": "%",
+      "META": "Realização de coleta e análise em 100% dos pontos amostrais por campanha"
+    },
+    {
+      "TIPO": "IDG",
+      "INDICADOR": "Realização de campanhas amostrais",
+      "UNIDADE": "%",
+      "META": "Realização de coleta e análise em 100% dos pontos amostrais por campanha"
+    }
+  ],
+  "TABELA_06": [
+    {
+      "PARAMETRO": "pH",
+      "TOTAL": "7,282",
+      "SUPERFICIE": "7,241",
+      "MEIO": "6,978",
+      "FUNDO": "7,012"
+    },
+    {
+      "PARAMETRO": "OD (mg/L)",
+      "TOTAL": "5,719",
+      "SUPERFICIE": "5,554",
+      "MEIO": "5,829",
+      "FUNDO": "5,777"
+    },
+    {
+      "PARAMETRO": "DBO (mg/L O₂)",
+      "TOTAL": "5,668",
+      "SUPERFICIE": "5,548",
+      "MEIO": "5,931",
+      "FUNDO": "5,036"
+    }
+  ],
+  "LABORATORIO": {
+    "NOME_FANTASIA": "",
+    "RAZAO_SOCIAL": "LAB Teste LTDA",
+    "CNPJ": "13.172.609/0001-90",
+    "ENDERECO": "Florianópolis,  SC, Rua Douglas Seabra Levier, 397, 884040410",
+    "RESPONSAVEL": "João Leonardo\n480574",
+    "EMAIL": "ecprojetos16@gmail.com",
+    "CONTATO": "48 996237831"
+  },
+  "TABELA_05": {
+    "PARAMETROS": [
+      {
+        "NOME": "DBO",
+        "UNIDADE": "mg/L"
+      },
+      {
+        "NOME": "pH",
+        "UNIDADE": "-"
+      },
+      {
+        "NOME": "OD",
+        "UNIDADE": "mg/L"
+      }
+    ],
+    "LINHAS": [
+      {
+        "PONTO": "P01",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P01",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P01",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P02",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P02",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P02",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P03",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P03",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P03",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P04",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P04",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P04",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P05",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P05",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P05",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P06",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P06",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P06",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P07",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P07",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P07",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P08",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P08",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P08",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P09",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P09",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P09",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P10",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P10",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P10",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P11",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P11",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P11",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P12",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P12",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P12",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P13",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P13",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P13",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P14",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P14",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P14",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P15",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P15",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P15",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P16",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P16",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P16",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P17",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P17",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P17",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P18",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P18",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P18",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P19",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P19",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P19",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P20",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P20",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P20",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P21",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P21",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P21",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P22",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P22",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P22",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P23",
+        "PROFUNDIDADE": "Superfície",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P23",
+        "PROFUNDIDADE": "Meio",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "PONTO": "P23",
+        "PROFUNDIDADE": "Fundo",
+        "VALORES": [
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "GRAFICOS": [
+    {
+      "TITULO": "DBO — Fundo",
+      "URL": ""
+    },
+    {
+      "TITULO": "DBO — Meio",
+      "URL": ""
+    },
+    {
+      "TITULO": "DBO — Superfície",
+      "URL": ""
+    },
+    {
+      "TITULO": "OD — Fundo",
+      "URL": ""
+    },
+    {
+      "TITULO": "OD — Meio",
+      "URL": ""
+    },
+    {
+      "TITULO": "OD — Superfície",
+      "URL": ""
+    },
+    {
+      "TITULO": "pH — Fundo",
+      "URL": ""
+    },
+    {
+      "TITULO": "pH — Meio",
+      "URL": ""
+    },
+    {
+      "TITULO": "pH — Superfície",
+      "URL": ""
+    }
+  ],
+  "ANEXOS": [
+    {
+      "TITULO": "Laudo técnico de análise de água — FICTÍCIO",
+      "URL": "https://dbpfutkamvqjftxortmv.supabase.co/storage/v1/object/sign/laudos/laudos/Laudo_Tecnico_Analise_Agua_FICTICIO.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJsYXVkb3MvbGF1ZG9zL0xhdWRvX1RlY25pY29fQW5hbGlzZV9BZ3VhX0ZJQ1RJQ0lPLnBkZiIsImlhdCI6MTc0MzA5MzE3NSwiZXhwIjoxNzQzNjk3OTc1fQ.em9mn3lY3Npf3rIZWsxTsaOSjt7NKIBnbdgUKPwG2DY",
+      "TEXTO": "",
+      "IMAGEM": ""
+    }
+  ]
+}
